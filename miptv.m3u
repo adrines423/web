@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="LA 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png" group-title="General",LA 1
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TVE1HD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="LA 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA2.png" group-title="General",LA 2
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LA2)/index.m3u8
+
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="24 HORAS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24H.png" group-title="General",24 HORAS
+http://www.mitvpro.online:25461/mNYZbTmmuvPLTVt/zQDzzwuaybQky6S/127639
+
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ANTENA_3_HD.png" group-title="General",ANTENA 3
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ANTENA3HD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="CUATRO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CUATRO_HD.png" group-title="General",CUATRO
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CUATROHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELECINCO_HD.png" group-title="General",TELECINCO
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELE5HD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_SEXTA_HD.png" group-title="General",LA SEXTA
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LASEXTAHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HOLLYWOODHD.png" group-title="CINE2",HOLLYWOOD
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(HOLLYWOODHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="MEGA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEGA.png" group-title="General",MEGA
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MEGA)/index.m3u8
+
