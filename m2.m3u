@@ -27,7 +27,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MEGA)/index.m3u8
 #EXTINF:-1 tvg-ID="Ten" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" group-title="General",TEN
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TEN)/index.m3u8
 
-#EXTINF:-1 tvg-ID="TRECE" tvg-name="TRECE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TRECE.png" group-title="General",TRECE
+#EXTINF:-1 tvg-ID="TRECE" tvg-name="TRECE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="General",TRECE
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(13TV)/index.m3u8
 
 #EXTINF:-1 tvg-ID="DARK" tvg-name="DARK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="General",DARK
