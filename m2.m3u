@@ -69,9 +69,6 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BEMADHD)/index.m3u8
 #EXTINF:-1 tvg-ID="XTRM.es" tvg-name="XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="Cine",Xtrm
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(XTREMEHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="STAR Channel.es" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group.title="Cine",Star
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
-
 #EXTINF:-1 tvg-ID="TCM.es" tvg-name="TCM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="Cine",Tcm
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCMHD)/index.m3u8
 
@@ -221,6 +218,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANAL24HORAS)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Canal Extremadura TV.es" tvg-name="Canal Extremadura TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" group-title="Autonómicas",Extremadura
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANALEXTREMADURA)/index.m3u8
+
+#EXTINF:-1 tvg-ID="STAR Channel.es" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="Autonómicas",Star2
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
 
 
 
