@@ -75,17 +75,17 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
 #EXTINF:-1 tvg-ID="TCM.es" tvg-name="TCM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="CINE",Tcm
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCMHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="TCM+2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="CINE",Tcm+2
+#EXTINF:-1 tvg-ID="" tvg-name="TCM+2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="Cine",Tcm+2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCM2HD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Warner TV.es" tvg-name="WARNER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" group-title="CINE",Warner
+#EXTINF:-1 tvg-ID="Warner TV.es" tvg-name="WARNER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" group-title="Cine",Warner
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TNTHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Paramount Network.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="CINE",Paramount Channel
+#EXTINF:-1 tvg-ID="Paramount Network.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Cine",Paramount Channel
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(PARAMOUNTCHAN)/index.m3u8
 
-#EXTINF:-1 tvg-ID="BOM Cine.es" tvg-name="BOM Cine" tvg-logo="" group-title="CINE",Bom
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(XTREMEHD)/index.m3u8
+#EXTINF:-1 tvg-ID="BOM Cine.es" tvg-name="BOM Cine" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" group-title="Cine",BOM
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BOMCINE)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Cine Feel Good" tvg-name="FEEL GOOD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" group-title="CINE",Feel Good
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FEELGOOD)/index.m3u8
@@ -111,7 +111,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BOING)/index.m3u8
 #EXTINF:-1 tvg-ID="Clan TVE.es" tvg-name="CLAN TVE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CLAN_TVE.png" group-title="General",Clan
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CLANTV)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Dreamworks HD" tvg-name="DREAMWORKS" tvg-logo="http://vodkom.com:25461/Logo/NEW/DreamWorks.png" group-title="Ninos",Dreamworks
+#EXTINF:-1 tvg-ID="Dreamworks HD" tvg-name="DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png" group-title="Ninos",Dreamworks
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DREAMWORKS)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Junior.es" tvg-name="DISNEY JR" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png" group-title="Ninos",Disney Jr
