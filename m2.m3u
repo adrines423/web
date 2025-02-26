@@ -54,13 +54,13 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(SUNDANCESD)/index.m3u8
 #EXTINF:-1 tvg-ID="Calle 13.es" tvg-name="Calle 13 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png" group-title="Cine",Calle 13
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CALLE13)/index.m3u8
 
-#EXTINF:-1 tvg-ID="AMC.es" tvg-name="AMC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" group-title="Cine",AMC
+#EXTINF:-1 tvg-ID="AMC.es" tvg-name="AMC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" group-title="Cine",Amc
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(AMCHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="COSMO.es" tvg-name="COSMO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png" group-title="ESPANOL Cine",COSMO
+#EXTINF:-1 tvg-ID="COSMO.es" tvg-name="COSMO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png" group-title="Cine",Cosmo
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(COSMOHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Energy.es" tvg-name="ENERGY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ENERGY.png" group-title="Cine",ENERGY
+#EXTINF:-1 tvg-ID="Energy.es" tvg-name="ENERGY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ENERGY.png" group-title="Cine",Energy
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ENERGY)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Be Mad.es" tvg-name="BE MAD TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BE_MAD.png" group-title="Cine",Be Mad
@@ -78,7 +78,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCM2HD)/index.m3u8
 #EXTINF:-1 tvg-ID="Warner TV.es" tvg-name="WARNER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" group-title="Cine",Warner
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TNTHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Paramount Network.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Cine",Paramount Channel
+#EXTINF:-1 tvg-ID="Paramount Network.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Cine",Paramount
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(PARAMOUNTCHAN)/index.m3u8
 
 #EXTINF:-1 tvg-ID="BOM Cine.es" tvg-name="BOM Cine" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" group-title="Cine",BOM
@@ -138,7 +138,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT)/index.m3u8
 #EXTINF:-1 tvg-ID="Eurosport 2.es" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Deportes",Eurosport 2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT2)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Extreme Channel.es" tvg-name="Extreme Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Sports.png" group-title="Deportes",Extreme Channel
+#EXTINF:-1 tvg-ID="Extreme Channel.es" tvg-name="Extreme Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Sports.png" group-title="Deportes",Extreme
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EXTRSPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-ID="garajetv" tvg-name="Garaje Tv" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5617_2_102815.png.a4bc960c1f68bea89c178b3b071ccd06.png" group-title="Deportes",Garaje Tv
@@ -219,7 +219,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANAL24HORAS)/index.m3u8
 #EXTINF:-1 tvg-ID="Canal Extremadura TV.es" tvg-name="Canal Extremadura TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" group-title="Autonómicas",Extremadura
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANALEXTREMADURA)/index.m3u8
 
-#EXTINF:-1 tvg-ID="STAR Channel.es" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="Autonómicas",Star2
+#EXTINF:-1 tvg-ID="STAR Channel.es" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="Cine",Star
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
 
 
