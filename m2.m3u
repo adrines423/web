@@ -1,59 +1,119 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="La 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png" group-title="General",La 1
+#EXTINF:-1 tvg-ID="LA 1.es" tvg-name="LA 1.es" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png" group-title="General",La 1
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TVE1HD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="La 2" tvg-name="La 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_2.png" group-title="General",La 2
+#EXTINF:-1 tvg-ID="LA 2.es" tvg-name="LA 2.es" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_2.png" group-title="General",La 2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LA2)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ANTENA_3_HD.png" group-title="General",Antena 3
+#EXTINF:-1 tvg-ID="Antena 3.es" tvg-name="Antena 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ANTENA_3_HD.png" group-title="General",Antena 3
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ANTENA3HD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="General",Cuatro
+#EXTINF:-1 tvg-ID="Cuatro.es" tvg-name="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="General",Cuatro
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CUATROHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="Telecinco HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELECINCO_HD.png" group-title="General",Telecinco
+#EXTINF:-1 tvg-ID="Telecinco.es" tvg-name="Telecinco.es" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELECINCO_HD.png" group-title="General",Telecinco
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELE5HD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="La Sexta HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_SEXTA_HD.png" group-title="General",La Sexta
+#EXTINF:-1 tvg-ID="laSexta.es" tvg-name="La Sexta HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_SEXTA_HD.png" group-title="General",La Sexta
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LASEXTAHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Canal Hollywood HD" tvg-name="Canal Hollywood HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="Cine",Hollywood
+#EXTINF:-1 tvg-ID="Hollywood.es" tvg-name="Canal Hollywood HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="Cine",Hollywood
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(HOLLYWOODHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Mega" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="General",Mega
+#EXTINF:-1 tvg-ID="Mega.es" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="General",Mega
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MEGA)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Ten" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" group-title="General",Ten
+#EXTINF:-1 tvg-ID="TEN.es" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" group-title="General",Ten
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TEN)/index.m3u8
 
-#EXTINF:-1 tvg-ID="TRECE" tvg-name="TRECE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="General",Trece
+#EXTINF:-1 tvg-ID="TRECE.es" tvg-name="TRECE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="General",Trece
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(13TV)/index.m3u8
 
-#EXTINF:-1 tvg-ID="DARK" tvg-name="DARK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="Cine",Dark
+#EXTINF:-1 tvg-ID="Dark.es" tvg-name="DARK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="Cine",Dark
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANAL18)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Atreseries" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="Cine",Atreseries
+#EXTINF:-1 tvg-ID="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="Cine",Atreseries
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ATRESERIESHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="SELEKT" tvg-name="SELEKT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" group-title="Cine",Selekt
+#EXTINF:-1 tvg-ID="Amc Selekt.es" tvg-name="SELEKT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" group-title="Cine",Selekt
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(SELEKT)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="Cine",Comedy
+#EXTINF:-1 tvg-ID="Comedy Central HD.es" tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="Cine",Comedy
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(PARAMOUNTCOMEDY)/index.m3u8
 
-#EXTINF:-1 tvg-ID="SyFy HD" tvg-name="SyFy HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png" group-title="Cine",Syfy
+#EXTINF:-1 tvg-ID="Syfy.es" tvg-name="SyFy HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png" group-title="Cine",Syfy
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(SYFY)/index.m3u8
 
 #EXTINF:-1 tvg-ID="acontra+" tvg-name="acontra+" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/acontra%2B.png" group-title="Cine",Acontra+
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CPESTRENOSHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Sundance TV" tvg-name="Sundance TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SUNDANCE_TV.png" group-title="Cine",Sundance
+#EXTINF:-1 tvg-ID="Sundance TV.es" tvg-name="Sundance TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SUNDANCE_TV.png" group-title="Cine",Sundance
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(SUNDANCESD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Calle 13 HD" tvg-name="Calle 13 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png" group-title="Cine",Calle 13
+#EXTINF:-1 tvg-ID="Calle 13.es" tvg-name="Calle 13 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png" group-title="Cine",Calle 13
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CALLE13)/index.m3u8
 
+#EXTINF:-1 tvg-ID="AMC.es" tvg-name="AMC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" group-title="Cine",AMC
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(AMCHD)/index.m3u8
 
+#EXTINF:-1 tvg-ID="COSMO.es" tvg-name="COSMO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png" group-title="ESPANOL Cine",COSMO
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(COSMOHD)/index.m3u8
 
+#EXTINF:-1 tvg-ID="Energy.es" tvg-name="ENERGY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ENERGY.png" group-title="Cine",ENERGY
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ENERGY)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Be Mad.es" tvg-name="BE MAD TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BE_MAD.png" group-title="Cine",Be Mad
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BEMADHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="XTRM.es" tvg-name="XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="Cine",Xtrm
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(XTREMEHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="STAR Channel.es" tvg-name="STAR" tvg-logo="" group.title="CINE",Star
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="TCM.es" tvg-name="TCM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="CINE",Tcm
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCMHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TCM+2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="CINE",Tcm+2
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCM2HD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Warner TV.es" tvg-name="WARNER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" group-title="CINE",Warner
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TNTHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Paramount Network.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="CINE",Paramount Channel
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(PARAMOUNTCHAN)/index.m3u8
+
+#EXTINF:-1 tvg-ID="BOM Cine.es" tvg-name="BOM Cine" tvg-logo="" group-title="CINE",Bom
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(XTREMEHD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Cine Feel Good" tvg-name="FEEL GOOD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" group-title="CINE",Feel Good
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FEELGOOD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Cines Verdi TV" tvg-name="VERDI TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" group-title="CINE",Verdi TV
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(VERDI)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Somos.es" tvg-name="SOMOS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="CINE",Somos
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(SOMOS)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Squirrel TV" tvg-name="Squirrel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" group-title="Cine",Squirrel
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DISNEY)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Sol Música" tvg-name="SOL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png" group-title="Musica",Sol
+https://amc-sm-orange.otteravision.com/amc/sm/sm.m3u8
+
+#EXTINF:-1 tvg-ID="TRACE Latina" tvg-name="TRACE LATINA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Latina.png" group-title="Musica",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-orangees/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="Boing.es" tvg-name="BOING" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BOING.png" group-title="Ninos",Boing
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BOING)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Clan TVE.es" tvg-name="CLAN TVE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CLAN_TVE.png" group-title="General",Clan
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CLANTV)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Dreamworks HD" tvg-name="DREAMWORKS" tvg-logo="http://vodkom.com:25461/Logo/NEW/DreamWorks.png" group-title="Ninos",Dreamworks
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DREAMWORKS)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Disney Junior.es" tvg-name="DISNEY JR" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png" group-title="Ninos",Disney Jr
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DISNEYJUNIOR)/index.m3u8
 
