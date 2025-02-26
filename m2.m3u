@@ -69,10 +69,10 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BEMADHD)/index.m3u8
 #EXTINF:-1 tvg-ID="XTRM.es" tvg-name="XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="Cine",Xtrm
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(XTREMEHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="STAR Channel.es" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group.title="CINE",Star
+#EXTINF:-1 tvg-ID="STAR Channel.es" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group.title="Cine",Star
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="TCM.es" tvg-name="TCM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="CINE",Tcm
+#EXTINF:-1 tvg-ID="TCM.es" tvg-name="TCM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="Cine",Tcm
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCMHD)/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="TCM+2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="Cine",Tcm+2
@@ -87,13 +87,13 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(PARAMOUNTCHAN)/index.m3u8
 #EXTINF:-1 tvg-ID="BOM Cine.es" tvg-name="BOM Cine" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" group-title="Cine",BOM
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BOMCINE)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Cine Feel Good" tvg-name="FEEL GOOD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" group-title="CINE",Feel Good
+#EXTINF:-1 tvg-ID="Cine Feel Good" tvg-name="FEEL GOOD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" group-title="Cine",Feel Good
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FEELGOOD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Cines Verdi TV" tvg-name="VERDI TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" group-title="CINE",Verdi TV
+#EXTINF:-1 tvg-ID="Cines Verdi TV" tvg-name="VERDI TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" group-title="Cine",Verdi TV
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(VERDI)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Somos.es" tvg-name="SOMOS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="CINE",Somos
+#EXTINF:-1 tvg-ID="Somos.es" tvg-name="SOMOS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="Cine",Somos
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(SOMOS)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Squirrel TV" tvg-name="Squirrel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" group-title="Cine",Squirrel
@@ -108,7 +108,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-orangees/
 #EXTINF:-1 tvg-ID="Boing.es" tvg-name="BOING" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BOING.png" group-title="Ninos",Boing
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BOING)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Clan TVE.es" tvg-name="CLAN TVE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CLAN_TVE.png" group-title="General",Clan
+#EXTINF:-1 tvg-ID="Clan TVE.es" tvg-name="CLAN TVE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CLAN_TVE.png" group-title="Ninos",Clan
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CLANTV)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Dreamworks HD" tvg-name="DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png" group-title="Ninos",Dreamworks
@@ -168,10 +168,10 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ODISEAHD)/index.m3u8
 #EXTINF:-1 tvg-ID="Discovery Channel.es" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="Documentales",Discovery
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DISCOVERY)/index.m3u8
 
-#EXTINF:-1 tvg-ID="National Geographic.es" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="Documentales",National Geographic
+#EXTINF:-1 tvg-ID="National Geographic.es" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="Documentales",Nat. Geographic
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NATGEOHD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="National Geographic Wild HD.es" tvg-name="National Geographic Wild" tvg-logo="" group-title="Documentales",National Geographic Wild
+#EXTINF:-1 tvg-ID="National Geographic Wild HD.es" tvg-name="National Geographic Wild" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="Documentales",Nat. Geo. Wild
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NATGEOWILDSD)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Canal HISTORIA.es" tvg-name="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="Documentales",Historia
@@ -180,7 +180,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(HISTORIA)/index.m3u8
 #EXTINF:-1 tvg-ID="Canal Cocina.es" tvg-name="Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="Documentales",Cocina
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(COCINASD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Decasa.es" tvg-name="Decasa" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" group-title="Documentales",Decasa.es
+#EXTINF:-1 tvg-ID="Decasa.es" tvg-name="Decasa" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" group-title="Documentales",Decasa
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DCASASD)/index.m3u8
 
 #EXTINF:-1 tvg-ID="DKISS.es" tvg-name="Dkiss" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" group-title="Documentales",Dkiss
@@ -191,9 +191,6 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DISCOVERYMAX)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Escapa TV" tvg-name="Escapa TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Escapa%20TV.png" group-title="Documentales",Escapa TV
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ESCAPA)/index.m3u8
-
-#EXTINF:-1 tvg-ID="Odisea.es" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="Documentales",Odisea
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ODISEAHD)/index.m3u8
 
 #EXTINF:-1 tvg-ID="HIT TV" tvg-name="Hit Tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT%20TV.png" group-title="Musica",Hit Tv
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(HITTV)/index.m3u8
