@@ -216,13 +216,27 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MTVMUSIC)/index.m3u8
 #EXTINF:-1 tvg-ID="Canal 24 horas.es" tvg-name="Canal 24 horas" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="General",24 horas
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANAL24HORAS)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Canal Extremadura TV.es" tvg-name="Canal Extremadura TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" group-title="Autonómicas",Extremadura
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANALEXTREMADURA)/index.m3u8
-
 #EXTINF:-1 tvg-ID="STAR Channel.es" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="Cine",Star
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
 
+#EXTINF:-1 tvg-ID="Canal Sur Andalucía.es" tvg-name="Andalucia Tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="Autonómicas",Andalucia Tv
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
+#EXTINF:-1 tvg-ID="Canal Extremadura TV.es" tvg-name="Canal Extremadura TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" group-title="Autonómicas",Extremadura
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANALEXTREMADURA)/index.m3u8
 
+#EXTINF:-1 tvg-ID="Telemadrid.es" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" group-title="Autonómicas",Telemadrid
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELEMADRID)/index.m3u8
 
+#EXTINF:-1 tvg-ID="La Otra.es" tvg-name="La Otra" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png" group-title="Autonómicas",La Otra
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LAOTRA)/index.m3u8
+
+#EXTINF:-1 tvg-ID="TPA.es" tvg-name="TPA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" group-title="Autonómicas",Asturias
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TPA)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Aquí no hay quién viva" tvg-name="Aquí no hay quién viva" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" group-title="Cine",Aqui no hay quien viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+
+#EXTINF:-1 tvg-ID="Cuéntame" tvg-name="Cuéntame" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" group-title="Cine",Cuéntame
+https://ztnr.rtve.es/ztnr/6909843.m3u8
 
