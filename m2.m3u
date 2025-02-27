@@ -246,7 +246,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u
 #EXTINF:-1 tvg-ID="Divinity.es" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="Cine",Divinity
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DIVINITY)/index.m3u8
 
-
 #EXTINF:-1 tvg-ID="FDF Telecinco.es" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="Cine",Fdf
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FDF)/index.m3u8
 
@@ -256,10 +255,8 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NOVA)/index.m3u8
 #EXTINF:-1 tvg-ID="Neox.es" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(Neox)/index.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="|CN| 10 Lives" tvg-logo="https://image.tmdb.org/t/p/w500/r2D7MkNocsqKOqGnnGEQThU26JS.jpg" group-title="|CN| CHINA",|CN| 10 Lives
+http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156398.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="|CN| 10 Lives" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="|CN| CHINA",Llenos de Gracia
 https://download938.mediafire.com/ams2hxx3yi4gJUdtZYiCfMtYLl7OONXeQYN9KbsYbJxwWhyqczRV4JUCmttDVaRTEvSfd5FSYJcFzOqN--cDQU1PrloJyoOaU3jDRoUKNYEyp7Pqo-useKdo9JzA1r4A959fYmQBCKj1t6xma_zHx4TxVh8PGXuT9GduXDDlqTJMKg/qvrzkgucal0x882/LlenGrac.mp4
