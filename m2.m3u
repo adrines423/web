@@ -246,4 +246,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|CN| 10 Lives" tvg-logo="https://image.tmdb.org/t/p/w500/r2D7MkNocsqKOqGnnGEQThU26JS.jpg" group-title="|CN| CHINA",|CN| 10 Lives
 http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156398.mkv
 
+#EXTINF:-1 tvg-ID="Cuéndffdftame" tvg-name="Cuéndgdtame" tvg-logo="https://image.tmdb.org/t/p/w500/r2D7MkNocsqKOqGnnGEQThU26JS.jpg" group-title="Cine",Cuéntamedgsd
+https://ztnr.rtve.es/ztnr/690ggde49843.m3u8
+
 
