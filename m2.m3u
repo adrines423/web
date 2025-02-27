@@ -255,17 +255,14 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NOVA)/index.m3u8
 #EXTINF:-1 tvg-ID="Neox.es" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(Neox)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="|CN| 10 Lives" tvg-logo="https://image.tmdb.org/t/p/w500/r2D7MkNocsqKOqGnnGEQThU26JS.jpg" group-title="|CN| CHINA",|CN| 10 Lives
-http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="|CN| 14 Blades" tvg-logo="https://image.tmdb.org/t/p/w500/y1VWOEN0UXFiSgCNvWO3lQuzLx.jpg" group-title="|CN| CHINA",|CN| 14 Blades
-http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156399.mkv
-#EXTINF:-1 tvg-id="" tvg-name="|CN| 18 Grams of Love" tvg-logo="https://image.tmdb.org/t/p/w500/21hUS3wuTOJs7kGuUnn49vPevl6.jpg" group-title="|CN| CHINA",|CN| 18 Grams of Love
-http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156400.mkv
-#EXTINF:-1 tvg-id="" tvg-name="|CN| 2046" tvg-logo="https://image.tmdb.org/t/p/w500/jIN65qw0Giplo4CshzMrxz204Wn.jpg" group-title="|CN| CHINA",|CN| 2046
-http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156401.mkv
-#EXTINF:-1 tvg-id="" tvg-name="|CN| 24 City" tvg-logo="https://image.tmdb.org/t/p/w500/aJ81fiN3Eix6sZABc72QVdfr4h7.jpg" group-title="|CN| CHINA",|CN| 24 City
-http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="|CN| 7-Man Army" tvg-logo="https://image.tmdb.org/t/p/w500/14m34nSW25YuIj1vKDghBGMm3Fi.jpg" group-title="|CN| CHINA",|CN| 7-Man Army
-http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vacaciones de Verano" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/14SsotUuzTYKmPRxvIoFgHzwegf.jpg" group-title="|CN| CHINA",Vacaciones de Verano
+#EXTINF:-1 tvg-ID="Neox.es" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(Neox)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
+https://download938.mediafire.com/ams2hxx3yi4gJUdtZYiCfMtYLl7OONXeQYN9KbsYbJxwWhyqczRV4JUCmttDVaRTEvSfd5FSYJcFzOqN--cDQU1PrloJyoOaU3jDRoUKNYEyp7Pqo-useKdo9JzA1r4A959fYmQBCKj1t6xma_zHx4TxVh8PGXuT9GduXDDlqTJMKg/qvrzkgucal0x882/LlenGrac.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vacaciones de Verano" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/14SsotUuzTYKmPRxvIoFgHzwegf.jpg" group-title="Películas",Vacaciones de Verano
 https://download1591.mediafire.com/y1tbht6jigjgTU_90VMIU3O-sNRrqKMOLYAEFL6aYTt4vCzaRSXpzJSGkJZOzUTk9eX7Uk7AclqYbFBZary5DQ8cCqzyMzCjFpmGsEhzusOT31rJ0PvKBACCB8RUoB_T96ZHosFUhQI_X2MFLGcJ3Et9RO-8F7RloANUR5iG1eURsw/bw551huh2enrrjb/VacVer.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mambo del señorito" tvg-logo="https://i.ytimg.com/vi/Dk0lygG3KiQ/mqdefault.jpg" group-title="Películas",Mambo del señorito
+https://download943.mediafire.com/299afv74flwgWgBdy2DCDqj_6yVi_YTGuuu7bB6-T8St1kp3TUJn_vM0_fCE7u2UUGFUbeFiDrimLnEtuBKw1YTUBt57G2Ibmyw7vGI5sD-6SwRJJoXzWPbFtlPpAsISiobj0JAi9F9x7AK_fxWEvNlBevN9gXTYTP0b2T8jY4aGmQ/3mhsyam76bgppye/DoraMamb.mp4
