@@ -243,3 +243,7 @@ https://ztnr.rtve.es/ztnr/6909843.m3u8
 #EXTINF:-1 tvg-ID="Real Madrid TV.es" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
 https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f96f8d43-8767-11ef-93db-0e2010b02b9e
 
+#EXTINF:-1 tvg-id="" tvg-name="|CN| 10 Lives" tvg-logo="https://image.tmdb.org/t/p/w500/r2D7MkNocsqKOqGnnGEQThU26JS.jpg" group-title="|CN| CHINA",|CN| 10 Lives
+http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156398.mkv
+
+
