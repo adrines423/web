@@ -57,6 +57,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CALLE13)/index.m3u8
 #EXTINF:-1 tvg-ID="AMC.es" tvg-name="AMC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" group-title="Cine",Amc
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(AMCHD)/index.m3u8
 
+#EXTINF:-1 tvg-ID="Amc Español" tvg-name="AMC Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="Cine",Amc Español
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="COSMO.es" tvg-name="COSMO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png" group-title="Cine",Cosmo
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(COSMOHD)/index.m3u8
 
@@ -233,6 +236,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LAOTRA)/index.m3u8
 
 #EXTINF:-1 tvg-ID="TPA.es" tvg-name="TPA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" group-title="Autonómicas",Asturias
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TPA)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Onda Cádiz TV" tvg-name="Onda Cádiz" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" group-title="Autonómicas",Onda Cádiz
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Aquí no hay quién viva" tvg-name="Aquí no hay quién viva" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" group-title="Cine",Aqui no hay quien viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
