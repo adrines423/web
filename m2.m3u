@@ -257,9 +257,21 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(Neox)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|CN| 10 Lives" tvg-logo="https://image.tmdb.org/t/p/w500/r2D7MkNocsqKOqGnnGEQThU26JS.jpg" group-title="|CN| CHINA",|CN| 10 Lives
 http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156398.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="|CN| 14 Blades" tvg-logo="https://image.tmdb.org/t/p/w500/y1VWOEN0UXFiSgCNvWO3lQuzLx.jpg" group-title="|CN| CHINA",|CN| 14 Blades
 http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156399.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="|CN| 18 Grams of Love" tvg-logo="https://image.tmdb.org/t/p/w500/21hUS3wuTOJs7kGuUnn49vPevl6.jpg" group-title="|CN| CHINA",|CN| 18 Grams of Love
+http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156400.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="|CN| 2046" tvg-logo="https://image.tmdb.org/t/p/w500/jIN65qw0Giplo4CshzMrxz204Wn.jpg" group-title="|CN| CHINA",|CN| 2046
+http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156401.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="|CN| 24 City" tvg-logo="https://image.tmdb.org/t/p/w500/aJ81fiN3Eix6sZABc72QVdfr4h7.jpg" group-title="|CN| CHINA",|CN| 24 City
+http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156402.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="|CN| 7-Man Army" tvg-logo="https://image.tmdb.org/t/p/w500/14m34nSW25YuIj1vKDghBGMm3Fi.jpg" group-title="|CN| CHINA",|CN| 7-Man Army
+http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156403.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="|CN| A Better Tomorrow" tvg-logo="https://image.tmdb.org/t/p/w500/3LaUyoLADXqndKaX7ZjGYrWCedt.jpg" group-title="|CN| CHINA",|CN| A Better Tomorrow
+http://tvsoso.ottc.pro:80/movie/8MTQGHDMIB/GTNI9XYSYD/1156404.mkv
