@@ -78,7 +78,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCMHD)/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TCM+2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="Cine",Tcm+2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TCM2HD)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Warner TV HD" tvg-name="WARNER" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" group-title="Cine",Warner
+#EXTINF:-1 tvg-ID="Warner TV HD" tvg-name="WARNER" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="Cine",Warner
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TNTHD)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Paramount Network" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Cine",Paramount
@@ -257,7 +257,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FDF)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Nova" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="Cine",Nova
 
-#EXTINF:-1 tvg-ID="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox
+#EXTINF:-1 tvg-ID="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NEOX)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
