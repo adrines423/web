@@ -290,6 +290,9 @@ http://38.180.133.31:8000/play/a0wa?e=.m3u8
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Mexico" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Mexico
 http://181.78.82.6:46090/play/a00q?e=.m3u8
 
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Premium Es" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Premium Es
+http://190.123.90.146:8000/play/a00f?e=.m3u8
+
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Premium Co" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Premium Co
 http://45.184.87.142:8000/play/a045?e=.m3u8
 
