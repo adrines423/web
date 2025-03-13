@@ -260,19 +260,19 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FDF)/index.m3u8
 #EXTINF:-1 tvg-ID="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NEOX)/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn v1
-http://45.71.254.1:8000/play/a038/index.m3u8
-
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn v2
-http://45.71.254.1:8000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn v3
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN v3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn v3
 http://168.227.131.66:8000/play/tfc0/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Esp
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN v2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn v2
+http://45.71.254.1:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN v1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn v1
+http://45.71.254.1:8000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN Esp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Esp
 http://191.52.214.5:8000/play/a02s?e=.m3u8
 
-#EXTINF:-1 tvg-ID="TUDN" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" group-title="Espn",Tudn Arg
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Arg" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Arg
 http://181.78.106.127:9000/play/ca033?e=.m3u8
 
 
