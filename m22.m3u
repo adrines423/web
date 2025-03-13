@@ -272,7 +272,7 @@ http://168.227.131.66:8000/play/tfc0/index.m3u8
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Esp
 http://191.52.214.5:8000/play/a02s?e=.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Arg
+#EXTINF:-1 tvg-ID="TUDN" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" group-title="Espn",Tudn Arg
 http://181.78.106.127:9000/play/ca033?e=.m3u8
 
 
