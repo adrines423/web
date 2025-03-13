@@ -260,9 +260,15 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FDF)/index.m3u8
 #EXTINF:-1 tvg-ID="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NEOX)/index.m3u8
 
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN" tvg-logo="" group-title="Espn",Espn
+http://191.52.214.5:8000/play/a02s?e=.m3u8	
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
 https://download938.mediafire.com/qho0w1tcyodg8ijB38WZhsy4jjNJrtoPnSsm5yoxQgBDvjsKgQ1_fJ7Lout_p05osvkH96ADxz2X-3kPlaKoYEIOQ7fpeEkbQArK66-sPeSUpv95iixM4ZOyVmaM2yklq39KfjP49blGJlH7h76PfN3E71a6h0jhe6LpdvvV7gs3yw/qvrzkgucal0x882/LlenGrac.mp4
-
+g
 #EXTINF:-1 tvg-id="" tvg-name="Vacaciones de Verano" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/14SsotUuzTYKmPRxvIoFgHzwegf.jpg" group-title="Películas",Vacac. Verano
 https://download1591.mediafire.com/34nrogsjlssgGAka0AzVLsO5DJtI1MQ5m6rImU_kdtf-iTa-eck1OG6Ow88og1e55RvDAxWi7SQeDPGqQwJCsRkk08iCxLkYER5GTeuZfC989po_tpeojADJwQcISCUaFOUp1eBFuEabptbTmUCgHjnoLjVg2kyPtjTAxnyMkKHzqA/bw551huh2enrrjb/VacVer.mp4
 
