@@ -39,6 +39,13 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ATRESERIESHD)/index.m3u8
 #EXTINF:-1 tvg-ID="SELEKT" tvg-name="SELEKT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" group-title="Cine",Selekt
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(SELEKT)/index.m3u8
 
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="" group-title="Cine",AXN
+https://cache2.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
+
+#EXTINF:-1 tvg-ID="AXN2" tvg-name="AXN2" tvg-logo="" group-title="Cine",AXN2
+https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
+
+
 #EXTINF:-1 tvg-ID="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="Cine",Comedy
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(PARAMOUNTCOMEDY)/index.m3u8
 
