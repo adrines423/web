@@ -272,6 +272,9 @@ http://168.227.131.66:8000/play/tfc0/index.m3u8
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",La Liga - Wix
+http://45.68.35.218:4001/play/a01s/index.m3u8
+
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn SD
 http://45.71.254.1:8000/play/a038/index.m3u8
 
@@ -292,6 +295,16 @@ http://190.123.90.146:8000/play/a00f?e=.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Premium Arg FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Premium Arg HD
 http://190.102.246.93:9005/play/a00x
+
+#EXTINF:-1 tvg-ID="TUDN (México)" tvg-name="Tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="Espn",Tudn
+http://45.68.35.218:4001/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/py5ixp7QP2wNCtvgYsdKTZXj/fc6c95b729a01bdff72fb25a7eb3b55e/tigosports-brnd.png" group-title="Espn",Tigo Sports
+http://45.68.35.218:4001/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports 2" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/py5ixp7QP2wNCtvgYsdKTZXj/fc6c95b729a01bdff72fb25a7eb3b55e/tigosports-brnd.png" group-title="Espn",Tigo Sports 2
+http://45.68.35.218:4001/play/a01t/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
 https://download938.mediafire.com/bhj9qp1v68iggMnq8W_4ATYkHcj9pAIWA5xj9KnW779YG2Xy4qnutgz1OhhfXJ6LE0lcPL12SLN8hW9l9Poe4qCd6tNoIY7YfGtvBc4jgQmUNuOM1yUud1h7SOt9nJnOLOKZFMAmZZJoLYJqUeUxD18XVYuWWoV7WB--RVKgei3J4w/qvrzkgucal0x882/LlenGrac.mp4
