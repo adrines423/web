@@ -275,6 +275,18 @@ http://45.71.254.1:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",La Liga - Wix
 http://45.68.35.218:4001/play/a01s/index.m3u8
 
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes FHD
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://w7.pngwing.com/pngs/190/341/png-transparent-sky-sports-news-television-channel-sky-sports-television-text-trademark.png" group-title="Espn",Sky Sports
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-ID="Sky Sport Premier League" tvg-name="Sky Sports Premier" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Espn",Sky Sports Premier
+http://190.92.10.66:4000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga" tvg-name="Sky Sport Bundesliga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga.png" group-title="Espn",Sky Sport Bundesliga
+http://190.92.10.66:4000/play/a006/index.m3u8
+
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn SD
 http://45.71.254.1:8000/play/a038/index.m3u8
 
