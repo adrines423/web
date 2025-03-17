@@ -290,16 +290,28 @@ http://8ckonffylawbxdtnigpzvm.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="Espn",M+ Liga Campeones 3
 http://2t8yivbwlzquabp14jowxv.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=440&t=live&f=ts
 
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="Uefa League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" group-title="Espn",Uefa League
+http://ofpsnh6meojrgrfwjnmzcx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=28334&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Espn",M+ Vamos
+http://vbiiwnmou8m4ghrpez3o1a.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=379&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Espn",Movistar Plus
+http://qcvkegyaobuiovttdji3zx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26663&t=live&f=ts
+
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Espn",Dazn LaLiga
 http://mba4u8xhs1frw3fdmnpobj.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27160&t=live&f=ts
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga 2 HD" tvg-name="Dazn LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="Espn",Dazn LaLiga 2
 http://dqviqmpuhpamr47czyxahn.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27161&t=live&f=ts
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmsDlxsGxBnEt5gRcFPhqYcwJf-u2M3DhR-ch36NizL0rVkUVo6vjcuj3u2qv7XVwFlo&usqp=CAU" group-title="Espn",La Liga - Wix
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://e7.pngegg.com/pngimages/134/761/png-clipart-wix-orange-logo-tech-companies.png" group-title="Espn",La Liga - Wix
 http://45.68.35.218:4001/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes FHD
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
+http://uyn5uoitzj27lml1kbkdyd.lista.isferorfra.me/live/sun.php?z=111&u=eUOvyYW0m8&s=1059401102&id=79786&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes (Op.2)
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://w7.pngwing.com/pngs/190/341/png-transparent-sky-sports-news-television-channel-sky-sports-television-text-trademark.png" group-title="Espn",Sky Sports
@@ -348,11 +360,13 @@ http://190.102.246.93:9005/play/a00x
 http://45.68.35.218:4001/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/py5ixp7QP2wNCtvgYsdKTZXj/fc6c95b729a01bdff72fb25a7eb3b55e/tigosports-brnd.png" group-title="Espn",Tigo Sports
-http://45.68.35.218:4001/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports 2" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/py5ixp7QP2wNCtvgYsdKTZXj/fc6c95b729a01bdff72fb25a7eb3b55e/tigosports-brnd.png" group-title="Espn",Tigo Sports 2
 http://45.68.35.218:4001/play/a01t/index.m3u8
 
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro
+http://j23f8ypjhiolduu1ncsvge.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro 2
+http://soxk76lvtfakfjbpgg0awu.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
 https://download938.mediafire.com/bhj9qp1v68iggMnq8W_4ATYkHcj9pAIWA5xj9KnW779YG2Xy4qnutgz1OhhfXJ6LE0lcPL12SLN8hW9l9Poe4qCd6tNoIY7YfGtvBc4jgQmUNuOM1yUud1h7SOt9nJnOLOKZFMAmZZJoLYJqUeUxD18XVYuWWoV7WB--RVKgei3J4w/qvrzkgucal0x882/LlenGrac.mp4
