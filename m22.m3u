@@ -278,12 +278,23 @@ http://lixazx13ifhs6cevmprqu7.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m
 #EXTINF:-1 tvg-ID="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="Espn",M+ La Liga 2
 http://blahnxpmhvgo9n14ejsw5j.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26045&t=live&f=ts
 
+#EXTINF:-1 tvg-ID="M+ LaLiga TV 3 HD" tvg-name="M+ LaLiga 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="Espn",M+ La Liga 3
+http://vp2msy4xdhluu6cfn3jctm.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=28987&t=live&f=ts
+
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Campeones
 http://dlgkyhqvuzi1fjis5mlyo2.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=445&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga Campeones 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Espn",M+ Liga Campeones 2
+http://8ckonffylawbxdtnigpzvm.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=439&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="Espn",M+ Liga Campeones 3
+http://2t8yivbwlzquabp14jowxv.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=440&t=live&f=ts
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Espn",Dazn LaLiga
 http://mba4u8xhs1frw3fdmnpobj.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27160&t=live&f=ts
 
+#EXTINF:-1 tvg-ID="DAZN LaLiga 2 HD" tvg-name="Dazn LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="Espn",Dazn LaLiga 2
+http://dqviqmpuhpamr47czyxahn.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27161&t=live&f=ts
 
 #EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmsDlxsGxBnEt5gRcFPhqYcwJf-u2M3DhR-ch36NizL0rVkUVo6vjcuj3u2qv7XVwFlo&usqp=CAU" group-title="Espn",La Liga - Wix
 http://45.68.35.218:4001/play/a01s/index.m3u8
@@ -294,13 +305,16 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://w7.pngwing.com/pngs/190/341/png-transparent-sky-sports-news-television-channel-sky-sports-television-text-trademark.png" group-title="Espn",Sky Sports
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Espn",Dazn F1
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1",Dazn F1
+http://khwyqmio7n3xxwzymv46zc.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26626&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1",Dazn F1 (Op.2)
 https://tv1.strm2234.xyz/f1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Espn",Dazn F1
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1",Dazn F1 (Op.3)
 https://tv1.strm2234.xyz:443/f1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Espn",Dazn F1
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.4)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1",Dazn F1 (Op.4)
 https://tv1.strm2234.xyz/f1/index.m3u8
 
 #EXTINF:-1 tvg-ID="Sky Sport Premier League" tvg-name="Sky Sports Premier" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Espn",Sky Sports Premier
