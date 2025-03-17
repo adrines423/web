@@ -141,6 +141,21 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(GOLTV)/index.m3u8
 #EXTINF:-1 tvg-ID="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="Deportes",Teledeporte
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELEDEPORTEHD)/index.m3u8
 
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1
+http://khwyqmio7n3xxwzymv46zc.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26626&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.2)
+https://tv1.strm2234.xyz/f1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.3)
+https://tv1.strm2234.xyz:443/f1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.4)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.4)
+https://tv1.strm2234.xyz/f1/index.m3u8
+
+#EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
+https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f96f8d43-8767-11ef-93db-0e2010b02b9e
+
 #EXTINF:-1 tvg-ID="Eurosport 1 HD" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Deportes",Eurosport 1
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT)/index.m3u8
 
@@ -155,6 +170,12 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(GARAGETV)/index.m3u8
 
 #EXTINF:-1 tvg-ID="UBEAT" tvg-name="Ubeat" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="Deportes",Ubeat
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(UBEAT)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro
+http://j23f8ypjhiolduu1ncsvge.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro (Op.2)
+http://soxk76lvtfakfjbpgg0awu.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
 
 #EXTINF:-1 tvg-ID="Iberalia TV" tvg-name="Iberalia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="Documentales",Iberalia
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(IBERALIA)/index.m3u8
@@ -252,9 +273,6 @@ https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425
 #EXTINF:-1 tvg-ID="Cuéntame" tvg-name="Cuéntame" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" group-title="Cine",Cuéntame
 https://ztnr.rtve.es/ztnr/6909843.m3u8
 
-#EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
-https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f96f8d43-8767-11ef-93db-0e2010b02b9e
-
 #EXTINF:-1 tvg-ID="Divinity" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="Cine",Divinity
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DIVINITY)/index.m3u8
 
@@ -317,18 +335,6 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://w7.pngwing.com/pngs/190/341/png-transparent-sky-sports-news-television-channel-sky-sports-television-text-trademark.png" group-title="Espn",Sky Sports
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1",Dazn F1
-http://khwyqmio7n3xxwzymv46zc.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26626&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1",Dazn F1 (Op.2)
-https://tv1.strm2234.xyz/f1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1",Dazn F1 (Op.3)
-https://tv1.strm2234.xyz:443/f1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.4)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1",Dazn F1 (Op.4)
-https://tv1.strm2234.xyz/f1/index.m3u8
-
 #EXTINF:-1 tvg-ID="Sky Sport Premier League" tvg-name="Sky Sports Premier" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Espn",Sky Sports Premier
 http://190.92.10.66:4000/play/a004/index.m3u8
 
@@ -361,12 +367,6 @@ http://45.68.35.218:4001/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/py5ixp7QP2wNCtvgYsdKTZXj/fc6c95b729a01bdff72fb25a7eb3b55e/tigosports-brnd.png" group-title="Espn",Tigo Sports
 http://45.68.35.218:4001/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro
-http://j23f8ypjhiolduu1ncsvge.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro (Op.2)
-http://soxk76lvtfakfjbpgg0awu.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
 https://download938.mediafire.com/bhj9qp1v68iggMnq8W_4ATYkHcj9pAIWA5xj9KnW779YG2Xy4qnutgz1OhhfXJ6LE0lcPL12SLN8hW9l9Poe4qCd6tNoIY7YfGtvBc4jgQmUNuOM1yUud1h7SOt9nJnOLOKZFMAmZZJoLYJqUeUxD18XVYuWWoV7WB--RVKgei3J4w/qvrzkgucal0x882/LlenGrac.mp4
