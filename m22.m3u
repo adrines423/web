@@ -272,7 +272,20 @@ http://168.227.131.66:8000/play/tfc0/index.m3u8
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",La Liga - Wix
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="M+ LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ La Liga
+http://lixazx13ifhs6cevmprqu7.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=3849&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="Espn",M+ La Liga 2
+http://blahnxpmhvgo9n14ejsw5j.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26045&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Campeones
+http://dlgkyhqvuzi1fjis5mlyo2.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=445&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Espn",Dazn LaLiga
+http://mba4u8xhs1frw3fdmnpobj.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27160&t=live&f=ts
+
+
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmsDlxsGxBnEt5gRcFPhqYcwJf-u2M3DhR-ch36NizL0rVkUVo6vjcuj3u2qv7XVwFlo&usqp=CAU" group-title="Espn",La Liga - Wix
 http://45.68.35.218:4001/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes FHD
