@@ -284,12 +284,6 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FDF)/index.m3u8
 #EXTINF:-1 tvg-ID="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NEOX)/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn FHD
-http://168.227.131.66:8000/play/tfc0/index.m3u8
-
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
-http://45.71.254.1:8000/play/a01r/index.m3u8
-
 #EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="M+ LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ La Liga
 http://lixazx13ifhs6cevmprqu7.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=3849&t=live&f=ts
 
@@ -308,7 +302,7 @@ http://8ckonffylawbxdtnigpzvm.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="Espn",M+ Liga Campeones 3
 http://2t8yivbwlzquabp14jowxv.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=440&t=live&f=ts
 
-#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="Uefa League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" group-title="Espn",Uefa League
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="Uefa League" tvg-logo="https://i0.wp.com/laligabares.com/wp-content/uploads/logo-white-UEFA-Champions-Legue.png?fit=300%2C300&ssl=1" group-title="Espn",Uefa League
 http://ofpsnh6meojrgrfwjnmzcx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=28334&t=live&f=ts
 
 #EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Espn",M+ Vamos
@@ -323,8 +317,8 @@ http://mba4u8xhs1frw3fdmnpobj.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m
 #EXTINF:-1 tvg-ID="DAZN LaLiga 2 HD" tvg-name="Dazn LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="Espn",Dazn LaLiga 2
 http://dqviqmpuhpamr47czyxahn.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27161&t=live&f=ts
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://e7.pngegg.com/pngimages/134/761/png-clipart-wix-orange-logo-tech-companies.png" group-title="Espn",La Liga - Wix
-http://45.68.35.218:4001/play/a01s/index.m3u8
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
+http://45.71.254.1:8000/play/a01r/index.m3u81s/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
 http://uyn5uoitzj27lml1kbkdyd.lista.isferorfra.me/live/sun.php?z=111&u=eUOvyYW0m8&s=1059401102&id=79786&t=live&f=ts
@@ -332,14 +326,8 @@ http://uyn5uoitzj27lml1kbkdyd.lista.isferorfra.me/live/sun.php?z=111&u=eUOvyYW0m
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes (Op.2)
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://w7.pngwing.com/pngs/190/341/png-transparent-sky-sports-news-television-channel-sky-sports-television-text-trademark.png" group-title="Espn",Sky Sports
-http://190.92.10.66:4000/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-ID="Sky Sport Premier League" tvg-name="Sky Sports Premier" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Espn",Sky Sports Premier
-http://190.92.10.66:4000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-ID="Sky Sport Bundesliga" tvg-name="Sky Sport Bundesliga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga.png" group-title="Espn",Sky Sport Bundesliga
-http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://e7.pngegg.com/pngimages/134/761/png-clipart-wix-orange-logo-tech-companies.png" group-title="Espn",La Liga - Wix
+http://45.68.35.218:4001/play/a0
 
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn SD
 http://45.71.254.1:8000/play/a038/index.m3u8
