@@ -105,18 +105,6 @@ http://tvsoso.ottc.pro:80/8MTQGHDMIB/GTNI9XYSYD/1663433
 #EXTINF:-1 tvg-ID="AXN Movies HD" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="Cine",Axn Movies
 http://tvsoso.ottc.pro:80/8MTQGHDMIB/GTNI9XYSYD/1663
 
-#EXTINF:-1 tvg-ID="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="Cine",M+ Estrenos
-
-#EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="M+ Acción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine",M+ Acción
-
-#EXTINF:-1 tvg-ID="M+ Comedia HD" tvg-name="M+ Comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="Cine",M+ Comedia
-
-#EXTINF:-1 tvg-ID="M+ Drama HD" tvg-name="M+ Drama" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="Cine",M+ Drama
-
-#EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="Cine",M+ Clásicos
-
-#EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine",M+ Cine Español
-
 #EXTINF:-1 tvg-ID="Sol Música" tvg-name="SOL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png" group-title="Musica",Sol
 https://amc-sm-orange.otteravision.com/amc/sm/sm.m3u8
 
@@ -134,6 +122,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DREAMWORKS)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Junior" tvg-name="DISNEY JR" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png" group-title="Ninos",Disney Jr
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DISNEYJUNIOR)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Enfamilia" tvg-name="EN FAMILIA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Enfamilia.png" group-title="Ninos",En Familia
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(PANDA)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Lolly Kids" tvg-name="LOLLY KIDS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png" group-title="Ninos",Lolly Kids
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LOLLYKIDS)/index.m3u8
@@ -282,9 +273,6 @@ https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425
 #EXTINF:-1 tvg-ID="Cuéntame" tvg-name="Cuéntame" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" group-title="Cine",Cuéntame
 https://ztnr.rtve.es/ztnr/6909843.m3u8
 
-#EXTINF:-1 tvg-ID="Enfamilia" tvg-name="En Familia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Enfamilia.png" group-title="Cine",En Familia
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(PANDA)/index.m3u8
-
 #EXTINF:-1 tvg-ID="Divinity" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="Cine",Divinity
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DIVINITY)/index.m3u8
 
@@ -335,9 +323,6 @@ http://45.71.254.1:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Sports
-http://190.111.16.106:40000/play/a09r/index.m3u8
-
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Chile HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Chile HD
 http://38.180.133.31:8000/play/a0tb?e=.m3u8
 
@@ -365,13 +350,17 @@ http://45.68.35.218:4001/play/a0
 #EXTINF:-1 tvg-ID="TUDN (México)" tvg-name="Tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="Espn",Tudn
 http://45.68.35.218:4001/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-ID="TUDN (México)" tvg-name="Tudn (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="Espn",Tudn (Op.2)
-http://190.111.16.106:40000/play/a09p/index.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/py5ixp7QP2wNCtvgYsdKTZXj/fc6c95b729a01bdff72fb25a7eb3b55e/tigosports-brnd.png" group-title="Espn",Tigo Sports
 http://45.68.35.218:4001/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-ID="Pelis Top (Rakuten TV)" tvg-name="Pelis Top" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten",Pelis Top
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=49ac0098-dae9-4b04-8afc-c1117b96d830&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
+https://download938.mediafire.com/bhj9qp1v68iggMnq8W_4ATYkHcj9pAIWA5xj9KnW779YG2Xy4qnutgz1OhhfXJ6LE0lcPL12SLN8hW9l9Poe4qCd6tNoIY7YfGtvBc4jgQmUNuOM1yUud1h7SOt9nJnOLOKZFMAmZZJoLYJqUeUxD18XVYuWWoV7WB--RVKgei3J4w/qvrzkgucal0x882/LlenGrac.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vacaciones de Verano" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/14SsotUuzTYKmPRxvIoFgHzwegf.jpg" group-title="Películas",Vacac. Verano
+https://download1591.mediafire.com/34nrogsjlssgGAka0AzVLsO5DJtI1MQ5m6rImU_kdtf-iTa-eck1OG6Ow88og1e55RvDAxWi7SQeDPGqQwJCsRkk08iCxLkYER5GTeuZfC989po_tpeojADJwQcISCUaFOUp1eBFuEabptbTmUCgHjnoLjVg2kyPtjTAxnyMkKHzqA/bw551huh2enrrjb/VacVer.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mambo del señorito" tvg-logo="https://i.ytimg.com/vi/Dk0lygG3KiQ/mqdefault.jpg" group-title="Películas",Mambo Señorito
+https://download943.mediafire.com/lke8pam110pgmIhnGbyDrDO56UiKUNg3s-eqE2FkL8uOG_SZvyMhisIMSF2fG2mAwJeBYTOgZAwe29XastrjOgpYepXIAl4S5PISQN2z4--Gvfk542J6pwR4BcK0Fa6qwb4P_jJWxA1eG7h89l6KWXzq9LOLW4BgsRVjZgghOH2kDQ/3mhsyam76bgppye/DoraMamb.mp4
+
 
 
