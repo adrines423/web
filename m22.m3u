@@ -326,12 +326,6 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Sports
 http://190.111.16.106:40000/play/a09r/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN Vivo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Vivo
-http://190.111.16.106:40000/play/a09l/index.m3u8
-
-#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN Vivo HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Vivo HD
-http://190.111.16.106:40000/play/a07r/index.m3u8
-
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Chile HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Chile HD
 http://38.180.133.31:8000/play/a0tb?e=.m3u8
 
