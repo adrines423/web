@@ -429,16 +429,14 @@ https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-ID="Friki (Rakuten TV)" tvg-name="Rakuten Friki" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Rakuten",Friki
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=d5c8994f-4350-4890-a1b7-7a709ac11907&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-ID=" (Rakuten TV)" tvg-name="Rakuten Friki" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Rakuten",Friki
+#EXTINF:-1 tvg-ID="Fr(Rakuten TV)" tvg-name="Rakuten Friki" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Rakuten",Friki
+
+#EXTINF:-1 tvg-ID="" tvg-name="Doraemon" tvg-logo="https://i.ytimg.com/vi/Dk0lygG3KiQ/mqdefault.jpg" group-title="VOD",Doraemon
+https://files.fileditch.st/s21/wvOgJEaRYYYCGagISEHn.mp4?md5=ofmhw3sDiIbGSABHhYxxZQ&expires=1742595371
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
 https://download938.mediafire.com/bhj9qp1v68iggMnq8W_4ATYkHcj9pAIWA5xj9KnW779YG2Xy4qnutgz1OhhfXJ6LE0lcPL12SLN8hW9l9Poe4qCd6tNoIY7YfGtvBc4jgQmUNuOM1yUud1h7SOt9nJnOLOKZFMAmZZJoLYJqUeUxD18XVYuWWoV7WB--RVKgei3J4w/qvrzkgucal0x882/LlenGrac.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Vacaciones de Verano" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/14SsotUuzTYKmPRxvIoFgHzwegf.jpg" group-title="Películas",Vacac. Verano
 https://download1591.mediafire.com/34nrogsjlssgGAka0AzVLsO5DJtI1MQ5m6rImU_kdtf-iTa-eck1OG6Ow88og1e55RvDAxWi7SQeDPGqQwJCsRkk08iCxLkYER5GTeuZfC989po_tpeojADJwQcISCUaFOUp1eBFuEabptbTmUCgHjnoLjVg2kyPtjTAxnyMkKHzqA/bw551huh2enrrjb/VacVer.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Mambo del señorito" tvg-logo="https://i.ytimg.com/vi/Dk0lygG3KiQ/mqdefault.jpg" group-title="Películas",Mambo Señorito
-https://download943.mediafire.com/lke8pam110pgmIhnGbyDrDO56UiKUNg3s-eqE2FkL8uOG_SZvyMhisIMSF2fG2mAwJeBYTOgZAwe29XastrjOgpYepXIAl4S5PISQN2z4--Gvfk542J6pwR4BcK0Fa6qwb4P_jJWxA1eG7h89l6KWXzq9LOLW4BgsRVjZgghOH2kDQ/3mhsyam76bgppye/DoraMamb.mp4
-
-
-
