@@ -167,6 +167,9 @@ https://tv1.strm2234.xyz:443/f1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.4)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.4)
 https://tv1.strm2234.xyz/f1/index.m3u8
 
+#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317407
+
 #EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
 https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f96f8d43-8767-11ef-93db-0e2010b02b9e
 
