@@ -163,13 +163,10 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELEDEPORTEHD)/index.m3u8
 http://khwyqmio7n3xxwzymv46zc.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26626&t=live&f=ts
 
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.2)
-https://tv1.strm2234.xyz/f1/tracks-v1a1/mono.m3u8
+https://streamdx.lat/memfs/5a0cdf2e-02b1-4669-839b-624304ae1eb4_output_0.m3u8?session=hSScJf4M7ysUX9tUQw9ajC
 
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.3)
-https://tv1.strm2234.xyz:443/f1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.4)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.4)
-https://tv1.strm2234.xyz/f1/index.m3u8
+https://tv1.strm2234.xyz/f1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317407
@@ -430,7 +427,7 @@ https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=d5c8994f-4350-4890-a1b7-7a709ac11907&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-ID="" tvg-name="Doraemon" tvg-logo="https://i.ytimg.com/vi/Dk0lygG3KiQ/mqdefault.jpg" group-title="Películas",Doraemon
-https://files.fileditch.st/s21/wvOgJEaRYYYCGagISEHn.mp4?md5=ofmhw3sDiIbGSABHhYxxZQ&expires=1742595371
+https://drive.google.com/file/d/1qsOLQ4dI3vpHgxaDPiUzXGD9dTnerx0N/view?usp=drive_link
 
 #EXTINF:-1 tvg-ID="" tvg-name="Llenos de Gracia" tvg-logo="https://pics.filmaffinity.com/llenos_de_gracia-921162938-mmed.jpg" group-title="Películas",Llenos de Gracia
 https://files.fileditch.st/b53/RvriRZWhYSITbqcLnCXg.mp4?md5=vs1BFK17yO_WjxRnDcESng&expires=1742596898
