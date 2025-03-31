@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MovistarLaLiga(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-laliga.png" group-title="SPAIN",Movistar Laliga
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium84/mono.m3u8
-
-
 #EXTINF:-1 tvg-ID="La 1 HD" tvg-name="LA 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png" group-title="General",La 1
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TVE1HD)/index.m3u8
 
