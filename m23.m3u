@@ -33,6 +33,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(13TV)/index.m3u8
 #EXTINF:-1 tvg-ID="DARK" tvg-name="DARK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="Cine",Dark
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANAL18)/index.m3u8
 
+#EXTINF:-1 tvg-ID="Multicine atresplayer" tvg-name="Atresmulticine" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" group-title="Cine",Atresmulticine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+
 #EXTINF:-1 tvg-ID="Atreseries" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="Cine",Atreseries
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ATRESERIESHD)/index.m3u8
 
@@ -128,6 +131,9 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317487
 
 #EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Cine",Movistar Plus
 http://qcvkegyaobuiovttdji3zx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26663&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="El club de la comedia" tvg-name="Club de la comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png" group-title="Cine",Club de la Comedia
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 
 #EXTINF:-1 tvg-ID="Sol Música" tvg-name="SOL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png" group-title="Musica",Sol
 https://amc-sm-orange.otteravision.com/amc/sm/sm.m3u8
@@ -281,6 +287,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELEMADRID)/index.m3u8
 
 #EXTINF:-1 tvg-ID="La Otra" tvg-name="La Otra" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png" group-title="Autonómicas",La Otra
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LAOTRA)/index.m3u8
+
+#EXTINF:-1 tvg-ID="8madrid TV" tvg-name="8 Tv Madrid" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" group-title="Autonómicas",8 Tv Madrid
+http://185.189.225.150:85/8madrid/index.m3u8
 
 #EXTINF:-1 tvg-ID="TPA7 Asturias" tvg-name="TPA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" group-title="Autonómicas",Asturias
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TPA)/index.m3u8
