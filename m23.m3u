@@ -99,38 +99,11 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(VERDI)/index.m3u8
 #EXTINF:-1 tvg-ID="Somos" tvg-name="SOMOS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="Cine",Somos
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(SOMOS)/index.m3u8
 
+#EXTINF:-1 tvg-ID="8madrid TV" tvg-name="8 Tv Madrid" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" group-title="Cine",8 Tv Madrid
+http://185.189.225.150:85/8madrid/index.m3u8
+
 #EXTINF:-1 tvg-ID="Squirrel TV" tvg-name="Squirrel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" group-title="Cine",Squirrel
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DISNEY)/index.m3u8
-
-#EXTINF:-1 tvg-ID="AXN HD" tvg-name="Axn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="Cine",Axn
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317356
-
-#EXTINF:-1 tvg-ID="AXN Movies HD" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="Cine",Axn Movies
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317357
-
-#EXTINF:-1 tvg-ID="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="Cine",M+ Estrenos
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317494
-
-#EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="M+ Acción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine",M+ Acción
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317486
-
-#EXTINF:-1 tvg-ID="M+ Hits HD" tvg-name="M+ Hits" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="Cine",M+ Hits
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317509
-
-#EXTINF:-1 tvg-ID="M+ Comedia HD" tvg-name="M+ Comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="Cine",M+ Comedia
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317489
-
-#EXTINF:-1 tvg-ID="M+ Drama HD" tvg-name="M+ Drama" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="Cine",M+ Drama
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317493
-
-#EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="Cine",M+ Clásicos
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317488
-
-#EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine",M+ Cine Español
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317487
-
-#EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Cine",Movistar Plus
-http://qcvkegyaobuiovttdji3zx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26663&t=live&f=ts
 
 #EXTINF:-1 tvg-ID="El club de la comedia" tvg-name="Club de la comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png" group-title="Cine",Club de la Comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
@@ -169,15 +142,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(GOLTV)/index.m3u8
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELEDEPORTEHD)/index.m3u8
 
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1
-http://khwyqmio7n3xxwzymv46zc.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26626&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.2)
 https://streamdx.lat/memfs/5a0cdf2e-02b1-4669-839b-624304ae1eb4_output_0.m3u8?session=hSScJf4M7ysUX9tUQw9ajC
 
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 (Op.3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1 (Op.3)
-https://tv1.strm2234.xyz/f1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1
+#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1*
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317407
 
 #EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
@@ -198,23 +165,8 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(GARAGETV)/index.m3u8
 #EXTINF:-1 tvg-ID="UBEAT" tvg-name="Ubeat" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="Deportes",Ubeat
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(UBEAT)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro*
 http://j23f8ypjhiolduu1ncsvge.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro (Op.2)
-http://soxk76lvtfakfjbpgg0awu.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="Iberalia TV" tvg-name="Iberalia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="Documentales",Iberalia
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(IBERALIA)/index.m3u8
-
-#EXTINF:-1 tvg-ID="Cazavisión" tvg-name="Cazavision" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" group-title="Documentales",Cazavision
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CAZAVISION)/index.m3u8
-
-#EXTINF:-1 tvg-ID="AMC Break" tvg-name="AMC Break" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="Documentales",AMC Break
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BIOGRAPHY)/index.m3u8
-
-#EXTINF:-1 tvg-ID="AMC Crime" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="Documentales",AMC Crime
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CRIMEN)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Odisea" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="Documentales",Odisea
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ODISEAHD)/index.m3u8
@@ -245,6 +197,18 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DISCOVERYMAX)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Escapa TV" tvg-name="Escapa TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Escapa%20TV.png" group-title="Documentales",Escapa TV
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ESCAPA)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Iberalia TV" tvg-name="Iberalia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="Documentales",Iberalia
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(IBERALIA)/index.m3u8
+
+#EXTINF:-1 tvg-ID="Cazavisión" tvg-name="Cazavision" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" group-title="Documentales",Cazavision
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CAZAVISION)/index.m3u8
+
+#EXTINF:-1 tvg-ID="AMC Break" tvg-name="AMC Break" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="Documentales",AMC Break
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BIOGRAPHY)/index.m3u8
+
+#EXTINF:-1 tvg-ID="AMC Crime" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="Documentales",AMC Crime
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CRIMEN)/index.m3u8
 
 #EXTINF:-1 tvg-ID="HIT TV" tvg-name="Hit Tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT%20TV.png" group-title="Musica",Hit Tv
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(HITTV)/index.m3u8
@@ -288,9 +252,6 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELEMADRID)/index.m3u8
 #EXTINF:-1 tvg-ID="La Otra" tvg-name="La Otra" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png" group-title="Autonómicas",La Otra
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(LAOTRA)/index.m3u8
 
-#EXTINF:-1 tvg-ID="8madrid TV" tvg-name="8 Tv Madrid" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" group-title="Autonómicas",8 Tv Madrid
-http://185.189.225.150:85/8madrid/index.m3u8
-
 #EXTINF:-1 tvg-ID="TPA7 Asturias" tvg-name="TPA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" group-title="Autonómicas",Asturias
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TPA)/index.m3u8
 
@@ -312,53 +273,59 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DIVINITY)/index.m3u8
 #EXTINF:-1 tvg-ID="Factoría de Ficción" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="Cine",Fdf
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FDF)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Nova" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="Cine",Nova
-http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NOVA)/index.m3u8
-
 #EXTINF:-1 tvg-ID="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NEOX)/index.m3u8
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="M+ LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ La Liga
+#EXTINF:-1 tvg-ID="Nova" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="Cine",Nova
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NOVA)/index.m3u8
+
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="Axn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="Cine",Axn*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317356
+
+#EXTINF:-1 tvg-ID="AXN Movies HD" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="Cine",Axn Movies*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317357
+
+#EXTINF:-1 tvg-ID="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="Cine",M+ Estrenos*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317494
+
+#EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="M+ Acción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine",M+ Acción*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317486
+
+#EXTINF:-1 tvg-ID="M+ Hits HD" tvg-name="M+ Hits" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="Cine",M+ Hits*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317509
+
+#EXTINF:-1 tvg-ID="M+ Comedia HD" tvg-name="M+ Comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="Cine",M+ Comedia*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317489
+
+#EXTINF:-1 tvg-ID="M+ Drama HD" tvg-name="M+ Drama" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="Cine",M+ Drama*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317493
+
+#EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="Cine",M+ Clásicos*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317488
+
+#EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine",M+ Cine Español*
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317487
+
+#EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Cine",Movistar Plus*
+http://qcvkegyaobuiovttdji3zx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26663&t=live&f=ts
+
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="M+ LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ La Liga*
 http://lixazx13ifhs6cevmprqu7.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=3849&t=live&f=ts
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="M+ LaLiga FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ La Liga FHD
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="M+ LaLiga FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ La Liga FHD*
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317499
 
-#EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga Bar" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Espn",Liga Bar FHD
+#EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga Bar" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Espn",Liga Bar FHD*
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317472
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="Espn",M+ La Liga 2
-http://blahnxpmhvgo9n14ejsw5j.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26045&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="M+ LaLiga TV 3 HD" tvg-name="M+ LaLiga 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="Espn",M+ La Liga 3
-http://vp2msy4xdhluu6cfn3jctm.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=28987&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Campeones
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Campeones*
 http://dlgkyhqvuzi1fjis5mlyo2.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=445&t=live&f=ts
 
-#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Camp. HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Camp. HD
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317504
-
-#EXTINF:-1 tvg-ID="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga Campeones 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Espn",M+ Liga Campeones 2
-http://8ckonffylawbxdtnigpzvm.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=439&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="Espn",M+ Liga Campeones 3
-http://2t8yivbwlzquabp14jowxv.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=440&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="Uefa League" tvg-logo="https://i0.wp.com/laligabares.com/wp-content/uploads/logo-white-UEFA-Champions-Legue.png?fit=300%2C300&ssl=1" group-title="Espn",Uefa League
-http://ofpsnh6meojrgrfwjnmzcx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=28334&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Espn",M+ Vamos
+#EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Espn",M+ Vamos*
 http://vbiiwnmou8m4ghrpez3o1a.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=379&t=live&f=ts
 
-#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Espn",Dazn LaLiga
+#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Espn",Dazn LaLiga*
 http://mba4u8xhs1frw3fdmnpobj.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27160&t=live&f=ts
-
-#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga (Op2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Espn",Dazn LaLiga (Op.2)
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317412
-
-#EXTINF:-1 tvg-ID="DAZN LaLiga 2 HD" tvg-name="Dazn LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="Espn",Dazn LaLiga 2
-http://dqviqmpuhpamr47czyxahn.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27161&t=live&f=ts
 
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
 http://45.71.254.1:8000/play/a01r/index.m3u8
@@ -368,9 +335,6 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep.(Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.(Op.2)
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317432
-
-#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Sports
-http://190.111.16.106:40000/play/a09r/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Chile HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Chile HD
 http://38.180.133.31:8000/play/a0tb?e=.m3u8
@@ -393,17 +357,14 @@ http://190.123.90.146:8000/play/a00f?e=.m3u8
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Premium Arg" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Premium Arg
 http://190.102.246.93:9005/play/a00x
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://e7.pngegg.com/pngimages/134/761/png-clipart-wix-orange-logo-tech-companies.png" group-title="Espn",La Liga - Wix
-http://45.68.35.218:4001/play/a0
-
-#EXTINF:-1 tvg-ID="TUDN (México)" tvg-name="Tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="Espn",Tudn
-http://45.68.35.218:4001/play/a01u/index.m3u8
-
-#EXTINF:-1 tvg-ID="TUDN (México)" tvg-name="Tudn (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="Espn",Tudn (Op.2)
-http://190.111.16.106:40000/play/a09p/index.m3u8
+#EXTINF:-1 tvg-ID="LaLiga - Wix" tvg-name="LaLiga - Wix" tvg-logo="https://e7.pngegg.com/pngimages/134/761/png-clipart-wix-orange-logo-tech-companies.png" group-title="Espn",La Liga - Wix
+http://45.68.35.218:4001/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Tigo Sports" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/py5ixp7QP2wNCtvgYsdKTZXj/fc6c95b729a01bdff72fb25a7eb3b55e/tigosports-brnd.png" group-title="Espn",Tigo Sports
 http://45.68.35.218:4001/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-ID="TUDN (México)" tvg-name="Tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="Espn",Tudn
+http://45.68.35.218:4001/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-ID="Pelis Top (Rakuten TV)" tvg-name="Pelis Top" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten",Pelis Top
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=49ac0098-dae9-4b04-8afc-c1117b96d830&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
