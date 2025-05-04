@@ -362,7 +362,7 @@ http://45.68.35.218:4001/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-ID="UK | TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" group-title="Espn",TNT Sports 2
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="Tigo Sports" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/py5ixp7QP2wNCtvgYsdKTZXj/fc6c95b729a01bdff72fb25a7eb3b55e/tigosports-brnd.png" group-title="Espn",Tigo Sports
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="Tigo Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJgUCBHpZxRRzAMD0WJMNNat1ldxZtcFhWQ&s" group-title="Espn",Tigo Sports
 http://45.68.35.218:4001/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-ID="TUDN (México)" tvg-name="Tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="Espn",Tudn
