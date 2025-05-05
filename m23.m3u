@@ -315,17 +315,17 @@ http://qcvkegyaobuiovttdji3zx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",LaLiga Tv
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",LaLiga Tv
+https://wo.cma.footballii.ir/hls2/laligatv.m3u8
+
+#EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga TV Eng" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",LaLiga Tv Eng
 https://windnew.newkso.ru/wind/premium276/mono.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" group-title="Espn",Espn 3
-https://wikinew.newkso.ru/wiki/arg_espn3/mono.m3u8
-
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
-http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep." tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317432
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep.(Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.(Op.2)
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317432
+http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Chile HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Chile HD
 http://38.180.133.31:8000/play/a0tb?e=.m3u8
