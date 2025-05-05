@@ -318,6 +318,9 @@ http://45.71.254.1:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",LaLiga Tv
 https://wo.cma.footballii.ir/hls2/laligatv.m3u8
 
+#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Espn",Sky Sports
+http://190.111.16.106:40000/play/a09r
+
 #EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga TV Eng" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",LaLiga Tv Eng
 https://windnew.newkso.ru/wind/premium276/mono.m3u8
 
