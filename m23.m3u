@@ -147,6 +147,9 @@ https://wikihznew.newkso.ru/wikihz/wikidf1/mono.m3u8
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1
 https://azonew.newkso.ru/azo/dazn1es/mono.m3u8
 
+#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1 (Op.2)
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/366258
+
 #EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
 https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f96f8d43-8767-11ef-93db-0e2010b02b9e
 
@@ -240,8 +243,20 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANAL24HORAS)/index.m3u8
 #EXTINF:-1 tvg-ID="STAR Channel HD" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="Cine",Star
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
 
+#EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="Canal Sur" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="Autonómicas",Canal Sur
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396158
+
+#EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="Canal Sur (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="Autonómicas",Canal Sur (Op.2)
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396156
+
 #EXTINF:-1 tvg-ID="Canal Sur Andalucía" tvg-name="Andalucia Tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="Autonómicas",Andalucia Tv
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+#EXTINF:-1 tvg-ID="Andalucía TV" tvg-name="Andalucía TV (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="Autonómicas",Andalucía TV (Op.2)
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396157
+
+#EXTINF:-1 tvg-ID="CMM TV" tvg-name="CMM Tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" group-title="Autonómicas",CMM
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396161
 
 #EXTINF:-1 tvg-ID="Canal Extremadura" tvg-name="Canal Extremadura TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" group-title="Autonómicas",Extremadura
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANALEXTREMADURA)/index.m3u8
@@ -258,7 +273,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TPA)/index.m3u8
 #EXTINF:-1 tvg-ID="Onda Cádiz TV" tvg-name="Onda Cádiz" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" group-title="Autonómicas",Onda Cádiz
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="Aquí no hay quién viva" tvg-name="Aquí no hay quién viva" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" group-title="Cine",Aqui no hay quien viva
+#EXTINF:-1 tvg-ID="Aquí no hay quién viva" tvg-name="Aquí no hay quién viva" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" group-title="Cine",Aqui no hay quien viva*
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
 #EXTINF:-1 tvg-ID="Cuéntame" tvg-name="Cuéntame" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" group-title="Cine",Cuéntame
@@ -279,31 +294,31 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NEOX)/index.m3u8
 #EXTINF:-1 tvg-ID="Nova" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="Cine",Nova
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NOVA)/index.m3u8
 
-#EXTINF:-1 tvg-ID="AXN HD" tvg-name="Axn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="Cine",Axn*
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="Axn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="Cine",Axn
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317356
 
-#EXTINF:-1 tvg-ID="AXN Movies HD" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="Cine",Axn Movies*
+#EXTINF:-1 tvg-ID="AXN Movies HD" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="Cine",Axn Movies
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317357
 
-#EXTINF:-1 tvg-ID="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="Cine",M+ Estrenos*
+#EXTINF:-1 tvg-ID="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="Cine",M+ Estrenos
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317494
 
-#EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="M+ Acción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine",M+ Acción*
+#EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="M+ Acción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine",M+ Acción
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317486
 
-#EXTINF:-1 tvg-ID="M+ Hits HD" tvg-name="M+ Hits" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="Cine",M+ Hits*
+#EXTINF:-1 tvg-ID="M+ Hits HD" tvg-name="M+ Hits" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="Cine",M+ Hits
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317509
 
-#EXTINF:-1 tvg-ID="M+ Comedia HD" tvg-name="M+ Comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="Cine",M+ Comedia*
+#EXTINF:-1 tvg-ID="M+ Comedia HD" tvg-name="M+ Comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="Cine",M+ Comedia
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317489
 
-#EXTINF:-1 tvg-ID="M+ Drama HD" tvg-name="M+ Drama" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="Cine",M+ Drama*
+#EXTINF:-1 tvg-ID="M+ Drama HD" tvg-name="M+ Drama" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="Cine",M+ Drama
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317493
 
-#EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="Cine",M+ Clásicos*
+#EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="Cine",M+ Clásicos
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317488
 
-#EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine",M+ Cine Español*
+#EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine",M+ Cine Español
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317487
 
 #EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Cine",Movistar Plus*
@@ -380,8 +395,11 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317472
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Campeones*
 http://dlgkyhqvuzi1fjis5mlyo2.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=445&t=live&f=ts
 
-#EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Espn",M+ Vamos*
-http://vbiiwnmou8m4ghrpez3o1a.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=379&t=live&f=ts
+#EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Espn",M+ Vamos
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396035
+
+#EXTINF:-1 tvg-ID="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Espn",M+ Originales
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/395862
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Espn",Dazn LaLiga*
 http://mba4u8xhs1frw3fdmnpobj.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27160&t=live&f=ts
@@ -452,3 +470,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 #EXTINF:-1 tvg-ID="Runtime Crimen" tvg-name="Crimen" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="Runtime",Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 
+#EXTINF:-1 tvg-ID="" tvg-name="Disney - 24/7" tvg-logo="https://www.pngmart.com/files/22/Pixar-Logo-PNG.png" group-title="Disney - 24/7",Pixar 1
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396079
+
+#EXTINF:-1 tvg-ID="" tvg-name="Disney - 24/7" tvg-logo="https://i.pinimg.com/736x/2d/c2/d1/2dc2d1acb1338d499dcbef1de77c5c3a.jpg" group-title="Disney - 24/7",Pixar 2
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396080
