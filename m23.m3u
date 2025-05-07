@@ -470,11 +470,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 #EXTINF:-1 tvg-ID="Runtime Crimen" tvg-name="Crimen" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="Runtime",Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 
-#EXTINF:-1 tvg-ID="" tvg-name="Disney - 24/7" tvg-logo="https://www.pngmart.com/files/22/Pixar-Logo-PNG.png" group-title="Disney - 24/7",Pixar 1
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Pixar 1" tvg-logo="https://www.pngmart.com/files/22/Pixar-Logo-PNG.png" group-title="Disney - 24/7",Pixar 1
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396079
 
-#EXTINF:-1 tvg-ID="" tvg-name="Disney - 24/7" tvg-logo="https://i.pinimg.com/736x/2d/c2/d1/2dc2d1acb1338d499dcbef1de77c5c3a.jpg" group-title="Disney - 24/7",Pixar 2
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Pixar 2" tvg-logo="https://i.pinimg.com/736x/2d/c2/d1/2dc2d1acb1338d499dcbef1de77c5c3a.jpg" group-title="Disney - 24/7",Pixar 2
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396080
 
-#EXTINF:-1 tvg-ID="" tvg-name="Disney - 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHXE-8nCrxJ5NFaNDTLrMUEkmy8GHWBiU7sM1G093e03gyMJR40LBwQAnnboayrcYYv4&usqp=CAU" group-title="Disney - 24/7",La Pantera Rosa
+#EXTINF:-1 tvg-ID="" tvg-name="Aladdin" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/dcp5c28-0abcde9a-e0a2-4698-a708-d88d114bcad0.png/v1/fit/w_600,h_421/aladdin__2019__logo_png__by_mintmovi3_dcp5c28-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIxIiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kY3A1YzI4LTBhYmNkZTlhLWUwYTItNDY5OC1hNzA4LWQ4OGQxMTRiY2FkMC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.DIkLOmR5tX01VhVn26j2U9ubY2TqqYLieJrZGSL6VPM" group-title="Disney - 24/7",Aladdin
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396082
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Sirenita" tvg-logo="https://image.tmdb.org/t/p/w500/dCnXNFlINudL8p3KGkepQhcUnmh.png" group-title="Disney - 24/7",La Sirenita
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396083
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Pantera Rosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHXE-8nCrxJ5NFaNDTLrMUEkmy8GHWBiU7sM1G093e03gyMJR40LBwQAnnboayrcYYv4&usqp=CAU" group-title="Disney - 24/7",La Pantera Rosa
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396098
+
+#EXTINF:-1 tvg-ID="" tvg-name="Doraemon" tvg-logo="https://www.pngarts.com/files/8/Doraemon-Logo-Transparent-Image.png" group-title="Disney - 24/7",Doraemon
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396085
+
