@@ -294,8 +294,8 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TPA)/index.m3u8
 #EXTINF:-1 tvg-ID="Onda Cádiz TV" tvg-name="Onda Cádiz" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" group-title="Autonómicas",Onda Cádiz
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="Aquí no hay quién viva" tvg-name="Aquí no hay quién viva" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" group-title="Cine",Aqui no hay quien viva*
-https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1 tvg-ID="Aquí no hay quién viva" tvg-name="Aquí no hay quién viva" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" group-title="Cine",Aqui no hay quien viva
+https://fast-channels.atresmedia.com/2c648b48443e73802e044af2a87f987513c6d16c/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 
 #EXTINF:-1 tvg-ID="Cuéntame" tvg-name="Cuéntame" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" group-title="Cine",Cuéntame
 https://ztnr.rtve.es/ztnr/6909843.m3u8
@@ -342,8 +342,41 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317488
 #EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine",M+ Cine Español
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317487
 
-#EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Cine",Movistar Plus*
-http://qcvkegyaobuiovttdji3zx.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=26663&t=live&f=ts
+#EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Cine",Movistar Plus
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/395894
+
+#EXTINF:-1 tvg-ID="SkyShowtime" tvg-name="SkyShowtime 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" group-title="Cine",SkyShowtime 1
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/395901
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 1
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317339
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 2
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317340
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 3
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317341
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 4
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317342
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 5
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317343
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 6
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317344
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 7
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317345
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 8
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317346
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 9" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 9
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317347
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alquiler 10" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png" group-title="Alquiler",Alquiler 10
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317348
 
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
 http://45.71.254.1:8000/play/a01r/index.m3u8
