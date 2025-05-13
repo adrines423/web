@@ -426,16 +426,10 @@ http://200.115.120.1:8000/play/ca041
 #EXTINF:-1 tvg-ID="FOX SPORTS" tvg-name="Fox Sport" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" group-title="Espn",Fox Sport
 http://181.78.106.127:9000/play/ca031
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga - Wix" tvg-logo="https://e7.pngegg.com/pngimages/134/761/png-clipart-wix-orange-logo-tech-companies.png" group-title="Espn",La Liga - Wix
-http://45.68.35.218:4001/play/a01s/index.m3u8
-
 #EXTINF:-1 tvg-ID="UK | TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" group-title="Espn",TNT Sports 2
 
 #EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="Tigo Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJgUCBHpZxRRzAMD0WJMNNat1ldxZtcFhWQ&s" group-title="Espn",Tigo Sports
 http://45.68.35.218:4001/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-ID="TUDN (México)" tvg-name="Tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="Espn",Tudn
-http://45.68.35.218:4001/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="M+ LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ La Liga
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/395947
@@ -446,8 +440,11 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317499
 #EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga Bar" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Espn",Liga Bar FHD
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317472
 
-#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Campeones*
-http://dlgkyhqvuzi1fjis5mlyo2.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=445&t=live&f=ts
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Campeones
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317506
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",M+ Liga Campeones (Op.2)
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317504
 
 #EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Espn",M+ Vamos
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396035
