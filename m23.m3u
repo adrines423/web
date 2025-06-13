@@ -135,27 +135,6 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NICKELODEON)/index.m3u8
 #EXTINF:-1 tvg-ID="Nick JR" tvg-name="NICK JR" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICK_JR.png" group-title="Ninos",Nick Jr
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NICKJR)/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Pixar 1" tvg-logo="https://www.pngmart.com/files/22/Pixar-Logo-PNG.png" group-title="Disney - 24/7",Pixar 1
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396079
-
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Pixar 2" tvg-logo="https://i.pinimg.com/736x/2d/c2/d1/2dc2d1acb1338d499dcbef1de77c5c3a.jpg" group-title="Disney - 24/7",Pixar 2
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396080
-
-#EXTINF:-1 tvg-ID="" tvg-name="Aladdin" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/dcp5c28-0abcde9a-e0a2-4698-a708-d88d114bcad0.png/v1/fit/w_600,h_421/aladdin__2019__logo_png__by_mintmovi3_dcp5c28-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIxIiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kY3A1YzI4LTBhYmNkZTlhLWUwYTItNDY5OC1hNzA4LWQ4OGQxMTRiY2FkMC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.DIkLOmR5tX01VhVn26j2U9ubY2TqqYLieJrZGSL6VPM" group-title="Disney - 24/7",Aladdin
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396082
-
-#EXTINF:-1 tvg-ID="" tvg-name="La Sirenita" tvg-logo="https://image.tmdb.org/t/p/w500/dCnXNFlINudL8p3KGkepQhcUnmh.png" group-title="Disney - 24/7",La Sirenita
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396083
-
-#EXTINF:-1 tvg-ID="" tvg-name="La Pantera Rosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHXE-8nCrxJ5NFaNDTLrMUEkmy8GHWBiU7sM1G093e03gyMJR40LBwQAnnboayrcYYv4&usqp=CAU" group-title="Disney - 24/7",La Pantera Rosa
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396098
-
-#EXTINF:-1 tvg-ID="" tvg-name="Doraemon" tvg-logo="https://www.pngarts.com/files/8/Doraemon-Logo-Transparent-Image.png" group-title="Disney - 24/7",Doraemon
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396085
-
-#EXTINF:-1 tvg-ID="" tvg-name="Tintin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/The_adventures_of_tintin_logo.png" group-title="Disney - 24/7",Tintin
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396101
-
 #EXTINF:-1 tvg-ID="GOL PLAY" tvg-name="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="Deportes",Gol Play
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(GOLTV)/index.m3u8
 
@@ -189,8 +168,11 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(GARAGETV)/index.m3u8
 #EXTINF:-1 tvg-ID="UBEAT" tvg-name="Ubeat" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="Deportes",Ubeat
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(UBEAT)/index.m3u8
 
-#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro*
-http://j23f8ypjhiolduu1ncsvge.lista.isferorfra.me/live/sun.php?z=997&u=eUOvyYW0m8&s=1059401102&id=27229&t=live&f=ts
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro
+http://pirostv.lat:8080/live/9611240214/868c571cbf027d49/308788.ts
+
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro (Op.2)
+http://pirostv.lat:8080/live/9611240214/868c571cbf027d49/311498.ts
 
 #EXTINF:-1 tvg-ID="Odisea" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="Documentales",Odisea
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ODISEAHD)/index.m3u8
@@ -265,15 +247,12 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(CANAL24HORAS)/index.m3u8
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="Canal Sur" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="Autonómicas",Canal Sur
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396158
-
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+g
 #EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="Canal Sur (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="Autonómicas",Canal Sur (Op.2)
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396156
 
-#EXTINF:-1 tvg-ID="Canal Sur Andalucía" tvg-name="Andalucia Tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="Autonómicas",Andalucia Tv
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-
-#EXTINF:-1 tvg-ID="Andalucía TV" tvg-name="Andalucía TV (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="Autonómicas",Andalucía TV (Op.2)
+#EXTINF:-1 tvg-ID="Andalucía TV" tvg-name="Andalucía TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="Autonómicas",Andalucía TV
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396157
 
 #EXTINF:-1 tvg-ID="CMM TV" tvg-name="CMM Tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" group-title="Autonómicas",CMM
@@ -295,7 +274,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TPA)/index.m3u8
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Aquí no hay quién viva" tvg-name="Aquí no hay quién viva" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" group-title="Cine",Aqui no hay quien viva
-https://fast-channels.atresmedia.com/52ea6c182ac63691e5d4310cafed75f8f4eb843d/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
+https://fast-channels.atresmedia.com/4585506275f2f67c37aebeafb92205095e3a080b/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 
 #EXTINF:-1 tvg-ID="Cuéntame" tvg-name="Cuéntame" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" group-title="Cine",Cuéntame
 https://ztnr.rtve.es/ztnr/6909843.m3u8
