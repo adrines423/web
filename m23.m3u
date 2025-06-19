@@ -141,6 +141,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(GOLTV)/index.m3u8
 #EXTINF:-1 tvg-ID="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="Deportes",Teledeporte
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELEDEPORTEHD)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Xtra" tvg-logo="http://gigipicons.top:8080/images/771f8320cab9c59c2554f2772aa103bc.png" group-title="Deportes",Bein Sport Xtra
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317363
+
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1
 https://wikihznew.newkso.ru/wikihz/wikidf1/mono.m3u8
 
@@ -581,7 +584,7 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317358
 #EXTINF:-1 tvg-id="" tvg-name="ES: Be Mad" tvg-logo="http://gigipicons.top:8080/images/29b48deeb7461fd49f07d84ada879379.png" group-title="Tdt",Be Mad
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317362
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: beIN Sports Xtra en Espanol" tvg-logo="http://gigipicons.top:8080/images/771f8320cab9c59c2554f2772aa103bc.png" group-title="Tdt",beIN Sport Espanol
+#EXTINF:-1 tvg-id="" tvg-name="ES: beIN Sports Xtra en Espanol" tvg-logo="http://gigipicons.top:8080/images/771f8320cab9c59c2554f2772aa103bc.png" group-title="Tdt",beIN Sport Espanol 2
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317363
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Blaze" tvg-logo="http://gigipicons.top:8080/images/71732ddcd0e7a8b3ea89717bdf141cb1.png" group-title="Tdt",Blaze
