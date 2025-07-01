@@ -150,7 +150,7 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317411
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317407
 
-#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1 (Op.2)
+#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1 (Op.2)*" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1 (Op.2)*
 http://thebestiptv.gsuscam.net:2018/play/rnyReX1ihKek1f-4b7CoPIwxQew93l5ofgUUAUtcl_M/ts
 
 #EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
@@ -178,15 +178,9 @@ http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/38816
 http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/631
 
 #EXTINF:-1 tvg-ID="Torolé TV" tvg-name="Torolé" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="Deportes",Torolé
-http://thebestiptv.gsuscam.net:2018/play/rnyReX1ihKek1f-4b7CoPH9DBl94-jktLkAJdzf1Rgx6T4QrwBv11GTkPJ5vPkdV/ts
-
-#EXTINF:-1 tvg-ID="El Toro TV" tvg-name="El Toro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="Deportes",El Toro
-http://thebestiptv.gsuscam.net:2018/play/rnyReX1ihKek1f-4b7CoPKuX_lRICSNK23FhzC6_H1g/ts
-
-#EXTINF:-1 tvg-ID="El Toro TV" tvg-name="El Toro (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="Deportes",El Toro (Op.2)
 http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/37678
 
-#EXTINF:-1 tvg-ID="El Toro TV" tvg-name="El Toro (Op.3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="Deportes",El Toro (Op.3)
+#EXTINF:-1 tvg-ID="El Toro TV" tvg-name="El Toro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="Deportes",El Toro
 http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/783
 
 #EXTINF:-1 tvg-ID="Odisea" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="Documentales",Odisea
@@ -263,7 +257,7 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(FOXHD)/index.m3u8
 
 #EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="Canal Sur" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="Autonómicas",Canal Sur
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-g
+
 #EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="Canal Sur (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="Autonómicas",Canal Sur (Op.2)
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396156
 
