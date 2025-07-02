@@ -144,15 +144,6 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TELEDEPORTEHD)/index.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" tvg-name="Bein Sports Xtra" tvg-logo="http://gigipicons.top:8080/images/771f8320cab9c59c2554f2772aa103bc.png" group-title="Deportes",Bein Sport Xtra
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317363
 
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes",Dazn F1
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317411
-
-#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317407
-
-#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1 (Op.2)*" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1 (Op.2)*
-http://thebestiptv.gsuscam.net:2018/play/rnyReX1ihKek1f-4b7CoPIwxQew93l5ofgUUAUtcl_M/ts
-
 #EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
 https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f96f8d43-8767-11ef-93db-0e2010b02b9e
 
@@ -405,9 +396,6 @@ http://190.123.90.146:8000/play/a00f?e=.m3u8
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Premium Arg" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Premium Arg
 http://190.102.246.93:9005/play/a00x
 
-#EXTINF:-1 tvg-ID="DE | DAZN 1" tvg-name="DE DAZN 1" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/05/1_0_1_7574_412_1_C00000_0_0_0.png?resize=440%2C264&ssl=1" group-title="Espn",Dazn 1 De
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
-
 #EXTINF:-1 tvg-ID="FOX SPORTS" tvg-name="Fox Sport HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" group-title="Espn",Fox Sport HD
 http://200.115.120.1:8000/play/ca041
 
@@ -439,9 +427,6 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396035
 
 #EXTINF:-1 tvg-ID="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Espn",M+ Originales
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317325
-
-#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Espn",Dazn LaLiga
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317412
 
 #EXTINF:-1 tvg-ID="Pelis Top (Rakuten TV)" tvg-name="Pelis Top" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten",Pelis Top
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=49ac0098-dae9-4b04-8afc-c1117b96d830&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
@@ -655,27 +640,6 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317405
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Dark" tvg-logo="http://gigipicons.top:8080/images/fc8eaa5faa3403e81563a54b215d3cf0.png" group-title="Tdt",Dark
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317406
-
-#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="ES: DAZN 1" tvg-logo="http://gigitivu.top:8080/images/b46a0fc652dfaa21c36ec412b575d6fd.png" group-title="Tdt",DAZN 1
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317407
-
-#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="ES: DAZN 2" tvg-logo="http://gigitivu.top:8080/images/e47a35c96ea18b8d8b5bd580bf847787.png" group-title="Tdt",DAZN 2
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317408
-
-#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="ES: DAZN 3" tvg-logo="http://gigitivu.top:8080/images/ebf1b7484d30209896710329b805dc44.png" group-title="Tdt",DAZN 3
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317409
-
-#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="ES: DAZN 4" tvg-logo="http://gigitivu.top:8080/images/b067a34e197f9c4b53dddc4a3551dea0.png" group-title="Tdt",DAZN 4
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317410
-
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="ES: DAZN F1 Op.2" tvg-logo="http://gigitivu.top:8080/images/b73c1f2b6b5cbced249f7b223369fce1.png" group-title="Tdt",DAZN F1 Op.2
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317411
-
-#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="ES: DAZN LaLiga" tvg-logo="http://gigitivu.top:8080/images/5c902d472a52992ca5bcecec51affde7.jpg" group-title="Tdt",DAZN LaLiga
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317412
-
-#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-name="ES: DAZN LaLiga 2" tvg-logo="http://gigitivu.top:8080/images/27965e113f02befd89c9005bc2585da1.png" group-title="Tdt",DAZN LaLiga 2
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317413
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://gigipicons.top:8080/images/d61dc09c7c793b252d6381b4faf25142.png" group-title="Tdt",Decasa
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317414
@@ -979,7 +943,6 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317566
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317567
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVE Internacional Europa" tvg-logo="http://gigipicons.top:8080/images/5ecb0f7053377936b80c56a1dd78bf05.png" group-title="Tdt",TVE Internacional Europa
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317568
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVE Star" tvg-logo="http://gigipicons.top:8080/images/1ee423c71fc7f7f7324b62791629e444.png" group-title="Tdt",TVE Star
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317571
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVG 2" tvg-logo="http://gigipicons.top:8080/images/1410ad39edb7e2c4ae2328fc017fc9ed.jpg" group-title="Tdt",TVG 2
@@ -999,39 +962,30 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317578
 #EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="http://gigipicons.top:8080/images/463d60b7036059b0f10d5a05a190c445.png" group-title="Tdt",XTRM
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317579
 
-#EXTINF:-1 tvg-id="" tvg-name="Top Gun Maverick" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_10f18b4e6297ee7c77a38938fe7ff74f.jpg" group-title="Películas",Top Gun Maverick
-https://cloud-s76-91-48-193.spcdn.cc/h75blmfjete2alhulo6d4l6jjyxcp67ru2vqylfjw5dqsxfccip52ulekuyq/v.mp4
+#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn",Dazn LaLiga
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317412
 
-#EXTINF:-1 tvg-id="" tvg-name="Top Gun" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_facb9a3e83de0686beaeacc2b3e2d4e8.jpg" group-title="Películas",Top Gun
-https://stream-4191-31-165.cdnpvd.co/kqohofexheikkfn2mbn7qiishdnk3s5dmot5iqvnbcyiszyc5nuhre5g3m/v.mp4
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn",DAZN LaLiga 2
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317413
 
-#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_56d75f86ffc777ee516024636a606c80.jpg" group-title="Películas",Titanic
-https://stream-4091-31-168.cdnpvd.co/kuohp3umh4ikkfn2mbd7qickmc2zmgjd36cczfd6ugbtj3ciafcuoevrdi/v.mp4
+#EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Deportes",Dazn 1
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317407
 
-#EXTINF:-1 tvg-id="" tvg-name="Puentes Madison" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_b044280d4093452309e222ebcc484490.jpg" group-title="Películas",Los Puentes de Madison
-https://cloud-s8091-48-224.spcdn.cc/h75aqutnzdekalhulnfdyk6eitgvtwdpad6h4ybnqu7javvbr2bmyuincvnq/v.mp4
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn",Dazn 1
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317407
 
-#EXTINF:-1 tvg-id="" tvg-name="Llenos de Gracia" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_c427271577eb43a92abd6ae869553d0c.jpg" group-title="Películas",Llenos de Gracia
-https://cloud-s7294-109-109.spcdn.cc/h75bccimfde2alhulmvd4lgniv7yei2vposbjgwvygb3w2rfnun3dsfql2rq/v.mp4
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Dazn",Dazn 2
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317408
 
-#EXTINF:-1 tvg-id="" tvg-name="Mas Alla de los Sueños" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_43a981c1d47e10ec670ba1f0aa74954f.jpg" group-title="Películas",Mas Alla de los Sueños
-https://stream-4191-31-165.cdnpvd.co/kqoho6m2beikkfn2mae7sjyxmkw6mb7zmxb4mjyneutvy4b4brim7yc7by/v.mp4
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="Dazn",Dazn 3
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317409
 
-#EXTINF:-1 tvg-id="" tvg-name="Free Guy" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_8fab7be8f7d0a1bfe6be6fc51e99a0e1.jpg" group-title="Películas",Free Guy
-https://cloud-s76-91-48-193.spcdn.cc/h75bp7toy3ekalhulm7d2mghc4aggxvfwbb42ci7rvwpgte63yt4lzviexzq/v.mp4
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="Dazn",Dazn 4
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317410
 
-#EXTINF:-1 tvg-id="" tvg-name="Ghost" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_711d269cc294835a7102f6321097906e.jpg" group-title="Películas",Ghost
-https://cloud-s7294-109-109.spcdn.cc/h75bfl2gzhekalhuln7dy7gjaqzp7f73k2ht46ypcmipxt6zhsrwxouiqw4a/v.mp4
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Dazn",Dazn F1
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317411
 
-#EXTINF:-1 tvg-id="" tvg-name="Minecraft" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_d9d4fe52c68ec559514d66d329dfae22.jpg" group-title="Películas",Minecraft
-https://872371108.tapecontent.net/radosgw/9XwOdo3x04HaqJl/mj91b6QtaPrmwJxCcgNOlucUOdKo4qxzBmL2P7_UyX2gljrZ4QPmORWksm5QFFjmnarbMADqkia3H_vWlQ-Q8tU2_5OCx0b6jE_AY1LEaup03VAaQmaNoGuKVUeoU23IHcdUTOIGLCN1vcyIMzggxp3vkSvYOSlepbNHX2Z-vziC7DHYJIELY1iuF-P3s1XFbnWuABTswEWlRrKibxBl1lYf042c4ne8NjBzlBSl9iu-KEKY_yHfoRcNyXsXuhcVJpYyqdkHbNXw9awmxZxJlwqYF1K-aasGSYQ9cb462E_bNDuA52AzkNjoYu1Gag7NvGFygcirWyRDUgC1/Una+pel%C3%ADcula+de+Minecraft+%282025%29+-+flipax.es.mp4?stream=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Mufasa" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_d27471e12f5d8a4df0ac2708d57144e8.jpg" group-title="Películas",Mufasa
-https://cloud-s76-91-48-193.spcdn.cc/h75blpmse7e2alhulogd47gvbeimy3w6ljpbvkrh6nfhszvwp264x42xcluq/v.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_7890d770eadc24a2dbf11d2b520dcff5.jpg" group-title="Películas",Aladdin
-https://stream-47178-64-178.cdnpvd.co/kiohpzhdhiikkfn2madpqy2lmm63k2smayduzh7njj4mqe6jzwtqxcqdve/v.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Pretty Woman" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_73a736dfe6ad928232bcfe6fbd619691.jpg" group-title="Películas",Pretty Woman
-https://cloud-s8091-48-224.spcdn.cc/h75axiqfypekalhulp7dykopcn7i2bx756espb4ryxeorynnv2tbirdd35xa/v.mp4
 
