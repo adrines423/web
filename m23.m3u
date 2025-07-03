@@ -195,6 +195,9 @@ http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(HISTORIA)/index.m3u8
 #EXTINF:-1 tvg-ID="M+ Documentales HD" tvg-name="M+ Documentales" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="Documentales",M+ Documentales
 http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/87108
 
+#EXTINF:-1 tvg-ID="BuenViaje" tvg-name="Buen Viaje" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png" group-title="Documentales",Buen Viaje
+http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/60251
+
 #EXTINF:-1 tvg-ID="Canal Cocina" tvg-name="Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="Documentales",Cocina
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(COCINASD)/index.m3u8
 
