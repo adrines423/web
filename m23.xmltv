@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 14/07/2025 16:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="Adrines" generator-info-url="t.me/adrines3">
 <channel id="Grease">
     <display-name lang="es">Grease</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" />
@@ -12,7 +12,7 @@
 · País: España
 · Presenta: Cristina Pardo, Iñaki López.</desc>
     <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEXTAF4067576" />
+    <icon src="https://image.tmdb.org/t/p/original/koSWhCzMJfJOramu4KD0ZZifqpi.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
