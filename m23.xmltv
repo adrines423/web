@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Adrines" generator-info-url="t.me/adrines3">
+<tv generator-info-name="dobleM 14/07/2025 16:50" generator-info-url="t.me/EPG_dobleM">
 <channel id="Grease">
-    <display-name lang="es">Grease2</display-name>
+    <display-name lang="es">Grease</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" />
   </channel>
+
 <programme start="20250714171500 +0200" stop="20250714220000 +0200" channel="Grease">
-    <title lang="es">Grease2</title>
-    <desc lang="es">Esta peli es Grease espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
-    <category lang="es">Peliculas</category>
-    <icon src="https://image.tmdb.org/t/p/original/koSWhCzMJfJOramu4KD0ZZifqpi.jpg" />
+    <title lang="es">Más vale tarde T24/25 E714</title>
+    <desc lang="es">Información/Informativo | 2025 | ⑯
+· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+· País: España
+· Presenta: Cristina Pardo, Iñaki López.</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEXTAF4067576" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-
-
-
-
-
-
 </tv>
