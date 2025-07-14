@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Adrines" generator-info-url="t.me/adrines3">
 <channel id="Grease">
-    <display-name lang="es">Grease2</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" />
-  </channel>
+    <display-name lang="es">Grease</display-name>
+</channel>
+<channel id="Free Guy">
+    <display-name lang="es">Free Guy</display-name>
+</channel>
+
+
 <programme start="20250714171500 +0200" stop="20250714220000 +0200" channel="Grease">
-    <title lang="es">Grease2</title>
+    <title lang="es">Grease222</title>
     <desc lang="es">Esta peli es Grease espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
     <category lang="es">Peliculas</category>
     <icon src="https://image.tmdb.org/t/p/original/koSWhCzMJfJOramu4KD0ZZifqpi.jpg" />
   </programme>
 
-
-
+<programme start="20250714191500 +0200" stop="20250714230000 +0200" channel="Free Guy">
+    <title lang="es">Free Guy</title>
+    <desc lang="es">Esta peli es Free guy cy¡ ssdf sdfsdfksddfksdffkdsf sdf sdf sdf .
+    <category lang="es">Peliculas</category>
+    <icon src="https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/3MF0ADRkiNkhklmCo9o4zTT39Mj.jpg" />
+  </programme>
 
 
 
