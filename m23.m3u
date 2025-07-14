@@ -1167,12 +1167,34 @@ https://player.osjonosu.com/public/uploads/videos/7f9eeecbf04dbb1619b5dccc98d4bd
 #EXTINF:-1 tvg-id="" tvg-name="Free Guy" tvg-logo="https://image.tmdb.org/t/p/w500//suaooqn1Mnv60V19MoGxneMupJs.jpg" group-title="Películas",Free Guy
 https://player.osjonosu.com/public/uploads/videos/f039d070f34c55ea8a1df42ac55c20f9/processed/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator II" tvg-logo="https://osjonosu.es/wp-content/uploads/2024/12/fbcs5AxrdXwyj1b8bGGMgC9kXrM-200x300.jpg" group-title="Películas",Gladiator II
+https://player.osjonosu.com/public/uploads/videos/8ce8dbc3946077ecb20536114863f6f3/processed/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Rosalina" tvg-logo="https://osjonosu.es/wp-content/uploads/2022/10/vA9rod9aTWCylzV7gBlhyrPsD4s-200x300.jpg" group-title="Pel. Comedia",Rosalina
+https://player.osjonosu.com/public/uploads/videos/f1e6303e7dc8f52b8e4290a4dde24a31/processed/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Grease" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/flSy0dexE82TiS6Si2FtulSHk8o.jpg" group-title="Pel. Musical",Grease
+https://player.osjonosu.com/public/uploads/videos/40521bbcfba6575f58b685d0b353aeba/processed/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Aventura en Marruecos" tvg-logo="https://osjonosu.es/wp-content/uploads/2024/10/pN9Vw5A3Eu868XqidnKcTdUW1Kq-200x300.jpg" group-title="Pel. Romance",Aventura en Marruecos
+https://player.osjonosu.com/public/uploads/videos/f78bade99eaab9e3c94c097c289c4463/processed/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Priscilla" tvg-logo="https://osjonosu.es/wp-content/uploads/2024/06/2i9EgnxyXcD0POswNcirYCSm2iP-200x300.jpg" group-title="Pel. Romance",Priscilla
+https://player.osjonosu.com/public/uploads/videos/837c6af4cc2eae2f05f7438ac03073d6/processed/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Raya y el dragon" tvg-logo="https://image.tmdb.org/t/p/w500//hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Pel. Dibujos",Raya y el Dragon
 https://player.osjonosu.com/public/uploads/videos/f128afa2e06ebbe925db508da3866040/processed/video/720/720.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Blancanieves 2025" tvg-logo="https://osjonosu.es/wp-content/uploads/2025/05/7FZhpH4YasGdvY4FUGQJhCusLeg-200x300.jpg" group-title="Pel. Familia",Blancanieves 2025
 https://player.osjonosu.com/public/uploads/videos/2e90e161548d5b075860d160f832c528/processed/master.m3u8
@@ -1189,7 +1211,7 @@ https://player.osjonosu.com/public/uploads/videos/21a19650a9e110752bbc5eacf3db86
 #EXTINF:-1 tvg-id="" tvg-name="Padre no hay mas que uno 2" tvg-logo="https://image.tmdb.org/t/p/w500//7MjODwcPV5tAEa1zlje9N4gReGS.jpg" group-title="Pel. Familia",Padre no hay mas que uno 2
 https://player.osjonosu.com/public/uploads/videos/90fbcce857a81aa8f8525a74fb440912/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Padre no hay mas que uno 3" tvg-logo="https://image.tmdb.org/t/p/w500//7MjODwcPV5tAEa1zlje9N4gReGS.jpg" group-title="Pel. Familia",Padre no hay mas que uno 3
+#EXTINF:-1 tvg-id="" tvg-name="Padre no hay mas que uno 3" tvg-logo="https://osjonosu.es/wp-content/uploads/2022/09/bb7mPVCKVPGFM0NTqd5JmqqI4gu-209x300.jpg" group-title="Pel. Familia",Padre no hay mas que uno 3
 https://player.osjonosu.com/public/uploads/videos/8d00922a5e98c46936180c25749ded94/processed/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Padre no hay mas que uno 4" tvg-logo="https://osjonosu.es/wp-content/uploads/2024/09/bDXDvPQYvnh8OKA5qJEAvHtfUp6-200x300.jpg" group-title="Pel. Familia",Padre no hay mas que uno 4
