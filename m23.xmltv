@@ -6,15 +6,11 @@
   </channel>
 
 <programme start="20250714171500 +0200" stop="20250714220000 +0200" channel="Grease">
-    <title lang="es">Más vale tarde T24/25 E714</title>
-    <desc lang="es">Información/Informativo | 2025 | ⑯
-· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+    <title lang="es">Grease</title>
+    <desc lang="es">Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
 · País: España
 · Presenta: Cristina Pardo, Iñaki López.</desc>
-    <category lang="es">Información, Informativo</category>
+    <category lang="es">Peliculas</category>
     <icon src="https://image.tmdb.org/t/p/original/koSWhCzMJfJOramu4KD0ZZifqpi.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
   </programme>
 </tv>
