@@ -1197,11 +1197,17 @@ https://player.osjonosu.com/public/uploads/videos/f128afa2e06ebbe925db508da38660
 #EXTINF:-1 tvg-id="Blancanieves 2025" tvg-name="Blancanieves 2025" tvg-logo="https://image.tmdb.org/t/p/w300/tyfO9jHgkhypUFizRVYD0bytPjP.jpg" group-title="Pel. Familia",Blancanieves 2025
 https://player.osjonosu.com/public/uploads/videos/2e90e161548d5b075860d160f832c528/processed/master.m3u8
 
+#EXTINF:-1 tvg-id="Mufasa" tvg-name="Mufasa" tvg-logo="https://image.tmdb.org/t/p/w300/lWMa1FdgC7zP9ATVg6dgpZ3rxhe.jpg" group-title="Pel. Familia",Mufasa
+https://player.osjonosu.com/public/uploads/videos/38ae9934f9ef0af29b9dc68c09d09acd/processed/master.m3u8
+
+#EXTINF:-1 tvg-id="Aladdin" tvg-name="Aladdin" tvg-logo="https://image.tmdb.org/t/p/w300/v4yVTbbl8dE1UP2dWu5CLyaXOku.jpg" group-title="Pel. Familia",Aladdin
+https://player.osjonosu.com/public/uploads/videos/0acf9d8c4908561c6fba78f05b7042a0/processed/master.m3u8
+
 #EXTINF:-1 tvg-id="Minecraft" tvg-name="Minecraft" tvg-logo="https://image.tmdb.org/t/p/w300/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg" group-title="Pel. Familia",Minecraft
 https://player.osjonosu.com/public/uploads/videos/47bf0e9ebbe58b29121e4bd14072cc25/processed/video/1040/1040.m3u8
 
-#EXTINF:-1 tvg-id="Mufasa" tvg-name="Mufasa" tvg-logo="https://image.tmdb.org/t/p/w300/lWMa1FdgC7zP9ATVg6dgpZ3rxhe.jpg" group-title="Pel. Familia",Mufasa
-https://player.osjonosu.com/public/uploads/videos/38ae9934f9ef0af29b9dc68c09d09acd/processed/master.m3u8
+#EXTINF:-1 tvg-id="A todo tren" tvg-name="A todo tren" tvg-logo="https://image.tmdb.org/t/p/w300/mA9PrseviOSHkM2lZja9FAUoarN.jpg" group-title="Pel. Familia",A todo tren
+https://player.osjonosu.com/public/uploads/videos/afe4d98dc4838b2643550fdde6e0388c/processed/master.m3u8
 
 #EXTINF:-1 tvg-id="Padre no hay mas que uno" tvg-name="Padre no hay mas que uno" tvg-logo="https://image.tmdb.org/t/p/original/aMXJvb3eEI0Dcr3MhiOSXFh3xyA.jpg" group-title="Pel. Familia",Padre no hay mas que uno
 https://player.osjonosu.com/public/uploads/videos/21a19650a9e110752bbc5eacf3db8676/processed/master.m3u8
@@ -1215,8 +1221,8 @@ https://player.osjonosu.com/public/uploads/videos/8d00922a5e98c46936180c25749ded
 #EXTINF:-1 tvg-id="Padre no hay mas que uno 4" tvg-name="Padre no hay mas que uno 4" tvg-logo="https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/phZbS20UWYgsuZQSYumFtyWuuzm.jpg" group-title="Pel. Familia",Padre no hay mas que uno 4
 https://player.osjonosu.com/public/uploads/videos/bb76bf59350f1967191e530f75c04e1f/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="Destino Asturias" tvg-name="Destino Asturias" tvg-logo="https://image.tmdb.org/t/p/w300/mA9PrseviOSHkM2lZja9FAUoarN.jpg" group-title="Pel. Familia",Destino Asturias
-https://player.osjonosu.com/public/uploads/videos/afe4d98dc4838b2643550fdde6e0388c/processed/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Zombies 4" tvg-name="Zombies 4" tvg-logo="https://image.tmdb.org/t/p/w300/dR92KncmOTDKDDJlTVWCeEEGl4d.jpg" group-title="Pel. Familia",Zombies 4
 https://player.osjonosu.com/public/uploads/videos/937792e53bfd451de1a385d826bd79af/processed/master.m3u8
