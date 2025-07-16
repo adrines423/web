@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="dobleM 14/07/2025 16:50" generator-info-url="t.me/EPG_dobleM">
+<channel id="Grease">
+    <display-name lang="es">Grease</display-name>
+</channel>
+<channel id="Free Guy">
+    <display-name lang="es">Free Guy</display-name>
+</channel>
+<channel id="Rosalina">
+    <display-name lang="es">Rosalina</display-name>
+</channel>
+<channel id="Top Gun">
+    <display-name lang="es">Top Gun</display-name>
+</channel>
+<channel id="Gladiator II">
+    <display-name lang="es">Gladiator II</display-name>
+</channel>
+<channel id="Aventura en Marruecos">
+    <display-name lang="es">Aventura en Marruecos</display-name>
+</channel>
+<channel id="Priscilla">
+    <display-name lang="es">Priscilla</display-name>
+</channel>
+<channel id="Raya y el dragon">
+    <display-name lang="es">Raya y el dragon</display-name>
+</channel>
+<channel id="Blancanieves 2025">
+    <display-name lang="es">Blancanieves 2025</display-name>
+</channel>
+<channel id="Minecraft">
+    <display-name lang="es">Minecraft</display-name>
+</channel>
+
+<programme start="20250101000000" stop="99999999999999" channel="Grease">
+    <title lang="es">Grease</title>
+    <desc lang="es">Sandy y Danny han pasado un romántico y maravilloso verano juntos, pero las vacaciones se acabaron y sus caminos se separaron. Al regresar al instituto Rydell, ambos vuelven a encontrarse de manera sorpresiva, pero el problema es que la imagen y actitud de Danny no es la misma que durante el verano: ya no es el encantador y atento chico que encandiló a Sandy, sino alguien engreído e insensible que sólo quiere presumir de duro delante de sus amigos.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999" channel="Free Guy">
+    <title lang="es">Free Guy</title>
+    <desc lang="es">Guy (Ryan Reynolds) trabaja como cajero de un banco, y es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como si nada. Pero un día se da cuenta de que Free City no es exactamente la ciudad que él creía. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999" channel="Rosalina">
+    <title lang="es">Rosalina</title>
+    <desc lang="es">Con el corazón roto después de que Romeo comenzara a cortejar a su prima Julieta, Rosalina planea frustrar el famoso romance y recuperar a su chico en este giro de la novela de Shakespeare.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999" channel="Top Gun">
+    <title lang="es">Top Gun</title>
+    <desc lang="es">La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999" channel="Gladiator II">
+    <title lang="es">Gladiator II</title>
+    <desc lang="es">Años después de presenciar la muerte del admirado héroe Máximo a manos de su tío, Lucio se ve forzado a entrar en el Coliseo tras ser testigo de la conquista de su hogar por parte de los tiránicos emperadores que dirigen Roma con puño de hierro. Con un corazón desbordante de furia y el futuro del imperio en juego, Lucio debe rememorar su pasado en busca de la fuerza y el honor que devuelvan al pueblo la gloria perdida de Roma.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999" channel="Aventura en Marruecos">
+    <title lang="es">Aventura en Marruecos</title>
+    <desc lang="es">En un idílico retiro de escritores en Marruecos, una novelista recién separada conecta inesperadamente con un hombre más joven que se cuestiona las decisiones de su vida.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999" channel="Priscilla">
+    <title lang="es">Priscilla</title>
+    <desc lang="es">Cuando la adolescente Priscilla Beaulieu conoce a Elvis Presley en una fiesta, él ya es una meteórica superestrella del rock and roll pero se convierte en alguien totalmente inesperado en momentos privados: un apasionante flechazo, un aliado en la soledad, un vulnerable mejor amigo. Película basada en las memorias ‘Elvis and Me’, escritas por Priscilla Beaulieu Presley, publicadas en 1985 y que relatan el largo noviazgo y turbulento matrimonio de Elvis y Priscilla, desde una base militar alemana hasta su finca de ensueño en Graceland.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999" channel="Raya y el dragon">
+    <title lang="es">Raya y el dragon</title>
+    <desc lang="es">Raya, una niña de gran espíritu aventurero, se embarca en la búsqueda del último dragón del mundo con el objetivo de devolver el equilibrio a Kumandra, un lejano y recóndito territorio habitado por una civilización milenaria.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999" channel="Blancanieves 2025">
+    <title lang="es">Blancanieves 2025</title>
+    <desc lang="es">Tras la desaparición del benévolo Rey, la Reina Malvada dominó la otrora bella tierra con una vena cruel. La princesa Blancanieves huye del castillo cuando la Reina, celosa de su belleza interior, intenta matarla. En lo profundo del oscuro bosque, se topa con siete enanos mágicos y un joven bandido llamado Jonathan. Juntos, luchan por sobrevivir a la implacable persecución de la Reina y aspiran a recuperar el reino en el proceso.</desc>
+</programme>
+
+<programme start="20250101000000" stop="99999999999999 channel="Minecraft">
+    <title lang="es">Minecraft</title>
+    <desc lang="es">Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.</desc>
+</programme>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tv>
+
+
