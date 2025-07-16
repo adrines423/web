@@ -1161,65 +1161,65 @@ http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/786
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Top Gun" tvg-logo="https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/rKnV3trNmix8OpCFzuGmzbXVORm.jpg" group-title="Películas",Top Gun
+#EXTINF:-1 tvg-id="Top Gun" tvg-name="Top Gun" tvg-logo="https://image.tmdb.org/t/p/w300/am0wHjplG1YynuDWz2LPWx5V9kJ.jpg" group-title="Películas",Top Gun
 https://player.osjonosu.com/public/uploads/videos/7f9eeecbf04dbb1619b5dccc98d4bdab/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="Free Guy" tvg-name="Free Guy" tvg-logo="https://image.tmdb.org/t/p/w500//suaooqn1Mnv60V19MoGxneMupJs.jpg" group-title="Películas",Free Guy
+#EXTINF:-1 tvg-id="Free Guy" tvg-name="Free Guy" tvg-logo="https://image.tmdb.org/t/p/w300/3MF0ADRkiNkhklmCo9o4zTT39Mj.jpg" group-title="Películas",Free Guy
 https://player.osjonosu.com/public/uploads/videos/f039d070f34c55ea8a1df42ac55c20f9/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Gladiator II" tvg-logo="https://osjonosu.es/wp-content/uploads/2024/12/fbcs5AxrdXwyj1b8bGGMgC9kXrM-200x300.jpg" group-title="Películas",Gladiator II
+#EXTINF:-1 tvg-id="Gladiator II" tvg-name="Gladiator II" tvg-logo="https://image.tmdb.org/t/p/w300/vfI2n6NmEHIT38LrTsR22pcCiGV.jpg" group-title="Películas",Gladiator II
 https://player.osjonosu.com/public/uploads/videos/8ce8dbc3946077ecb20536114863f6f3/processed/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Rosalina" tvg-logo="https://image.tmdb.org/t/p/original/s4ZEtO5Lo444WJ5lBVyYARAq08.jpg" group-title="Pel. Comedia",Rosalina
+#EXTINF:-1 tvg-id="Rosalina" tvg-name="Rosalina" tvg-logo="https://image.tmdb.org/t/p/w300/s4ZEtO5Lo444WJ5lBVyYARAq08.jpg" group-title="Pel. Comedia",Rosalina
 https://player.osjonosu.com/public/uploads/videos/f1e6303e7dc8f52b8e4290a4dde24a31/processed/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Grease" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/flSy0dexE82TiS6Si2FtulSHk8o.jpg" group-title="Pel. Musical",Grease
+#EXTINF:-1 tvg-id="Grease" tvg-name="Grease" tvg-logo="https://image.tmdb.org/t/p/w300/koSWhCzMJfJOramu4KD0ZZifqpi.jpg
+" group-title="Pel. Musical",Grease
 https://player.osjonosu.com/public/uploads/videos/40521bbcfba6575f58b685d0b353aeba/processed/master.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Aventura en Marruecos" tvg-logo="https://osjonosu.es/wp-content/uploads/2024/10/pN9Vw5A3Eu868XqidnKcTdUW1Kq-200x300.jpg" group-title="Pel. Romance",Aventura en Marruecos
+#EXTINF:-1 tvg-id="Aventura en Marruecos" tvg-name="Aventura en Marruecos" tvg-logo="https://image.tmdb.org/t/p/w300/zkvN3WeNvQQNxPmfcYFyijpANJ4.jpg" group-title="Pel. Romance",Aventura en Marruecos
 https://player.osjonosu.com/public/uploads/videos/f78bade99eaab9e3c94c097c289c4463/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Priscilla" tvg-logo="https://osjonosu.es/wp-content/uploads/2024/06/2i9EgnxyXcD0POswNcirYCSm2iP-200x300.jpg" group-title="Pel. Romance",Priscilla
+#EXTINF:-1 tvg-id="Priscilla" tvg-name="Priscilla" tvg-logo="https://image.tmdb.org/t/p/w300/zz219ZRGo0vVIzvKttjx5nXOc2N.jpg" group-title="Pel. Romance",Priscilla
 https://player.osjonosu.com/public/uploads/videos/837c6af4cc2eae2f05f7438ac03073d6/processed/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Raya y el dragon" tvg-logo="https://image.tmdb.org/t/p/w500//hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Pel. Dibujos",Raya y el Dragon
+#EXTINF:-1 tvg-id="Raya y el dragon" tvg-name="Raya y el dragon" tvg-logo="https://image.tmdb.org/t/p/w300/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg" group-title="Pel. Dibujos",Raya y el Dragon
 https://player.osjonosu.com/public/uploads/videos/f128afa2e06ebbe925db508da3866040/processed/video/720/720.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Blancanieves 2025" tvg-logo="https://osjonosu.es/wp-content/uploads/2025/05/7FZhpH4YasGdvY4FUGQJhCusLeg-200x300.jpg" group-title="Pel. Familia",Blancanieves 2025
+#EXTINF:-1 tvg-id="Blancanieves 2025" tvg-name="Blancanieves 2025" tvg-logo="https://image.tmdb.org/t/p/w300/tyfO9jHgkhypUFizRVYD0bytPjP.jpg" group-title="Pel. Familia",Blancanieves 2025
 https://player.osjonosu.com/public/uploads/videos/2e90e161548d5b075860d160f832c528/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Minecraft" tvg-logo="https://osjonosu.es/wp-content/uploads/2025/05/mFjtmmh4RtK9tLv1aPnUsl6st3m-200x300.jpg" group-title="Pel. Familia",Minecraft
+#EXTINF:-1 tvg-id="Minecraft" tvg-name="Minecraft" tvg-logo="https://image.tmdb.org/t/p/w300/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg" group-title="Pel. Familia",Minecraft
 https://player.osjonosu.com/public/uploads/videos/47bf0e9ebbe58b29121e4bd14072cc25/processed/video/1040/1040.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mufasa" tvg-logo="https://osjonosu.es/wp-content/uploads/2025/02/lk4NNdeQrb6zbRSogDSdE6qmjk8-200x300.jpg" group-title="Pel. Familia",Mufasa
+#EXTINF:-1 tvg-id="Mufasa" tvg-name="Mufasa" tvg-logo="https://image.tmdb.org/t/p/w300/lWMa1FdgC7zP9ATVg6dgpZ3rxhe.jpg" group-title="Pel. Familia",Mufasa
 https://player.osjonosu.com/public/uploads/videos/38ae9934f9ef0af29b9dc68c09d09acd/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Padre no hay mas que uno" tvg-logo="https://image.tmdb.org/t/p/w500//eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="Pel. Familia",Padre no hay mas que uno
+#EXTINF:-1 tvg-id="Padre no hay mas que uno" tvg-name="Padre no hay mas que uno" tvg-logo="https://image.tmdb.org/t/p/original/aMXJvb3eEI0Dcr3MhiOSXFh3xyA.jpg" group-title="Pel. Familia",Padre no hay mas que uno
 https://player.osjonosu.com/public/uploads/videos/21a19650a9e110752bbc5eacf3db8676/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Padre no hay mas que uno 2" tvg-logo="https://image.tmdb.org/t/p/w500//7MjODwcPV5tAEa1zlje9N4gReGS.jpg" group-title="Pel. Familia",Padre no hay mas que uno 2
+#EXTINF:-1 tvg-id="Padre no hay mas que uno 2" tvg-name="Padre no hay mas que uno 2" tvg-logo="https://image.tmdb.org/t/p/w300/pUHcxzstSlsQgeuRA11pEBB6Nu1.jpg" group-title="Pel. Familia",Padre no hay mas que uno 2
 https://player.osjonosu.com/public/uploads/videos/90fbcce857a81aa8f8525a74fb440912/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Padre no hay mas que uno 3" tvg-logo="https://osjonosu.es/wp-content/uploads/2022/09/bb7mPVCKVPGFM0NTqd5JmqqI4gu-209x300.jpg" group-title="Pel. Familia",Padre no hay mas que uno 3
+#EXTINF:-1 tvg-id="Padre no hay mas que uno 3" tvg-name="Padre no hay mas que uno 3" tvg-logo="https://image.tmdb.org/t/p/w300/i9BtOklh2txI78wNSTNjoAZ6Fvj.jpg" group-title="Pel. Familia",Padre no hay mas que uno 3
 https://player.osjonosu.com/public/uploads/videos/8d00922a5e98c46936180c25749ded94/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Padre no hay mas que uno 4" tvg-logo="https://osjonosu.es/wp-content/uploads/2024/09/bDXDvPQYvnh8OKA5qJEAvHtfUp6-200x300.jpg" group-title="Pel. Familia",Padre no hay mas que uno 4
+#EXTINF:-1 tvg-id="Padre no hay mas que uno 4" tvg-name="Padre no hay mas que uno 4" tvg-logo="https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/phZbS20UWYgsuZQSYumFtyWuuzm.jpg" group-title="Pel. Familia",Padre no hay mas que uno 4
 https://player.osjonosu.com/public/uploads/videos/bb76bf59350f1967191e530f75c04e1f/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Destino Asturias" tvg-logo="https://osjonosu.es/wp-content/uploads/2021/10/wEbBaFX7DBSrv0GbLvJFZXQ7Sdw-200x300.jpg" group-title="Pel. Familia",Destino Asturias
+#EXTINF:-1 tvg-id="Destino Asturias" tvg-name="Destino Asturias" tvg-logo="https://image.tmdb.org/t/p/w300/mA9PrseviOSHkM2lZja9FAUoarN.jpg" group-title="Pel. Familia",Destino Asturias
 https://player.osjonosu.com/public/uploads/videos/afe4d98dc4838b2643550fdde6e0388c/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zombies 4" tvg-logo="https://osjonosu.es/wp-content/uploads/2025/07/6EHx7lOm1jvNTr6lqRxiqmnFFDt-200x300.jpg" group-title="Pel. Familia",Zombies 4
+#EXTINF:-1 tvg-id="Zombies 4" tvg-name="Zombies 4" tvg-logo="https://image.tmdb.org/t/p/w300/dR92KncmOTDKDDJlTVWCeEEGl4d.jpg" group-title="Pel. Familia",Zombies 4
 https://player.osjonosu.com/public/uploads/videos/937792e53bfd451de1a385d826bd79af/processed/master.m3u8
 
 
