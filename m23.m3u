@@ -1195,7 +1195,7 @@ https://player.osjonosu.com/public/uploads/videos/f128afa2e06ebbe925db508da38660
 
 
 
-#EXTINF:-1 tvg-id="Blancanieves 2025" tvg-name="Blancanieves 2025" tvg-logo="https://image.tmdb.org/t/p/w300/tyfO9jHgkhypUFizRVYD0bytPjP.jpg" group-title="Pel. Familia",Blancanieves 2025
+#EXTINF:-1 tvg-id="Blancanieves" tvg-name="Blancanieves 2025" tvg-logo="https://image.tmdb.org/t/p/w300/tyfO9jHgkhypUFizRVYD0bytPjP.jpg" group-title="Pel. Familia",Blancanieves 2025
 https://player.osjonosu.com/public/uploads/videos/2e90e161548d5b075860d160f832c528/processed/master.m3u8
 
 #EXTINF:-1 tvg-id="Mufasa" tvg-name="Mufasa" tvg-logo="https://image.tmdb.org/t/p/w300/lWMa1FdgC7zP9ATVg6dgpZ3rxhe.jpg" group-title="Pel. Familia",Mufasa
@@ -1250,11 +1250,52 @@ http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/286505.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Free Guy" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_8fab7be8f7d0a1bfe6be6fc51e99a0e1.jpg" group-title="Películas VOD",Free Guy
 http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/400376171.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Mufasa" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_d27471e12f5d8a4df0ac2708d57144e8.jpg" group-title="Películas VOD",Mufasa
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401611003.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Anora" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_1483c200f9447db0a4324c52d5d7c4ea.jpg" group-title="Películas VOD",Anora
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401599507.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Arde Notre Dame" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_792d922a83886e22447388aa0322a724.jpg" group-title="Películas VOD",Arde Notre Dame
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/400687251.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Gru 4" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_b3884618fa93b103e0b92ade49b68fbe.jpg" group-title="Películas VOD",Gru 4
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401714116.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A todo tren 2" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_b1bf37250f3ed6a81fe0d91e6bc6e602.jpg" group-title="Películas VOD",A todo tren 2
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/400684200.avi
+
 #EXTINF:-1 tvg-id="" tvg-name="Minecraft" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_d9d4fe52c68ec559514d66d329dfae22.jpg" group-title="Películas VOD",Minecraft
 http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401669404.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mufasa" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_d27471e12f5d8a4df0ac2708d57144e8.jpg" group-title="Películas VOD",Mufasa
-http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401611003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_f555156a0a785b0a64ad961c81e540aa.jpg" group-title="Películas VOD",Bad Boys
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401714112.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bambi: Vida en el bosque" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_dace00c0a3077aa3ffd5ca54291d03cc.jpg" group-title="Películas VOD",Bambi: Vida en el bosque
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401667036.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Blancanieves" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_6d5e983eb414dd467568e90220ef40c2.jpg" group-title="Películas VOD",Blancanieves
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401667043.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Cualquiera menos tú" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/vXT7jcza5CPEL9Fo4VSgW5hV7gb.jpg" group-title="Películas VOD",Cualquiera menos tú
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401065756.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Del Revés" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_ab763a07bca25aebd39d5822a120acab.jpg" group-title="Películas VOD",Del Revés
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401067606.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Del Revés 2" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_a22d2618635424a85d68fd06e91993fa.jpg" group-title="Películas VOD",Del Revés 2
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401350646.mp4
+
+
+
+
+
+
+
+
+
+
+
 
 
 
