@@ -6,6 +6,9 @@
 <channel id="Free Guy">
     <display-name lang="es">Free Guy</display-name>
 </channel>
+<channel id="Free Guy Op.2">
+    <display-name lang="es">Free Guy Op.2</display-name>
+</channel>
 <channel id="Rosalina">
     <display-name lang="es">Rosalina</display-name>
 </channel>
@@ -66,6 +69,13 @@ Sandy y Danny han pasado un romántico y maravilloso verano juntos, pero las va
 </programme>
 <programme start="20250101000000" stop="99999999999999" channel="Free Guy">
     <title lang="es">Free Guy (2021)</title>
+    <desc lang="es">Comedia/Aventura | 18/9/2021 | 1h 55m | +12 | *7.5/10
+Guy (Ryan Reynolds) trabaja como cajero de un banco, y es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como si nada. Pero un día se da cuenta de que Free City no es exactamente la ciudad que él creía. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego.</desc>
+    <icon src="https://media.themoviedb.org/t/p/w1000_and_h563_face/jRjO2Mw2Xp52eOGjcI6w5mkpcih.jpg" />
+    <category lang="es">Peliculas</category>
+</programme>
+<programme start="20250101000000" stop="99999999999999" channel="Free Guy Op.2">
+    <title lang="es">Free Guy Op.2 (2021)</title>
     <desc lang="es">Comedia/Aventura | 18/9/2021 | 1h 55m | +12 | *7.5/10
 Guy (Ryan Reynolds) trabaja como cajero de un banco, y es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como si nada. Pero un día se da cuenta de que Free City no es exactamente la ciudad que él creía. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego.</desc>
     <icon src="https://media.themoviedb.org/t/p/w1000_and_h563_face/jRjO2Mw2Xp52eOGjcI6w5mkpcih.jpg" />
