@@ -60,6 +60,9 @@
 <channel id="Wicked">
     <display-name lang="es">Wicked</display-name>
 </channel>
+<channel id="Titanic">
+    <display-name lang="es">Titanic</display-name>
+</channel>
 <programme start="20250101000000" stop="99999999999999" channel="Grease">
     <title lang="es">Grease (1978)</title>
     <desc lang="es">Romance/Comedia | 21/9/1978 | 1h 50m | +7 | *8.0/10
@@ -200,7 +203,13 @@ Ambientada en la Tierra de Oz, mucho antes de la llegada de Dorothy Gale desde K
     <icon src="https://image.tmdb.org/t/p/w300/jTOeWjamUKGxWVUO1TMZXqQUarw.jpg" />
     <category lang="es">Peliculas</category>
 </programme>
-
+<programme start="20250101000000" stop="99999999999999" channel="Titanic">
+    <title lang="es">Titanic (1997)</title>
+    <desc lang="es">Drama/Romance | 8/1/1998 | 3h 15m | +16 | *7.9/10
+Durante las labores de recuperación de los restos del famoso Titanic, una anciana norteamericana se pone en contacto con la expedición para acudir a una plataforma flotante instalada en el Mar del Norte y asistir 'in situ' a la recuperación de sus recuerdos. A través de su memoria reviviremos los acontecimientos que marcaron el siniestro más famoso del siglo XX: el hundimiento del trasatlántico más lujoso del mundo, la máquina más sofisticada de su tiempo, considerada «insumergible», que sucumbió a las heladas aguas del Atlántico en abril de 1912, llevándose consigo la vida de mil quinientas personas, más de la mitad del pasaje. En los recueros de la anciana hay cabida para algo más que la tragedia, la historia de amor que vivió con un joven pasajero de tercera clase, un pintor aficionado que había ganado su pasaje en una partida las cartas en una taberna de Southampton.</desc>
+    <icon src="https://image.tmdb.org/t/p/original/4eylxg940ocgdkHjab2Tm8jv2hb.jpg" />
+    <category lang="es">Peliculas</category>
+</programme>
 
 
 
