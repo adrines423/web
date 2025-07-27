@@ -1168,9 +1168,6 @@ https://player.osjonosu.com/public/uploads/videos/7f9eeecbf04dbb1619b5dccc98d4bd
 #EXTINF:-1 tvg-id="Free Guy" tvg-name="Free Guy" tvg-logo="https://image.tmdb.org/t/p/w300/3MF0ADRkiNkhklmCo9o4zTT39Mj.jpg" group-title="Pel. Aventura",Free Guy
 https://player.osjonosu.com/public/uploads/videos/f039d070f34c55ea8a1df42ac55c20f9/processed/master.m3u8
 
-#EXTINF:-1 tvg-id="Free Guy Op.2" tvg-name="Free Guy Op.2" tvg-logo="https://image.tmdb.org/t/p/w300/3MF0ADRkiNkhklmCo9o4zTT39Mj.jpg" group-title="Pel. Aventura",Free Guy Op.2
-http://adrines423.github.io/web/pel/fguy.m3u
-
 #EXTINF:-1 tvg-id="Gladiator II" tvg-name="Gladiator II" tvg-logo="https://image.tmdb.org/t/p/w300/vfI2n6NmEHIT38LrTsR22pcCiGV.jpg" group-title="Pel. Aventura",Gladiator II
 https://player.osjonosu.com/public/uploads/videos/8ce8dbc3946077ecb20536114863f6f3/processed/master.m3u8
 
@@ -1183,7 +1180,8 @@ https://player.osjonosu.com/public/uploads/videos/f1e6303e7dc8f52b8e4290a4dde24a
 #EXTINF:-1 tvg-id="Grease" tvg-name="Grease" tvg-logo="https://image.tmdb.org/t/p/w300/koSWhCzMJfJOramu4KD0ZZifqpi.jpg" group-title="Pel. Musical",Grease
 https://player.osjonosu.com/public/uploads/videos/40521bbcfba6575f58b685d0b353aeba/processed/master.m3u8
 
-
+#EXTINF:-1 tvg-id="Titanic" tvg-name="Titanic" tvg-logo="https://image.tmdb.org/t/p/w300/vIAm7UDNjGztvUYtDuS0in1VAXg.jpg" group-title="Pel. Romance",Titanic
+https://player.osjonosu.com/public/uploads/videos/5390b6496700f33eed1d020f092ca985/processed/master.m3u8
 
 #EXTINF:-1 tvg-id="Aventura en Marruecos" tvg-name="Aventura en Marruecos" tvg-logo="https://image.tmdb.org/t/p/w300/zkvN3WeNvQQNxPmfcYFyijpANJ4.jpg" group-title="Pel. Romance",Aventura en Marruecos
 https://player.osjonosu.com/public/uploads/videos/f78bade99eaab9e3c94c097c289c4463/processed/master.m3u8
@@ -1235,10 +1233,8 @@ https://player.osjonosu.com/public/uploads/videos/937792e53bfd451de1a385d826bd79
 
 
 
-
-#EXTINF:-1 tvg-id="Titanic" tvg-name="Titanic" tvg-logo="https://image.tmdb.org/t/p/w300/vIAm7UDNjGztvUYtDuS0in1VAXg.jpg" group-title="Pel. Romance",Titanic
-http://adrines423.github.io/web/pel/titan.m3u
-
+#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_56d75f86ffc777ee516024636a606c80.jpg" group-title="Películas VOD",Titanic
+http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/286757.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Top Gun" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_facb9a3e83de0686beaeacc2b3e2d4e8.jpg" group-title="Películas VOD",Top Gun
 http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/286762.mkv
@@ -1255,7 +1251,7 @@ http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/400376171.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mufasa" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_d27471e12f5d8a4df0ac2708d57144e8.jpg" group-title="Películas VOD",Mufasa
 http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401611003.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Anora" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_1483c200f9447db0a4324c52d5d7c4ea.jpg" group-title="Películas VOD",Anora – ⭐⭐⭐⭐☆ Historia del creador de la bomba atómica. Que se fue de juerga y tomo 43 cafes porque estaba aburrido de escribir cosas como estas y ademas mi tio tambien tenia un coche verde que no cabia en el parking de la cafeteria del bar de paco.
+#EXTINF:-1 tvg-id="" tvg-name="Anora" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_1483c200f9447db0a4324c52d5d7c4ea.jpg" group-title="Películas VOD",Anora
 http://gyzgmjtm.mhubery.xyz:80/movie/34FZJ249/NGLB3NLU/401599507.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Arde Notre Dame" tvg-logo="https://hdfullcdn.cc/tthumb/172x256/movie_792d922a83886e22447388aa0322a724.jpg" group-title="Películas VOD",Arde Notre Dame
