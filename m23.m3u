@@ -349,10 +349,10 @@ http://45.71.254.1:8000/play/a01r/index.m3u8
 http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/132295
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep." tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317432
+https://hls.evaulthub.com/live/laliga/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep.(Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.(Op.2)
-http://190.92.10.66:4000/play/a003/index.m3u8
+http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317432
 
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Chile HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Chile HD
 http://38.180.133.31:8000/play/a0tb?e=.m3u8
@@ -659,9 +659,6 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317430
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 3" tvg-logo="http://gigipicons.top:8080/images/38b5f0128acb5dcb1ee469f5497fff01.png" group-title="Tdt",ESPN 3
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317431
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN Deportes" tvg-logo="http://gigipicons.top:8080/images/23d7bc0327e6066f156353bbdd5113ed.png" group-title="Tdt",ESPN Deportes
-http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317432
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: euronews en Espanol" tvg-logo="http://gigipicons.top:8080/images/6f7fcc416f3d7465bcb3e77c5feb89e9.png" group-title="Tdt",Euronews espanol
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317437
