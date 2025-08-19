@@ -239,13 +239,12 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396156
 
 #EXTINF:-1 tvg-ID="Andalucía TV" tvg-name="Andalucía TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="Autonómicas",Andalucía TV
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/396157
-http://toda.la.razon.angel.spaniptv.giize.com:8080/MoraGaDb/MjdNVgLpvKaU/268
 
 #EXTINF:-1 tvg-ID="CMM TV" tvg-name="CMM Tv" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" group-title="Autonómicas",CMM
-http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/132291
+http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/267
 
 #EXTINF:-1 tvg-ID="CMM TV" tvg-name="CMM (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" group-title="Autonómicas",CMM (Op.2)
-http://toda.la.razon.angel.spaniptv.giize.com:8080/MoraGaDb/MjdNVgLpvKaU/267
+http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/132291
 
 #EXTINF:-1 tvg-ID="Canal Extremadura" tvg-name="Canal Extremadura TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" group-title="Autonómicas",Extremadura
 http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/75
@@ -349,13 +348,17 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317348
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga Tv
-http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/132295
-
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep." tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
 https://hls.evaulthub.com/live/laliga/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep.(Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.(Op.2)
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep.TLR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.TLR
+http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/48889
+
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep.TLR USA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.TLR USA
+http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/48890
+
+
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. APG" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.(Op.2)
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317432
 
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn Chile HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Chile HD
@@ -384,6 +387,18 @@ http://200.115.120.1:8000/play/ca041
 
 #EXTINF:-1 tvg-ID="FOX SPORTS" tvg-name="Fox Sport" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" group-title="Espn",Fox Sport
 http://181.78.106.127:9000/play/ca031
+
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TLR Hevc" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga TLR Hevc
+http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/329
+
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TLR FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga TLR FHD
+http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/330
+
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TLR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga TLR HD
+http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/331
+
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga Tv
+http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/132295
 
 #EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="M+ LaLiga FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",M+ La Liga FHD
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317499
