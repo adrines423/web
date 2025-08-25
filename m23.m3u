@@ -349,14 +349,13 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317348
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep." tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
-https://hls.evaulthub.com/live/laliga/index.m3u8
+http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep.TLR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.TLR
 http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/48889
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep.TLR USA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.TLR USA
 http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/48890
-
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. APG" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Dep.(Op.2)
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317432
@@ -388,8 +387,9 @@ http://200.115.120.1:8000/play/ca041
 #EXTINF:-1 tvg-ID="FOX SPORTS" tvg-name="Fox Sport" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" group-title="Espn",Fox Sport
 http://181.78.106.127:9000/play/ca031
 
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TLR Hevc" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga TLR Hevc
-http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/329
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga FHD Epk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga FHD Epk
+
+http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31402
 
 #EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="LaLiga TLR FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga TLR FHD
 http://toda.la.razon.angel.spaniptv.giize.com:8080/Zambrana/3KYKNU3B97dj/330
