@@ -348,14 +348,17 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317348
 #EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Stp
+http://streamprostk.com:2082/zcenter57/10072019/53387
+
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep." tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes
 http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 #EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Liga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Liga
-http://streamprostk.com:2082/56937116163wspzero2/31122023zero/81708
+http://streamprostk.com:2082/zcenter57/10072019/81708
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra
-http://streamprostk.com:2082/56937116163wspzero2/31122023zero/50010
+http://streamprostk.com:2082/zcenter57/10072019/50010
 
 #EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="LaLiga FHD Epk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga FHD Epk
 http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31402
@@ -364,7 +367,10 @@ http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31402
 http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31406
 
 #EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="LaLiga Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga Stp
-http://streamprostk.com:2082/56937116163wspzero2/31122023zero/81517
+http://streamprostk.com:2082/zcenter57/10072019/81517
+
+#EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="LaLiga Stp 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga Stp 2
+http://streamprostk.com:2082/zcenter57/10072019/50584
 
 #EXTINF:-1 tvg-ID="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hyper Epk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="M+ LaLiga",LaLiga Hyper Epk
 http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31411
@@ -529,10 +535,10 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317350
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317355
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="http://gigipicons.top:8080/images/80d4969554a7c4f43f2309009a9f8321.png" group-title="Tdt",AXN
-http://streamprostk.com:2082/56937116163wspzero2/31122023zero/2669
+http://streamprostk.com:2082/zcenter57/10072019/2669
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: AXN Movies" tvg-logo="http://gigipicons.top:8080/images/2f772dca07e2789e90bb31d488c4452d.png" group-title="Tdt",AXN Movies
-http://streamprostk.com:2082/56937116163wspzero2/31122023zero/29513
+http://streamprostk.com:2082/zcenter57/10072019/29513
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: AXN White" tvg-logo="http://gigipicons.top:8080/images/b375deda290f88038f6e996d67f00019.png" group-title="Tdt",AXN White
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317358
@@ -924,11 +930,11 @@ http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317579
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga Epk " tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn",Dazn LaLiga Epk
 http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31404
 
-#EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga Bar" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Dazn",Liga Bar FHD
-http://streamprostk.com:2082/56937116163wspzero2/31122023zero/81751
+#EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga Bar Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Dazn",Liga Bar Stp
+http://streamprostk.com:2082/zcenter57/10072019/81751
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga Stp " tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn",Dazn LaLiga
-http://streamprostk.com:2082/56937116163wspzero2/31122023zero/81518
+http://streamprostk.com:2082/zcenter57/10072019/81518
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="Dazn LaLiga VXN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn",Dazn LaLiga (Op.2)
 http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/132297
@@ -942,6 +948,8 @@ http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31407
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="Dazn 1 (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn",Dazn 1 (Op.2)
 http://vipxnen.top:8080/VIP01107172558293596/e8f5643ce85d/132300
 
+#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Dazn",Dazn F1 Stp
+http://streamprostk.com:2082/zcenter57/10072019/82189
 
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Dazn",Dazn F1
 http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31405
