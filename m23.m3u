@@ -360,6 +360,9 @@ http://streamprostk.com:2082/zcenter57/10072019/81708
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra
 http://streamprostk.com:2082/zcenter57/10072019/50010
 
+#EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="LaLiga Sat" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga Sat
+http://fooootball.online:8080/live/NCPTeHq6UfUM/8raat2vKVLTA/216.m3u8
+
 #EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="LaLiga FHD Epk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",LaLiga FHD Epk
 http://esprooookddm.top:8080/es1851742222210245/797fb639d4af/31402
 
