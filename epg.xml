@@ -1,0 +1,19 @@
+<tv>
+    <channel id="La 1">
+        <display-name>La 1</display-name>
+    </channel>
+    <channel id="La 2">
+        <display-name>La 2</display-name>
+    </channel>
+    
+    <programme start="20250906220000" stop="20250906230000" channel="La 1">
+        <title>Noticiero Matutino</title>
+        <desc>Resumen de noticias de la mañana</desc>
+    </programme>
+    
+    <programme start="20250906213000" stop="20250906230000" channel="La 2">
+        <title>Película de Acción</title>
+        <desc>Una película llena de acción y suspenso</desc>
+    </programme>
+    
+</tv>
