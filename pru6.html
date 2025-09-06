@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programación de TV</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Programación Actual de TV</h1>
+
+    <table id="programming-table">
+        <thead>
+            <tr>
+                <th>Hora de Inicio</th>
+                <th>Programa</th>
+                <th>Canal</th>
+                <th>Descripción</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Los programas actuales de La 1 y La 2 serán insertados aquí -->
+        </tbody>
+    </table>
+
+    <script>
+        // Cargar el archivo .gz
+        function loadGZFile(url, callback) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState === 4 && this.status === 200) {
+                    // Descomprimir el archivo .gz
+                    var compressedData = new Uint8Array(this.response);
+                    var decompressedData = pako.ungzip(compressedData, { to: 'string' });
+
+                    // Convertir el texto descomprimido a XML
+                    var parser = new DOMParser();
+                    var xmlDoc = parser.parseFromString(decompressedData, "text/xml");
+
+                    // Llamar a la función de callback con el XML descomprimido
+                    callback(xmlDoc);
+                }
+            };
+            xhttp.open("GET", url, true);
+            xhttp.responseType = "arraybuffer"; // Necesario para obtener el archivo binario
+            xhttp.send();
+        }
+
+        // Obtener la hora actual en formato 'YYYYMMDDHHMMSS'
+        function getCurrentTime() {
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = (now.getMonth() + 1).toString().padStart(2, '0');
+            const day = now.getDate().toString().padStart(2, '0');
+            const hours = now.getHours().toString().padStart(2, '0');
+            const minutes = now.getMinutes().toString().padStart(2, '0');
+            const seconds = now.getSeconds().toString().padStart(2, '0');
+            return `${year}${month}${day}${hours}${minutes}${seconds}`;
+        }
+
+        // Función para mostrar solo los programas actuales de La 1 y La 2
+        function mostrarProgramacionActual(xml) {
+            const programmes = xml.getElementsByTagName('programme');
+            const tableBody = document.querySelector("#programming-table tbody");
+            const currentTime = getCurrentTime();
+
+            // Limpiar la tabla antes de agregar los programas actuales
+            tableBody.innerHTML = '';
+
+            // Recorrer todos los programas y agregar solo los que estén en curso en La 1 o La 2
+            for (let i = 0; i < programmes.length; i++) {
+                const programme = programmes[i];
+
+                // Obtener los datos del programa
+                const startTime = programme.getAttribute("start").slice(0, 14); // Eliminar el huso horario
+                const endTime = programme.getAttribute("stop").slice(0, 14); // Eliminar el huso horario
+                const channelId = programme.getAttribute("channel");
+                const title = programme.getElementsByTagName("title")[0].textContent;
+                const description = programme.getElementsByTagName("desc")[0].textContent;
+
+                // Filtrar los programas de "La 1" o "La 2" y verificar si están en curso
+                if ((channelId === "La.1.es" || channelId === "La.2.es") &&
+                    currentTime >= startTime && currentTime <= endTime) {
+
+                    // Obtener el nombre del canal
+                    const channels = xml.getElementsByTagName('channel');
+                    let channelName = '';
+                    for (let j = 0; j < channels.length; j++) {
+                        const channel = channels[j];
+                        if (channel.getAttribute("id") === channelId) {
+                            channelName = channel.getElementsByTagName("display-name")[0].textContent;
+                            break;
+                        }
+                    }
+
+                    // Crear una nueva fila para la tabla
+                    const row = document.createElement("tr");
+                    row.innerHTML = `
+                        <td>${startTime}</td>
+                        <td>${title}</td>
+                        <td>${channelName}</td>
+                        <td>${description}</td>
+                    `;
+                    tableBody.appendChild(row);
+                }
+            }
+
+            if (tableBody.innerHTML === '') {
+                console.log("No hay programas en curso en La 1 o La 2.");
+            }
+        }
+
+        // Cargar el archivo .gz desde la URL correcta y mostrar la programación actual de La 1 y La 2
+        loadGZFile('https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz', mostrarProgramacionActual); // URL del archivo .gz
+    </script>
+</body>
+</html>
