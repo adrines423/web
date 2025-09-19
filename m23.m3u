@@ -1327,7 +1327,7 @@ http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/166003
 #EXTINF:-1 tvg-id="nick jr" tvg-name="NICK JR HD" tvg-logo="https://lo1.in/fr/Disney  HD.png" group-title="Ninos",NICK JR HD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/166002
 
-#EXTINF:-1 tvg-id="Squirrel TV" tvg-name="Squirrel TV HD" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Cine",SQUIRREL HD
+#EXTINF:-1 tvg-id="Squirrel TV" tvg-name="Squirrel TV HD" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Cine y Series",SQUIRREL HD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/7191
 
 #EXTINF:-1 tvg-id="disney junior" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Ninos",DISNEY JUNIOR HD
@@ -1345,7 +1345,7 @@ http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/165918
 #EXTINF:-1 tvg-id="nick jr" tvg-name="NICK JR FHD" tvg-logo="https://lo1.in/fr/nkldnjunn.png" group-title="Ninos",NICK JR FHD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/165917
 
-#EXTINF:-1 tvg-id="Squirrel TV" tvg-name="Squirrel TV FHD" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Cine",SQUIRREL FHD
+#EXTINF:-1 tvg-id="Squirrel TV" tvg-name="Squirrel TV FHD" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Cine y Series",SQUIRREL FHD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/165914
 
 #EXTINF:-1 tvg-id="disney junior" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://lo1.in/fr/Disney  HD.png" group-title="Ninos",DISNEY JUNIOR FHD
@@ -1363,7 +1363,7 @@ http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/189492
 #EXTINF:-1 tvg-id="nick jr" tvg-name="NICK JR HEVC" tvg-logo="https://lo1.in/fr/nkldnjunn.png" group-title="Ninos",NICK JR HEVC
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/189491
 
-#EXTINF:-1 tvg-id="Squirrel TV" tvg-name="Squirrel TV HEVC" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Cine",SQUIRREL HEVC
+#EXTINF:-1 tvg-id="Squirrel TV" tvg-name="Squirrel TV HEVC" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Cine y Series",SQUIRREL HEVC
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/189488
 
 #EXTINF:-1 tvg-id="disney junior" tvg-name="DISNEY JUNIOR HEVC" tvg-logo="https://lo1.in/fr/Disney  HD.png" group-title="Ninos",DISNEY JUNIOR HEVC
@@ -1381,7 +1381,7 @@ http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/400219953
 #EXTINF:-1 tvg-id="nick jr" tvg-name="NICK JR SD" tvg-logo="https://lo1.in/sp/nick jr.png" group-title="Ninos",NICK JR SD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/1207
 
-#EXTINF:-1 tvg-id="Squirrel TV" tvg-name="Squirrel TV SD" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Cine",SQUIRREL SD
+#EXTINF:-1 tvg-id="Squirrel TV" tvg-name="Squirrel TV SD" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="Cine y Series",SQUIRREL SD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/400230641
 
 #EXTINF:-1 tvg-id="disney junior" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://lo1.in/fr/Disney  HD.png" group-title="Ninos",DISNEY JUNIOR SD
@@ -1541,10 +1541,10 @@ http://tvpremiund.ddns.me:2082/stellar269/johatemu269/29513
 #EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Cine y Series *",AXN MOVIES Stp
 http://streamprostk.com:2082/zcenter57/10072019/29513
 
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Deportes *",ONETORO Tvp
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Toros",ONETORO Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2517
 
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Deportes *",ONETORO Stp
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Toros",ONETORO Stp
 http://streamprostk.com:2082/zcenter57/10072019/2517
 
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Documentales *",NATIONAL GEOGRAPHIC Tvp

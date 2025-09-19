@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Mundotoro HD
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro HD" tvg-logo="https://lo1.in/sp/MUNDOTORO%20TV.png" group-title="Toros",Mundotoro HD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/34234
 
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Mundotoro SD
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro SD" tvg-logo="https://lo1.in/sp/MUNDOTORO%20TV.png" group-title="Toros",Mundotoro SD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/46802
 
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro HEVC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Mundotoro HEVC
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro HEVC" tvg-logo="https://lo1.in/sp/MUNDOTORO%20TV.png" group-title="Toros",Mundotoro HEVC
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/33580
 
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Mundotoro FHD
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro FHD" tvg-logo="https://lo1.in/sp/MUNDOTORO%20TV.png" group-title="Toros",Mundotoro FHD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/7996
 
 #EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro Tv HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro Tv HD
@@ -24,7 +24,7 @@ http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/32097
 #EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro Tv SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro Tv SD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/401457285
 
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="Toros HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Toros HD
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Toros HD" tvg-logo="https://lo1.in/sp/ToroleTV.png" group-title="Toros",Toros HD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/165992
 
 #EXTINF:-1 tvg-id="Torolé TV" tvg-name="ToroleTV FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="Toros",ToroleTV FHD
