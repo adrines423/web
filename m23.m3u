@@ -1168,6 +1168,12 @@ http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/32097
 #EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro Tv SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro Tv SD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/401457285
 
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Toros",Onetoro Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2517
+
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Toros",Onetoro Stp
+http://streamprostk.com:2082/zcenter57/10072019/2517
+
 #EXTINF:-1 tvg-id="Onetoro" tvg-name="Toros HD" tvg-logo="https://lo1.in/sp/ToroleTV.png" group-title="Toros",Toros HD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/165992
 
@@ -1540,12 +1546,6 @@ http://tvpremiund.ddns.me:2082/stellar269/johatemu269/29513
 
 #EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Cine y Series *",AXN MOVIES Stp
 http://streamprostk.com:2082/zcenter57/10072019/29513
-
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Toros",ONETORO Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2517
-
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Toros",ONETORO Stp
-http://streamprostk.com:2082/zcenter57/10072019/2517
 
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Documentales *",NATIONAL GEOGRAPHIC Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/30611
