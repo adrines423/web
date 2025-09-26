@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
+
+#EXTINF:-1 tvg-ID="M+ Hits HD" tvg-name="M+ Hits HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="Cine",M+ Hits HD
+acestream://50553edb5e8c54d15e0d43161369b3b4cef95065
+
+#EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="M+ Acción HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine",M+ Acción HD
+acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
+
+#EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="M+ Acción HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine",M+ Acción FHD
+acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96
+
+#EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine",M+ Cine Español FHD
+acestream://e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
+
+#EXTINF:-1 tvg-ID="M+ Comedia HD" tvg-name="M+ Comedia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="Cine",M+ Comedia FHD
+acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6
+
+#EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="Cine",M+ Clásicos HD
+acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
+
+#EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="Cine",M+ Clásicos FHD
+acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
+
+#EXTINF:-1 tvg-ID="M+ Drama HD" tvg-name="M+ Drama HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="Cine",M+ Drama FHD
+acestream://a6de6a4977d7801bbddc9c7739d822f4beb358ae
+
+#EXTINF:-1 tvg-ID="M+ Documentales HD" tvg-name="M+ Documentales HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="Documentales",M+ Documentales FHD
+acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
+
+#EXTINF:-1 tvg-ID="M+ Estrenos HD" tvg-name="M+ Estrenos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine.png" group-title="Cine",M+ Cine FHD
+acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131
+
+#EXTINF:-1 tvg-ID="M+ Indie HD" tvg-name="M+ Indie HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="Cine",M+ Indie HD
+acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
+
+#EXTINF:-1 tvg-ID="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Cine",M+ Originales FHD
+acestream://096b817fcc836535f608facb15fca6408fae3162
+
+#EXTINF:-1 tvg-ID="M+ Cómic" tvg-name="M+ Cómic" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Cine",M+ Comic FHD
+acestream://4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
+
+#EXTINF:-1 tvg-ID="M+ Vacaciones" tvg-name="M+ Vacaciones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Cine",M+ Vacaciones FHD
+acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7
+
+#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn LaLiga",Dazn LaLiga FHD EC
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+
+#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn LaLiga",Dazn LaLiga HD EC
+acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
+
+#EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn LaLiga",Dazn LaLiga HD EC2
+acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+
+
+
+
+
+
+
+
+
