@@ -1,0 +1,26 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
+
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Varios",AXN MOVIES Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/29513
+
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Varios",AXN MOVIES Stp
+http://streamprostk.com:2082/zcenter57/10072019/29513
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Varios",NATIONAL GEOGRAPHIC Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/30611
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Varios",NATIONAL GEOGRAPHIC Stp
+http://streamprostk.com:2082/zcenter57/10072019/30611
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2466
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD Stp
+http://streamprostk.com:2082/zcenter57/10072019/2466
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD FHD Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2692
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD FHD Stp
+http://streamprostk.com:2082/zcenter57/10072019/2692
+

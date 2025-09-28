@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
+
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Ch" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Chn
+https://s@chained.ncvtmisgov.com/deport.m3u8
+
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Too" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Too
+https://s@too.mytherix.cz/deport.m3u8

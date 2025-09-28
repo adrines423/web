@@ -135,8 +135,14 @@ http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/48
 #EXTINF:-1 tvg-ID="XTRM" tvg-name="XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="Cine",Xtrm
 http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/16786
 
-#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite" tvg-logo="https://www.cadenaelite.es/images/logoMenu.png" group-title="Música",Cadena Elite
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite" tvg-logo="https://www.cadenaelite.es/images/logoMenu.png" group-title="Musica",Cadena Elite
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/5604
+
+#EXTINF:-1 tvg-id="" tvg-name="All Flamenco HD" tvg-logo="https://allflamenco.net/wp-content/uploads/2023/08/logo-negro-rojo-p-0.png" group-title="Musica",All Flamenco HD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/33577
+
+#EXTINF:-1 tvg-id="" tvg-name="All Flamenco FHD" tvg-logo="https://allflamenco.net/wp-content/uploads/2023/08/logo-negro-rojo-p-0.png" group-title="Musica",All Flamenco FHD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/8001
 
 #EXTINF:-1 tvg-ID="MTV España" tvg-name="MTV España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png" group-title="Musica",Mtv
 http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/39
@@ -450,13 +456,13 @@ http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/401
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 FHD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Dazn",Dazn F1 FHD Bk
 http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/400
 
-#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro
 http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/406
 
-#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Deportes",Onetoro (Op.2)
+#EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro (Op.2)
 http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/405
 
-#EXTINF:-1 tvg-ID="Torolé TV" tvg-name="Torolé" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="Deportes",Torolé
+#EXTINF:-1 tvg-ID="Torolé TV" tvg-name="Torolé" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="Toros",Torolé
 http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/407
 
 #EXTINF:-1 tvg-id="DE | Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="Deportes",Rally TV
@@ -774,77 +780,85 @@ http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/39473
 http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/39468
 
 
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="Movistar Liga Tvp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ LaLiga Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/105868
 
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="Movistar Liga Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ LaLiga Stp
-http://streamprostk.com:2082/zcenter57/10072019/105868
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
-http://45.71.254.1:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Org" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Org
-http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Stp
-http://streamprostk.com:2082/zcenter57/10072019/53387
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Ch" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Chn
+https://s@chained.ncvtmisgov.com/deport.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Dep. Tvp" tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="Espn",Espn Deportes Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/53387
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Too" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Too
+https://s@too.mytherix.cz/deport.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Extra Stp" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra Stp
-http://streamprostk.com:2082/zcenter57/10072019/50010
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Extra Tvp" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/50010
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Espn",Espn Arg 1 Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/51154
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Toros",Onetoro Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2517
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Espn",Espn Arg 1 Stp
-http://streamprostk.com:2082/zcenter57/10072019/51154
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="Toros",Onetoro Stp
+http://streamprostk.com:2082/zcenter57/10072019/2517
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn",Espn P. Arg Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/6463
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro HD" tvg-logo="https://lo1.in/sp/MUNDOTORO%20TV.png" group-title="Toros",Mundotoro HD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/34234
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn",Espn P. Arg Stp
-http://streamprostk.com:2082/zcenter57/10072019/6463
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro SD" tvg-logo="https://lo1.in/sp/MUNDOTORO%20TV.png" group-title="Toros",Mundotoro SD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/46802
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn",Espn P. Arg HD Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/3085
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro HEVC" tvg-logo="https://lo1.in/sp/MUNDOTORO%20TV.png" group-title="Toros",Mundotoro HEVC
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/33580
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn",Espn P. Arg HD Stp
-http://streamprostk.com:2082/zcenter57/10072019/3085
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Mundotoro FHD" tvg-logo="https://lo1.in/sp/MUNDOTORO%20TV.png" group-title="Toros",Mundotoro FHD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/7996
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Espn",Espn 1 Lat Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/53419
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro Tv HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro Tv HD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/32098
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Espn",Espn 1 Lat Stp
-http://streamprostk.com:2082/zcenter57/10072019/53419
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro Tv FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro Tv FHD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/32096
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="Espn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/54070
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro Tv HEVC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro Tv HEVC
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/32097
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="Espn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra Stp
-http://streamprostk.com:2082/zcenter57/10072019/54070
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro Tv SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro Tv SD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/401457285
 
-#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Liga Tvp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Liga Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/81708
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Toros HD" tvg-logo="https://lo1.in/sp/ToroleTV.png" group-title="Toros",Toros HD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/165992
 
-#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Liga Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Liga Stp
-http://streamprostk.com:2082/zcenter57/10072019/81708
+#EXTINF:-1 tvg-id="Torolé TV" tvg-name="ToroleTV FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="Toros",ToroleTV FHD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/18391
 
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Movistar Vamos Tvp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Espn",Movistar Vamos Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/30360
+#EXTINF:-1 tvg-id="Torolé TV" tvg-name="ToroleTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="Toros",ToroleTV HD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/18392
 
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Movistar Vamos Stp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Espn",Movistar Vamos Stp
-http://streamprostk.com:2082/zcenter57/10072019/30360
+#EXTINF:-1 tvg-id="Torolé TV" tvg-name="ToroleTV SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="Toros",ToroleTV SD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/18393
 
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 Tvp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Espn",Dazn F1 Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/82189
 
-#EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="Dazn F1 Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Espn",Dazn F1 Stp
-http://streamprostk.com:2082/zcenter57/10072019/82189
 
+
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Varios",AXN MOVIES Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/29513
+
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Varios",AXN MOVIES Stp
+http://streamprostk.com:2082/zcenter57/10072019/29513
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Varios",NATIONAL GEOGRAPHIC Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/30611
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Varios",NATIONAL GEOGRAPHIC Stp
+http://streamprostk.com:2082/zcenter57/10072019/30611
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2466
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD Stp
+http://streamprostk.com:2082/zcenter57/10072019/2466
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD FHD Tvp
+http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2692
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD FHD Stp
+http://streamprostk.com:2082/zcenter57/10072019/2692
 
 
