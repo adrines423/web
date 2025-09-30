@@ -1,130 +1,136 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 
 #EXTINF:-1 tvg-ID="La 1 HD" tvg-name="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="General",La 1
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5622
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/648
 
 #EXTINF:-1 tvg-ID="La 2" tvg-name="LA 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="General",La 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5623
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/649
 
 #EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" group-title="General",Antena 3
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5555
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/646
 
 #EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="General",Cuatro
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5588
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/651
 
 #EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="General",Telecinco
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5734
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/647
 
 #EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="General",La Sexta
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5625
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/650
 
 #EXTINF:-1 tvg-ID="Mega" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="General",Mega
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5688
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/753
 
 #EXTINF:-1 tvg-ID="GOL" tvg-name="GOL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png" group-title="General",Gol
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63423
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147162
+
+#EXTINF:-1 tvg-ID="GOL" tvg-name="GOL 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png" group-title="General",Gol Op.2
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/633
 
 #EXTINF:-1 tvg-ID="Canal Hollywood HD" tvg-name="Canal Hollywood HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="Cine",Hollywood
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5619
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/665
 
 #EXTINF:-1 tvg-ID="Warner TV HD" tvg-name="Warner TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="Cine",Warner
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5739
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/668
 
 #EXTINF:-1 tvg-ID="M+ Estrenos HD" tvg-name="M+ Estrenos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine.png" group-title="Cine",M+ Cine
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57286
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/87110
 
 #EXTINF:-1 tvg-ID="M+ Hits HD" tvg-name="M+ Hits HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="Cine",M+ Hits
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5675
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/663
 
 #EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="M+ Acción HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="Cine",M+ Acción
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5632
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/656
 
 #EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="Cine",M+ Clásicos
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5634
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/659
 
 #EXTINF:-1 tvg-ID="M+ Comedia HD" tvg-name="M+ Comedia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="Cine",M+ Comedia
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5636
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/657
 
 #EXTINF:-1 tvg-ID="M+ Drama HD" tvg-name="M+ Drama HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="Cine",M+ Drama
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5644
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/660
 
 #EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="Cine",M+ Cine Español
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5633
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/658
 
 #EXTINF:-1 tvg-ID="M+ Indie HD" tvg-name="M+ Indie HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="Cine",M+ Indie
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57282
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/87106
 
 #EXTINF:-1 tvg-ID="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="Cine",M+ Originales
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57283
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/87107
 
 #EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Cine",Movistar Plus
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57285
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/87109
 
 #EXTINF:-1 tvg-ID="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="Cine",M+ Estrenos
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58330
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132309
 
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="Cine",Amc
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5553
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/732
+
+#EXTINF:-1 tvg-ID="AMC Break" tvg-name="AMC Break" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="Cine",Amc Break
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/778
 
 #EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="Cine",Axn
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5557
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/735
 
 #EXTINF:-1 tvg-ID="AXN Movies HD" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="Cine",Axn Movies
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5558
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/736
 
 #EXTINF:-1 tvg-ID="Atreseries" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="Cine",Atreseries
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/25952
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/800
 
 #EXTINF:-1 tvg-ID="Be Mad" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png" group-title="Cine",Be Mad
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5561
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/737
 
 #EXTINF:-1 tvg-ID="Calle 13 HD" tvg-name="Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="Cine",Calle 13
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5567
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/740
 
 #EXTINF:-1 tvg-ID="Cosmo HD" tvg-name="Cosmo HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" group-title="Cine",Cosmo
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5585
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/746
 
 #EXTINF:-1 tvg-ID="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="Cine",Comedy Central
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5584
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/745
 
 #EXTINF:-1 tvg-ID="DARK" tvg-name="DARK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="Cine",Dark
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/25930
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/782
 
 #EXTINF:-1 tvg-ID="Energy" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="Cine",Energy
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5603
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/654
 
 #EXTINF:-1 tvg-ID="Factoría de Ficción" tvg-name="Factoría de Ficción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="Cine",Fdf
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5611
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/652
 
 #EXTINF:-1 tvg-ID="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Cine",Neox
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5718
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/755
 
 #EXTINF:-1 tvg-ID="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Paramount%20Network.png" group-title="Cine",Paramount Network
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5727
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/666
 
 #EXTINF:-1 tvg-ID="Somos" tvg-name="Somos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="Cine",Somos
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5730
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/667
 
 #EXTINF:-1 tvg-ID="Squirrel TV" tvg-name="Squirrel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" group-title="Cine",Squirrel
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5596
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/640
 
 #EXTINF:-1 tvg-ID="STAR Channel HD" tvg-name="STAR Channel HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="Cine",Star Channel
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5613
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/752
 
 #EXTINF:-1 tvg-ID="Sundance TV" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="Cine",Sundance
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5731
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/759
 
 #EXTINF:-1 tvg-ID="SyFy HD" tvg-name="SyFy HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="Cine",Syfy
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5732
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/760
 
 #EXTINF:-1 tvg-ID="TCM HD" tvg-name="TCM HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="Cine",Tcm
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5733
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/669
 
 #EXTINF:-1 tvg-ID="VinTV" tvg-name="VinTV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png" group-title="Cine",VinTv
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5726
-
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/639
+g
 #EXTINF:-1 tvg-ID="XTRM" tvg-name="XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="Cine",Xtrm
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5751
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/767
 
 #EXTINF:-1 tvg-id="" tvg-name="Cadena Elite" tvg-logo="https://www.cadenaelite.es/images/logoMenu.png" group-title="Musica",Cadena Elite
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/5604
@@ -136,334 +142,338 @@ http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/33577
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/8001
 
 #EXTINF:-1 tvg-ID="MTV España" tvg-name="MTV España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png" group-title="Musica",Mtv
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5712
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/719
 
 #EXTINF:-1 tvg-ID="MTV 00s" tvg-name="Mtv 00s" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2000s.png" group-title="Musica",Mtv 00s
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/25941
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/718
 
 #EXTINF:-1 tvg-ID="Divinity" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="General",Divinity
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5599
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/747
 
 #EXTINF:-1 tvg-ID="Nova" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="General",Nova
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5723
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/653
 
 #EXTINF:-1 tvg-ID="Ten" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" group-title="General",Ten
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5738
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/762
 
 #EXTINF:-1 tvg-ID="Boing" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png" group-title="Ninos",Boing
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5565
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/637
 
 #EXTINF:-1 tvg-ID="Dreamworks HD" tvg-name="Dreamworks HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png" group-title="Ninos",Dreamworks
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5602
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/643
 
 #EXTINF:-1 tvg-ID="Clan" tvg-name="Clan" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" group-title="Ninos",Clan
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5580
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/638
 
 #EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" group-title="Ninos",Disney Jr
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5597
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/641
 
 #EXTINF:-1 tvg-ID="Nick JR" tvg-name="Nick JR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png" group-title="Ninos",Nick Jr
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5720
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/644
 
 #EXTINF:-1 tvg-ID="Nickelodeon HD" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" group-title="Ninos",Nickelodeon
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5721
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/645
 
 #EXTINF:-1 tvg-ID="TRECE" tvg-name="TRECE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="General",Trece
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5741
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/655
 
 #EXTINF:-1 tvg-ID="24 Horas" tvg-name="24 horas" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="General",24 horas
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5550
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/730
 
 #EXTINF:-1 tvg-ID="El Toro TV" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="General",El Toro
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/25932
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/783
 
 #EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="Canal Sur HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="Autonómicas",Canal Sur
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5576
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/744
 
 #EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="Canal Sur (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="Autonómicas",Canal Sur (Op.2)
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 #EXTINF:-1 tvg-ID="Canal Extremadura" tvg-name="Canal Extremadura TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" group-title="Autonómicas",Extremadura
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5609
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/750
 
 #EXTINF:-1 tvg-ID="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" group-title="Autonómicas",Telemadrid
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5736
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/761
 
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="Documentales",Historia
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5618
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/713
 
 #EXTINF:-1 tvg-ID="Odisea" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="Documentales",Odisea
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5724
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/710
 
 #EXTINF:-1 tvg-ID="Discovery" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="Documentales",Discovery
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5594
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/708
 
 #EXTINF:-1 tvg-ID="M+ Documentales HD" tvg-name="M+ Documentales HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="Documentales",M+ Documentales
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57284
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/87108
 
 #EXTINF:-1 tvg-ID="BuenViaje" tvg-name="Buen Viaje" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png" group-title="Documentales",Buen Viaje
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57259
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/60251
 
 #EXTINF:-1 tvg-ID="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="Documentales",Nat. Geographic
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5714
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/711
 
 #EXTINF:-1 tvg-ID="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="Documentales",Nat. Geo. Wild
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5715
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/712
 
 #EXTINF:-1 tvg-ID="Canal Cocina" tvg-name="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="Documentales",Canal Cocina
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5570
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/742
 
 #EXTINF:-1 tvg-ID="Decasa" tvg-name="Decasa" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" group-title="Documentales",Decasa
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5571
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/705
 
 #EXTINF:-1 tvg-ID="DKISS" tvg-name="DKISS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" group-title="Documentales",Dkiss
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5600
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/748
 
 #EXTINF:-1 tvg-ID="DMAX" tvg-name="Dmax" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" group-title="Documentales",Dmax
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5601
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/709
 
 #EXTINF:-1 tvg-ID="AMC Crime" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="Documentales",AMC Crime
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/25927
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/707
 
 #EXTINF:-1 tvg-ID="Iberalia TV" tvg-name="Iberalia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="Documentales",Iberalia
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5621
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/714
 
 #EXTINF:-1 tvg-id="Iberalia caza" tvg-name="Iberalia caza" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" group-title="Documentales",Iberalia 100% caza
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58332
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/99473
 
 #EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="Iberalia pesca" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" group-title="Documentales",Iberalia 100% pesca
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58333
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/99474
 
 #EXTINF:-1 tvg-ID="Cazavisión" tvg-name="Cazavision" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" group-title="Documentales",Cazavision
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/29358
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/827
 
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="Documentales",Caza y Pesca
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5578
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/706
 
 #EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",M+ LaLiga HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5758
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/252
 
 #EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="M+ LaLiga HD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",M+ LaLiga HD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/54535
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/253
 
 #EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="M+ LaLiga FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",M+ LaLiga FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/54532
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/254
 
 #EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="M+ LaLiga FHD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="M+ LaLiga",M+ LaLiga FHD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57362
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/97192
 
 #EXTINF:-1 tvg-ID="LaLiga TV BAR HD" tvg-name="LaLiga TV BAR FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="M+ LaLiga",M+ LaLiga Bar FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5661
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/283
 
 #EXTINF:-1 tvg-ID="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="M+ LaLiga",LaLiga Hyper HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/25128
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/246
 
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn",Dazn 1 HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57475
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/128935
 
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn",Dazn 1 FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5589
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/247
 
 #EXTINF:-1 tvg-ID="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="Dazn",Dazn 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5590
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/248
 
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ L.Campeones",L. Campeones HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57560
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/264
 
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones HD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ L.Campeones",L. Campeones HD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57356
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/97195
 
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ L.Campeones",L. Campeones FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/54531
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/265
 
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones FHD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ L.Campeones",L. Campeones FHD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57363
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/97196
 
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ L.Campeones",L. Campeones SD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57367
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/99051
 
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M+ L.Campeones",L. Campeones 2 HD
-110
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/129635
 
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga Campeones 2 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M+ L.Campeones",L. Campeones 2 FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58115
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/266
+
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="Copa del Rey" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="Deportes",Copa del Rey
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63418
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147145
 
 #EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Deportes",M+ Vamos FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5630
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/632
+
+#EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos FHD2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Deportes",M+ Vamos FHD 2
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147147
+
+#EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="Deportes",M+ Vamos HD
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147146
 
 #EXTINF:-1 tvg-ID="M+ Ellas Vamos HD" tvg-name="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="Deportes",
 M+ Ellas Vamos
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/29333
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/723
 
 #EXTINF:-1 tvg-ID="M+ Golf HD" tvg-name="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="Deportes",
 M+ Golf
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5649
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/285
 
 #EXTINF:-1 tvg-ID="Eurosport 1 HD" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Deportes",Eurosport 1
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5607
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/281
 
 #EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Deportes",Eurosport 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5608
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/282
 
 #EXTINF:-1 tvg-ID="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="Deportes",Teledeporte
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5735
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/726
 
 #EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5729
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/724
 
 #EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV Op.2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="Deportes",Real Madrid Op.2
 https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f96f8d43-8767-11ef-93db-0e2010b02b9e
 
-#EXTINF:-1 tvg-ID="UBEAT" tvg-name="UBEAT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="Deportes",Ubeat
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/25951
-
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Deportes",M+ Deportes FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5643
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/286
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Deportes",M+ Deportes HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57481
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/128951
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="Deportes",M+ Deportes 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5639
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/288
 
 #EXTINF:-1 tvg-ID="Mezzo" tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo.png" group-title="Musica",Mezzo
-http://eswoaf.top:8080/es5541757514441321/b740b3ca790f/316
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/34145
 
 #EXTINF:-1 tvg-ID="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live.png" group-title="Musica",Mezzo Live
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5689
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/716
 
 #EXTINF:-1 tvg-id="Betis TV" tvg-name="Betis TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" group-title="Deportes",Betis TV
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57269
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/83026
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn LaLiga",Dazn LaLiga HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/25125
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/243
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn LaLiga",Dazn LaLiga HD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57344
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/244
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn LaLiga",Dazn LaLiga FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/54668
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/97138
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga FHD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn LaLiga",Dazn LaLiga FHD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57359
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/97193
 
 #EXTINF:-1 tvg-ID="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="Dazn LaLiga",Dazn LaLiga 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57476
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/128942
 
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Dazn",Dazn F1 HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57485
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/56469
 
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 HD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Dazn",Dazn F1 HD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57484
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/97147
 
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Dazn",Dazn F1 FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57486
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/251
 
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 FHD Bk" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Dazn",Dazn F1 FHD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/57483
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/97194
 
 #EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/55943
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/631
 
 #EXTINF:-1 tvg-ID="Onetoro" tvg-name="Onetoro (Op.2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="Toros",Onetoro (Op.2)
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/56010
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/38816
 
 #EXTINF:-1 tvg-ID="Torolé TV" tvg-name="Torolé" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="Toros",Torolé
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/56009
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/37678
 
 #EXTINF:-1 tvg-id="DE | Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="Deportes",Rally TV
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58325
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/128955
 
 #EXTINF:-1 tvg-ID="CMM TV" tvg-name="CMM TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" group-title="Autonómicas",CMM
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58329
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132291
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Esw" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Esw
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/5605
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/280
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="CH1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="PPV",M+ LaLiga Sat
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58313
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132295
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="CH5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="PPV",LaLiga Tv
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58317
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132299
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="CH10" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="PPV",Liga Hypermotion
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58322
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132304
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="CH2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="PPV",M+ L. Campeones
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58314
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132296
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="CH11" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="PPV",L. Campeones Op.2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58323
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132305
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="CH12" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="PPV",L. Campeones Op.3
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58324
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132306
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="CH3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="PPV",Dazn Laliga
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58315
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132297
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="CH6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="PPV",Dazn 1
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58318
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132300
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="CH4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="PPV",Dazn F1
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58316
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132298
 
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="CH9" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="PPV",M+ Vamos
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58321
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132303
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="CH8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="PPV",M+ Deportes
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58320
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132302
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="CH7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="PPV",M+ Deportes Op.2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58319
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/132301
 
 #EXTINF:-1 tvg-id="" tvg-name="Regalo 1" tvg-logo="https://docdog.top/logo/countries/ads/iptv_es.jpg" group-title="PPV",Regalo 1
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58114
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/129980
 
 #EXTINF:-1 tvg-id="" tvg-name="Regalo 2" tvg-logo="https://docdog.top/logo/countries/ads/iptv_es.jpg" group-title="PPV",Regalo 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/58113
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/129979
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="(HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SPORT+",M+ LaLiga HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63361
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147100
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="(HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SPORT+",M+ LaLiga HD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63362
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147101
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="(FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SPORT+",M+ LaLiga FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63363
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147102
 
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="(FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SPORT+",M+ LaLiga FHD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63364
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147103
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="(HD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="SPORT+",LaLiga TV BAR HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63370
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147124
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="(FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="SPORT+",LaLiga TV BAR FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63369
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147123
 
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="(FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="SPORT+",M+ LaLiga Tv 2 FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63388
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147117
 
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="(HD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="SPORT+",M+ LaLiga Tv 2 HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63389
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147118
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="(HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SPORT+",Dazn LaLiga HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63365
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147104
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="(HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SPORT+",Dazn LaLiga HD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63366
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147105
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="(FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SPORT+",Dazn LaLiga FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63367
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147106
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="(FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SPORT+",Dazn LaLiga FHD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63368
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147107
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="SPORT+",Dazn LaLiga 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63393
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147122
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="(FHD) LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="SPORT+",LaLiga Hyper FHD
 http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63384
@@ -478,97 +488,99 @@ http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63386
 http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63387
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="(HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",L. Campeones HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63371
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147112
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="(HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",L. Campeones HD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63372
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147113
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="(FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",L. Campeones FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63373
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147114
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="(FHD REPUESTO) M+ Liga de Campeones" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",L. Campeones FHD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63374
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147115
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="(SD) M+ Liga de Campeones" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",L. Campeones SD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63375
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147116
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="(HD) M+ Liga de Campeones 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="SPORT+",L. Campeones 2 HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63404
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147131
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="(FHD) M+ Liga de Campeones 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="SPORT+",L. Campeones 2 FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63405
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147132
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="(HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="SPORT+",Dazn 1 HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63380
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147125
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="(FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="SPORT+",Dazn 1 FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63381
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147126
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="(SD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="SPORT+",Dazn 1 SD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63382
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147127
 
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="SPORT+",Dazn 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63383
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147128
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="(HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="SPORT+",Dazn F1 HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63376
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147108
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="(HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="SPORT+",Dazn F1 HD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63377
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147109
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="(FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="SPORT+",Dazn F1 FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63378
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147110
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="(FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="SPORT+",Dazn F1 FHD Bk
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63379
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147111
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="SPORT+",M+ Copa del Rey
 http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63418
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="(HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="SPORT+",M+ Deportes HD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63397
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147154
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="(FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="SPORT+",M+ Deportes FHD
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63396
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147153
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="SPORT+",M+ Deportes 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63398
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147155
 
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="SPORT+",M+ Deportes 3
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63399
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147156
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="SPORT+",M+ Golf
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63419
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147149
 
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="SPORT+",M+ Golf 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63420
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147150
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="SPORT+",Eurosport 1
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63421
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147151
 
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="SPORT+",Eurosport 2
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63422
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147152
 
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="SPORT+",Teledeporte
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63424
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147163
 
 #EXTINF:-1 tvg-id="Betis TV" tvg-name="BETIS TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="SPORT+",Betis Tv
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63425
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147165
 
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="SPORT+",Real Madrid
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63426
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147164
 
 #EXTINF:-1 tvg-id="UBEAT" tvg-name="UBEAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ubeat.png" group-title="SPORT+",Ubeat
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63427
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147166
 
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="SPORT+",Espn Deportes
 http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63429
 
 #EXTINF:-1 tvg-id="DE | Rally TV" tvg-name="RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="SPORT+",Rally Tv
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63428
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147161
 
 #EXTINF:-1 tvg-id="GOL" tvg-name="GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="SPORT+",Gol
-http://pgracefuaapi.top:8080/6721757267005916/179939ad542d/63423
+http://vpyddncr.top:8080/VIP016901759141261503/2f467052b351/147162
+
+
 
 
 
