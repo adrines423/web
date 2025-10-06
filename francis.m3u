@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos HD" tvg-logo="https://lo1.in/sp/Somos.png" group-title="Cine y Series",Somos HD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/7190
+
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos FHD" tvg-logo="https://lo1.in/sp/Somos.png" group-title="Cine y Series",Somos FHD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/400407273
+
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos HEVC" tvg-logo="https://lo1.in/sp/Somos.png" group-title="Cine y Series",Somos HEVC
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/33529
+
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos SD" tvg-logo="https://lo1.in/sp/Somos.png" group-title="Cine y Series",Somos SD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/1222
+
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="https://lo1.in/sp/mcinesp.png" group-title="M+ Cine",M+ CINE ESPAÑOL HD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/165945
+
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPANOL FHD" tvg-logo="https://lo1.in/sp/mcinesp.png" group-title="M+ Cine",M+ CINE ESPANOL FHD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/165860
+
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPANOL HEVC" tvg-logo="https://lo1.in/sp/mcinesp.png" group-title="M+ Cine",M+ CINE ESPANOL HEVC
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/189434
+
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español SD" tvg-logo="https://lo1.in/sp/mcinesp.png" group-title="M+ Cine",M+ Cine Español SD
+http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/400220316
+
