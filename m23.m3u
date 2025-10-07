@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS HD" tvg-logo="https://lo1.in/sp/m+.png" group-title="General",M+ PLUS HD
 http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/11022
