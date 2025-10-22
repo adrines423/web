@@ -1514,16 +1514,19 @@ http://live.lion25.online/live/2b5b2117/gHcA3153/1196424.m3u8
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones Vg2 Uhd
 http://live.lion25.online/live/2b5b2117/gHcA3153/1196401.m3u8
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones 172
 http://172.93.102.112:8989/278845_.m3u8
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones Dg Fhd
+http://dongrego.uk:80/play/MRrTLQkArmIS5IplayW1PcEauIenCA6BsvEbIIrE6SbNFcTBAh5w_Juj0RuC5zdJ
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones Dg hd
+http://dongrego.uk:80/play/MRrTLQkArmIS5IplayW1PcEauIenCA6BsvEbIIrE6Sasi4DRbZr7EVjua23Km_xB
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones Dg H264
+http://dongrego.uk:80/play/MRrTLQkArmIS5IplayW1PcEauIenCA6BsvEbIIrE6SYI7FNIxO8brehJafv59uZn
+
+
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn Stp",Espn Deportes Stp
 http://streamprostk.com:2082/zcenter57/10072019/53387
