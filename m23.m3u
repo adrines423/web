@@ -1469,108 +1469,121 @@ http://gyzgmjtm.mhubery.xyz:80/34FZJ249/NGLB3NLU/1202
 
 
 
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="Movistar Liga Tvp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ LaLiga Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/105868
-
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="Movistar Liga Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ LaLiga Stp
-http://streamprostk.com:2082/zcenter57/10072019/105868
-
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn HD
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Org" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Org
 http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Stp
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="ESPN Arg" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Arg Vg2
+http://live.lion25.online/live/2b5b2117/gHcA3153/264905.m3u8
+
+#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Liga" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Liga 104
+http://104.238.222.251:8989/281187_.m3u8
+
+#EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="Espn",M+ LaLiga 172
+http://172.93.102.112:8989/278844_.m3u8
+
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA HD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="Espn",M+ LaLiga Vg2 Hd
+http://live.lion25.online/live/2b5b2117/gHcA3153/505618.m3u8
+
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA HD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="Espn",M+ LaLiga Vg2 Fhd
+http://live.lion25.online/live/2b5b2117/gHcA3153/718917.m3u8
+
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA HD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="Espn",M+ LaLiga Vg2 Bk1
+http://live.lion25.online/live/2b5b2117/gHcA3153/864079.m3u8
+
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA HD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="Espn",M+ LaLiga Vg2 Bk2
+http://live.lion25.online/live/2b5b2117/gHcA3153/864080.m3u8
+
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA HD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="Espn",M+ LaLiga1 Vg2 Fhd
+http://live.lion25.online/live/2b5b2117/gHcA3153/718914.m3u8
+
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA HD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="Espn",M+ LaLiga1 Vg2 Hd
+http://live.lion25.online/live/2b5b2117/gHcA3153/505621.m3u8
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones Vg2
+http://live.lion25.online/live/2b5b2117/gHcA3153/1196430.m3u8
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones Vg2 Lw
+http://live.lion25.online/live/2b5b2117/gHcA3153/1196427.m3u8
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones Vg2 Sd
+http://live.lion25.online/live/2b5b2117/gHcA3153/1196424.m3u8
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones Vg2 Uhd
+http://live.lion25.online/live/2b5b2117/gHcA3153/1196401.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Espn",L. Campeones 172
+http://172.93.102.112:8989/278845_.m3u8
+
+#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn Stp",Espn Deportes Stp
 http://streamprostk.com:2082/zcenter57/10072019/53387
 
-#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Dep. Tvp" tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="Espn",Espn Deportes Tvp
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Dep. Tvp" tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="Espn Tvp",Espn Deportes Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/53387
 
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Extra Stp" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra Stp
-http://streamprostk.com:2082/zcenter57/10072019/50010
-
-#EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Extra Tvp" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/50010
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Espn",Espn Arg 1 Tvp
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Espn Tvp",Espn Arg 1 Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/51154
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Espn",Espn Arg 1 Stp
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Espn Stp",Espn Arg 1 Stp
 http://streamprostk.com:2082/zcenter57/10072019/51154
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn",Espn P. Arg Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/6463
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn",Espn P. Arg Stp
-http://streamprostk.com:2082/zcenter57/10072019/6463
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn",Espn P. Arg HD Tvp
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn Tvp",Espn P. Arg HD Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/3085
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn",Espn P. Arg HD Stp
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn Premium Argentina HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="Espn Stp",Espn P. Arg HD Stp
 http://streamprostk.com:2082/zcenter57/10072019/3085
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Espn",Espn 1 Lat Tvp
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Espn Tvp",Espn 1 Lat Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/53419
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Espn",Espn 1 Lat Stp
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Espn Stp",Espn 1 Lat Stp
 http://streamprostk.com:2082/zcenter57/10072019/53419
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="Espn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/54070
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="Espn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Espn",Espn Extra Stp
-http://streamprostk.com:2082/zcenter57/10072019/54070
-
-#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Liga Tvp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Liga Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/81708
-
-#EXTINF:-1 tvg-ID="Sky Sports 16" tvg-name="Sky Liga Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" group-title="Espn",Sky Liga Stp
-http://streamprostk.com:2082/zcenter57/10072019/81708
-
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Movistar Vamos Tvp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Espn",Movistar Vamos Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/30360
-
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Movistar Vamos Stp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Espn",Movistar Vamos Stp
-http://streamprostk.com:2082/zcenter57/10072019/30360
-
-#EXTINF:-1 tvg-ID="Dazn  F1 HD" tvg-name="Dazn  F1 Tvp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Espn",Dazn F1 Tvp
-http://tvpremiund.ddns.me:2082/stellar269/johatemu269/82189
-
-#EXTINF:-1 tvg-ID="Dazn  F1 HD" tvg-name="Dazn  F1 Stp" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Espn",Dazn F1 Stp
-http://streamprostk.com:2082/zcenter57/10072019/82189
-
-#EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Cine y Series *",AXN MOVIES Tvp
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Varios",AXN MOVIES Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/29513
 
-#EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Cine y Series *",AXN MOVIES Stp
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Varios",AXN MOVIES Stp
 http://streamprostk.com:2082/zcenter57/10072019/29513
 
-#EXTINF:-1 tvg-id="Somos" tvg-name="Somos HD" tvg-logo="https://lo1.in/sp/Somos.png" group-title="Cine y Series *",Somos Op.1
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos HD" tvg-logo="https://lo1.in/sp/Somos.png" group-title="Varios",Somos Op.1
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/317548
 
-#EXTINF:-1 tvg-id="Somos" tvg-name="Somos HD" tvg-logo="https://lo1.in/sp/Somos.png" group-title="Cine y Series *",Somos Op.2
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos HD" tvg-logo="https://lo1.in/sp/Somos.png" group-title="Varios",Somos Op.2
 http://appgigi1.top:8080/ARvsN5PUZMfG/mxfNHX7y7kt7/395902
 
 
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Documentales *",NATIONAL GEOGRAPHIC Tvp
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Varios",NATIONAL GEOGRAPHIC Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/30611
 
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Documentales *",NATIONAL GEOGRAPHIC Stp
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Varios",NATIONAL GEOGRAPHIC Stp
 http://streamprostk.com:2082/zcenter57/10072019/30611
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Documentales *",NAT GEO WILD Tvp
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2466
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Documentales *",NAT GEO WILD Stp
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD Stp
 http://streamprostk.com:2082/zcenter57/10072019/2466
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Documentales *",NAT GEO WILD FHD Tvp
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD FHD Tvp
 http://tvpremiund.ddns.me:2082/stellar269/johatemu269/2692
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Documentales *",NAT GEO WILD FHD Stp
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="Varios",NAT GEO WILD FHD Stp
 http://streamprostk.com:2082/zcenter57/10072019/2692
+
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="Sol Música" tvg-logo="https://lo1.in/sp/Sol Musica.png" group-title="Varios",SOL MUSICA
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
 
 
 
