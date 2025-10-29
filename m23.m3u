@@ -1475,6 +1475,10 @@ http://45.71.254.1:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="Espn Dep. Org" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" group-title="Espn",Espn Deportes Org
 http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Vivo https://cdn01.oplay.tv/espn/index.m3u8
+
+
+
 #EXTINF:-1 tvg-ID="ESPN Deportes" tvg-name="ESPN Arg" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="Espn",Espn Arg Vg2
 http://live.lion25.online/live/2b5b2117/gHcA3153/264905.m3u8
 
