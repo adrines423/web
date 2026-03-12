@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Launch Framework</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:'Inter',sans-serif;
+background:#000;
+color:white;
+overflow-x:hidden;
+}
+
+
+/* FOR MOBILE */
+
+@media(max-width:768px){
+
+.video-frame iframe{
+width:100%;
+height:220px;
+}
+
+.checklist{
+font-size:18px;
+text-align:left;
+}
+
+}
+
+
+
+/* STAR CANVAS */
+
+#stars{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+z-index:-1;
+}
+
+/* HERO */
+
+.hero{
+min-height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+padding:40px;
+}
+
+.hero h1{
+font-family:'Orbitron';
+font-size:70px;
+color:#ffc107;
+line-height:1.1;
+text-shadow:0 0 20px rgba(255,150,0,0.7);
+}
+
+.subtitle{
+margin-top:25px;
+font-size:22px;
+color:#ccc;
+}
+
+.subtitle span{
+color:#ff4444;
+}
+
+/* COUNTDOWN */
+
+.countdown{
+display:flex;
+justify-content:center;
+gap:30px;
+margin-top:70px;
+flex-wrap:wrap;
+}
+
+.box{
+background:rgba(0,0,0,0.6);
+backdrop-filter:blur(8px);
+padding:35px;
+border-radius:15px;
+width:160px;
+box-shadow:0 0 40px rgba(255,120,0,0.4);
+}
+
+.number{
+font-family:'Orbitron';
+font-size:55px;
+color:#ffa500;
+}
+
+.label{
+margin-top:8px;
+letter-spacing:2px;
+font-size:13px;
+color:#aaa;
+}
+
+/* CTA */
+
+.cta{
+margin-top:90px;
+background:rgba(20,0,0,0.6);
+padding:50px;
+border-radius:20px;
+box-shadow:0 0 60px rgba(255,60,0,0.4);
+}
+
+.cta h2{
+font-size:32px;
+margin-bottom:15px;
+}
+
+.cta p{
+color:#bbb;
+margin-bottom:25px;
+}
+
+button{
+padding:18px 35px;
+border-radius:12px;
+border:none;
+font-size:16px;
+font-weight:600;
+cursor:pointer;
+background:linear-gradient(90deg,#ff3c3c,#ff9900);
+color:white;
+box-shadow:0 0 20px rgba(255,100,0,0.8);
+transition:0.3s;
+}
+
+button:hover{
+transform:scale(1.05);
+}
+
+/* ROCKET */
+
+.rocket{
+position:fixed;
+bottom:-150px;
+right:40px;
+font-size:60px;
+transition:transform 1s ease-out;
+}
+
+/* SECTION */
+
+.section{
+height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:40px;
+text-align:center;
+color:#ddd;
+}
+
+/* VIDEO SECTION */
+
+.video-section{
+margin-top:80px;
+display:flex;
+flex-direction:column;
+align-items:center;
+gap:40px;
+}
+
+/* MARCO NARANJA DIFUMINADO */
+
+.video-frame{
+padding:10px;
+border-radius:24px;
+background:linear-gradient(45deg,#ff7a00,#ffb347,#ff7a00);
+box-shadow:
+0 0 30px rgba(255,140,0,0.9),
+0 0 60px rgba(255,120,0,0.7),
+0 0 120px rgba(255,100,0,0.6);
+
+width:90%;
+max-width:900px;
+}
+
+/* CONTENEDOR RESPONSIVE 16:9 */
+
+.video-container{
+position:relative;
+width:100%;
+padding-bottom:56.25%;
+height:0;
+overflow:hidden;
+border-radius:18px;
+}
+
+.video-container iframe{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+}
+
+/* CHECKLIST */
+
+.checklist{
+display:flex;
+flex-direction:column;
+gap:18px;
+font-size:20px;
+}
+
+.check-item{
+display:flex;
+align-items:center;
+gap:15px;
+color:#ddd;
+}
+
+.check{
+color:#ff8c00;
+font-size:28px;
+text-shadow:0 0 10px rgba(255,140,0,0.8);
+}
+
+/* MEJORA MOBILE TITULO */
+
+.hero{
+padding-left:20px;
+padding-right:20px;
+}
+
+.hero h1{
+max-width:900px;
+margin:auto;
+}
+
+/* AJUSTE MOVIL */
+
+@media (max-width:768px){
+
+.hero h1{
+font-size:42px;
+line-height:1.15;
+padding:0 10px;
+}
+
+.subtitle{
+padding:0 15px;
+font-size:18px;
+}
+
+}
+
+</style>
+</head>
+
+<body>
+
+<canvas id="stars"></canvas>
+
+<div class="rocket" id="rocket">🚀</div>
+
+<section class="hero">
+
+<div>
+
+<h1>
+INICIANDO CUENTA ATRÁS<br>
+PARA EL DESPEGUE
+</h1>
+
+<p class="subtitle">
+El <b>Framework</b> que cambiará tu órbita digital.<br>
+Preparando motores para <span>lanzarte al infinito</span>.
+</p>
+
+<div class="countdown">
+
+<div class="box">
+<div id="days" class="number">0</div>
+<div class="label">DÍAS</div>
+</div>
+
+<div class="box">
+<div id="hours" class="number">0</div>
+<div class="label">HORAS</div>
+</div>
+
+<div class="box">
+<div id="minutes" class="number">0</div>
+<div class="label">MINUTOS</div>
+</div>
+
+<div class="box">
+<div id="seconds" class="number">0</div>
+<div class="label">SEGUNDOS</div>
+</div>
+
+</div>
+
+<!-- VIDEO SECTION -->
+
+<div class="video-section">
+
+<div class="video-frame">
+
+<div class="video-container">
+
+<iframe
+src="https://www.youtube.com/embed/tnx7uwiz7eI?rel=0&modestbranding=1&playsinline=1"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+</div>
+
+</div>
+
+<!-- CHECKLIST -->
+
+<div class="checklist">
+
+<div class="check-item">
+<span class="check">✔</span>
+Te regalamos un coca-cola
+</div>
+
+<div class="check-item">
+<span class="check">✔</span>
+Un viaje a Cancún
+</div>
+
+<div class="check-item">
+<span class="check">✔</span>
+Un ferrari con una rubia dentro
+</div>
+
+</div>
+
+</div>
+
+
+
+
+<div class="cta">
+
+<h2>Reserva tu Asiento</h2>
+
+<p>Únete al canal privado para recibir las coordenadas del lanzamiento.</p>
+
+<button onclick="whatsapp()">
+RESERVAR MI PLAZA EN LA NAVE
+</button>
+
+</div>
+
+</div>
+
+</section>
+
+
+<script>
+
+/* COUNTDOWN */
+
+const target = new Date("April 16, 2026 00:00:00").getTime();
+
+function updateCountdown(){
+
+const now = new Date().getTime();
+const diff = target - now;
+
+const days = Math.floor(diff/(1000*60*60*24));
+const hours = Math.floor((diff%(1000*60*60*24))/(1000*60*60));
+const minutes = Math.floor((diff%(1000*60*60))/(1000*60));
+const seconds = Math.floor((diff%(1000*60))/1000);
+
+document.getElementById("days").innerText = days;
+document.getElementById("hours").innerText = hours;
+document.getElementById("minutes").innerText = minutes;
+document.getElementById("seconds").innerText = seconds;
+
+}
+
+setInterval(updateCountdown,1000);
+
+
+/* WHATSAPP */
+
+function whatsapp(){
+
+const phone = "34616943398";
+const text = "Quiero mas informacion sobre el curso";
+
+window.open(`https://wa.me/${phone}?text=${encodeURIComponent(text)}`,"_blank");
+
+}
+
+
+/* ROCKET SCROLL */
+
+window.addEventListener("scroll",()=>{
+
+const rocket = document.getElementById("rocket");
+const scroll = window.scrollY;
+
+rocket.style.transform = `translateY(${-scroll*0.8}px)`;
+
+});
+
+
+/* STARS */
+
+const canvas = document.getElementById("stars");
+const ctx = canvas.getContext("2d");
+
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+let stars = [];
+
+for(let i=0;i<300;i++){
+
+stars.push({
+x:Math.random()*canvas.width,
+y:Math.random()*canvas.height,
+size:Math.random()*2
+})
+
+}
+
+function animate(){
+
+ctx.clearRect(0,0,canvas.width,canvas.height);
+
+ctx.fillStyle="white";
+
+stars.forEach(s=>{
+
+ctx.beginPath();
+ctx.arc(s.x,s.y,s.size,0,Math.PI*2);
+ctx.fill();
+
+s.y +=0.2;
+
+if(s.y>canvas.height){
+s.y=0;
+}
+
+})
+
+requestAnimationFrame(animate);
+
+}
+
+animate();
+
+</script>
+
+</body>
+</html>
