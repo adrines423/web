@@ -300,6 +300,70 @@ color:#ffa500;
 text-shadow:0 0 12px rgba(255,140,0,0.8);
 }
 
+.logo-container{
+display:flex;
+justify-content:center;
+margin-top:0px;
+margin-bottom:0px;
+}
+
+.logo-container img{
+width:520px;
+filter:drop-shadow(0 0 15px rgba(255,140,0,0.8));
+}
+
+.checklist-section{
+display:flex;
+flex-direction:column;
+align-items:center;
+margin-top:40px;
+}
+
+.checklist{
+max-width:700px;
+width:90%;
+display:flex;
+flex-direction:column;
+gap:28px;
+}
+
+.check-item{
+display:flex;
+align-items:flex-start;
+gap:15px;
+text-align:left;
+line-height:1.5;
+font-size:18px;
+}
+
+.check-item p{
+margin:0;
+}
+
+.check{
+color:#ff8c00;
+font-size:26px;
+margin-top:3px;
+text-shadow:0 0 10px rgba(255,140,0,0.8);
+}
+
+.check-item{
+opacity:0;
+transform:translateY(20px);
+animation:fadeIn 0.6s ease forwards;
+}
+
+.check-item:nth-child(1){animation-delay:0.2s;}
+.check-item:nth-child(2){animation-delay:0.4s;}
+.check-item:nth-child(3){animation-delay:0.6s;}
+
+@keyframes fadeIn{
+to{
+opacity:1;
+transform:translateY(0);
+}
+}
+
 </style>
 </head>
 
@@ -312,6 +376,12 @@ text-shadow:0 0 12px rgba(255,140,0,0.8);
 <section class="hero">
 
 <div>
+
+<div class="logo-container">
+<img src="https://adrines423.github.io/web/Logo-oaf.png" alt="Logo OAF">
+</div>
+
+
 
 <h1>
 INICIANDO CUENTA ATRÁS<br>
@@ -372,32 +442,38 @@ allowfullscreen>
 <div class="checklist-section">
 
 <h3 class="checklist-title">
-Lo que vas a descubrir en este Webinar:
+🔥 Lo que vas a descubrir en este Webinar:
 </h3>
 
 <div class="checklist">
 
 <div class="check-item">
 <span class="check">✔</span>
-Te regalamos un coca-cola
+<p>
+<b>Monetiza tu pasión</b><br>
+Cómo identificar lo que ya sabes hacer y empaquetarlo en una oferta digital que el mercado esté deseando comprar, aunque ahora mismo no sepas ni por dónde empezar.
+</p>
 </div>
 
 <div class="check-item">
 <span class="check">✔</span>
-Un viaje a Cancún
+<p>
+<b>Construye tu marca digital</b><br>
+El sistema para construir tu presencia online partiendo de cero absoluto, atrayendo a las personas adecuadas sin necesidad de tener seguidores ni experiencia previa en ventas.
+</p>
 </div>
 
 <div class="check-item">
 <span class="check">✔</span>
-Un ferrari con una rubia dentro
+<p>
+<b>Haz que el dinero trabaje para ti</b><br>
+<b>Cómo diseñar una infraestructura digital que funcione de forma automática, permitiéndote gestionar tu tiempo y escalar tu impacto aunque no tengas conocimientos técnicos previos.</b>
+</p>
 </div>
 
 </div>
 
 </div>
-
-</div>
-
 
 
 
