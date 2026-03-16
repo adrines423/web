@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Launch Framework</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:'Inter',sans-serif;
+background:#000;
+color:white;
+overflow-x:hidden;
+}
+
+/* STAR CANVAS */
+
+#stars{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+z-index:-1;
+}
+
+/* HERO */
+
+.hero{
+min-height:100svh;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+padding:20px 16px;
+}
+
+.hero > div{
+max-width:420px;
+display:flex;
+flex-direction:column;
+gap:16px;
+margin:auto;
+}
+
+/* TITULO */
+
+.hero h1{
+font-family:'Orbitron';
+font-size:clamp(30px,7vw,36px);
+color:#ffc107;
+line-height:1.15;
+text-shadow:0 0 20px rgba(255,150,0,0.7);
+}
+
+/* SUBTITULO */
+
+.subtitle{
+font-size:clamp(16px,4.5vw,18px);
+line-height:1.35;
+color:#ccc;
+padding:0 6px;
+}
+
+.subtitle span{
+color:#ff4444;
+}
+
+/* VIDEO */
+
+.video-frame{
+width:78%;
+margin:auto;
+padding:2px;
+border-radius:20px;
+background:linear-gradient(25deg,#ff7a00,#ffb347,#ff7a00);
+
+box-shadow:
+0 0 6px rgba(255,140,0,0.7),
+0 0 14px rgba(255,120,0,0.6);
+}
+
+.video-container{
+position:relative;
+width:100%;
+padding-bottom:56.25%;
+height:0;
+overflow:hidden;
+border-radius:18px;
+}
+
+.video-container iframe{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+}
+
+/* COUNTDOWN */
+
+.countdown{
+display:flex;
+justify-content:center;
+gap:8px;
+margin-top:4px;
+}
+
+.box{
+background:rgba(0,0,0,0.6);
+backdrop-filter:blur(8px);
+padding:10px 6px;
+border-radius:14px;
+width:22%;
+
+box-shadow:
+0 0 10px rgba(255,120,0,0.35);
+}
+
+.number{
+font-family:'Orbitron';
+font-size:22px;
+color:#ffa500;
+}
+
+.label{
+font-size:9px;
+letter-spacing:1px;
+color:#aaa;
+}
+
+/* CTA */
+
+.cta{
+margin-top:6px;
+background:rgba(20,0,0,0.6);
+padding:18px 16px;
+border-radius:16px;
+
+box-shadow:
+0 0 18px rgba(255,80,0,0.35);
+}
+
+.cta h2{
+font-size:18px;
+margin-bottom:6px;
+}
+
+.cta p{
+font-size:16px;
+margin-bottom:10px;
+color:#bbb;
+}
+
+button{
+padding:12px 20px;
+border-radius:10px;
+border:none;
+font-size:14px;
+font-weight:600;
+cursor:pointer;
+background:linear-gradient(90deg,#ff3c3c,#ff9900);
+color:white;
+
+box-shadow:0 0 15px rgba(255,100,0,0.8);
+transition:0.3s;
+}
+
+button:hover{
+transform:scale(1.05);
+}
+
+/* CHECKLIST SECTION */
+
+.video-section{
+margin-top:35px;
+display:flex;
+flex-direction:column;
+align-items:center;
+gap:30px;
+}
+
+.checklist-title{
+font-size:26px;
+margin-bottom:20px;
+text-align:center;
+color:#ffa500;
+text-shadow:0 0 12px rgba(255,140,0,0.8);
+}
+
+.checklist{
+max-width:700px;
+width:90%;
+display:flex;
+flex-direction:column;
+gap:24px;
+}
+
+.check-item{
+display:flex;
+align-items:flex-start;
+gap:14px;
+text-align:left;
+line-height:1.5;
+font-size:18px;
+opacity:0;
+transform:translateY(20px);
+animation:fadeIn 0.6s ease forwards;
+}
+
+.check{
+color:#ff8c00;
+font-size:26px;
+margin-top:3px;
+text-shadow:0 0 10px rgba(255,140,0,0.8);
+}
+
+.check-item:nth-child(1){animation-delay:0.2s;}
+.check-item:nth-child(2){animation-delay:0.4s;}
+.check-item:nth-child(3){animation-delay:0.6s;}
+
+.check-item b{
+font-size:1.15em;
+color:#ffffff;
+}
+
+@keyframes fadeIn{
+to{
+opacity:1;
+transform:translateY(0);
+}
+}
+
+/* LOGO FINAL */
+
+.logo-container{
+display:flex;
+justify-content:center;
+margin-top:40px;
+margin-bottom:20px;
+}
+
+.logo-container img{
+width:35%;
+max-width:120px;
+min-width:70px;
+filter:drop-shadow(0 0 15px rgba(255,140,0,0.8));
+}
+
+/* ROCKET */
+
+.rocket{
+position:fixed;
+bottom:-150px;
+right:40px;
+font-size:60px;
+transition:transform 1s ease-out;
+}
+
+@keyframes pulseButton{
+
+0%{
+transform:scale(1);
+box-shadow:0 0 15px rgba(255,100,0,0.6);
+}
+
+50%{
+transform:scale(1.05);
+box-shadow:0 0 30px rgba(255,120,0,0.9);
+}
+
+100%{
+transform:scale(1);
+box-shadow:0 0 15px rgba(255,100,0,0.6);
+}
+
+}
+
+.cta button{
+animation:pulseButton 3.5s infinite;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<canvas id="stars"></canvas>
+
+<div class="rocket" id="rocket">🚀</div>
+
+<section class="hero">
+
+<div>
+
+<h1>
+INICIANDO CUENTA ATRÁS<br>
+PARA EL DESPEGUE
+</h1>
+
+<p class="subtitle">
+El <b>Framework</b> que cambiará tu órbita digital.<br>
+Preparando motores para <span>lanzarte al infinito</span>.
+</p>
+
+<div class="video-frame">
+<div class="video-container">
+
+<iframe
+src="https://www.youtube.com/embed/tnx7uwiz7eI?rel=0&modestbranding=1&playsinline=1"
+title="YouTube video player"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+</div>
+</div>
+
+<div class="countdown">
+
+<div class="box">
+<div id="days" class="number">0</div>
+<div class="label">DÍAS</div>
+</div>
+
+<div class="box">
+<div id="hours" class="number">0</div>
+<div class="label">HORAS</div>
+</div>
+
+<div class="box">
+<div id="minutes" class="number">0</div>
+<div class="label">MINUTOS</div>
+</div>
+
+<div class="box">
+<div id="seconds" class="number">0</div>
+<div class="label">SEGUNDOS</div>
+</div>
+
+</div>
+
+<div class="cta">
+
+<h2>Reserva tu Asiento</h2>
+
+<p>Únete al canal privado para recibir las coordenadas del lanzamiento.</p>
+
+<button onclick="whatsapp()">
+RESERVAR MI PLAZA EN LA NAVE
+</button>
+
+</div>
+
+<div class="video-section">
+
+<h3 class="checklist-title">
+🔥 Lo que vas a descubrir en este Webinar:
+</h3>
+
+<div class="checklist">
+
+<div class="check-item">
+<span class="check">✔</span>
+<p>
+<b>Monetiza tu pasión</b><br>
+Cómo identificar lo que ya sabes hacer y empaquetarlo en una oferta digital que el mercado esté deseando comprar, aunque ahora mismo no sepas ni por dónde empezar.
+</p>
+</div>
+
+<div class="check-item">
+<span class="check">✔</span>
+<p>
+<b>Construye tu marca digital</b><br>
+El sistema para construir tu presencia online partiendo de cero absoluto, atrayendo a las personas adecuadas sin necesidad de tener seguidores ni experiencia previa en ventas.
+</p>
+</div>
+
+<div class="check-item">
+<span class="check">✔</span>
+<p>
+<b>Haz que el dinero trabaje para ti</b><br>
+Cómo diseñar una infraestructura digital que funcione de forma automática, permitiéndote gestionar tu tiempo y escalar tu impacto aunque no tengas conocimientos técnicos previos.
+</p>
+</div>
+
+</div>
+</div>
+
+</div>
+
+</section>
+
+<div class="logo-container">
+<img src="https://adrines423.github.io/web/Logo-oaf.png" alt="Logo OAF">
+</div>
+
+<script>
+
+const target = new Date("April 11, 2026 00:00:00").getTime();
+
+function updateCountdown(){
+
+const now = new Date().getTime();
+const diff = target - now;
+
+const days = Math.floor(diff/(1000*60*60*24));
+const hours = Math.floor((diff%(1000*60*60*24))/(1000*60*60));
+const minutes = Math.floor((diff%(1000*60*60))/(1000*60));
+const seconds = Math.floor((diff%(1000*60))/1000);
+
+document.getElementById("days").innerText = days;
+document.getElementById("hours").innerText = hours;
+document.getElementById("minutes").innerText = minutes;
+document.getElementById("seconds").innerText = seconds;
+
+}
+
+setInterval(updateCountdown,1000);
+
+function whatsapp(){
+
+const phone = "34616943398";
+const text = "Quiero mas informacion sobre el curso";
+
+window.open(`https://wa.me/${phone}?text=${encodeURIComponent(text)}`,"_blank");
+
+}
+
+window.addEventListener("scroll",()=>{
+
+const rocket = document.getElementById("rocket");
+const scroll = window.scrollY;
+
+rocket.style.transform = `translateY(${-scroll*0.8}px)`;
+
+});
+
+const canvas = document.getElementById("stars");
+const ctx = canvas.getContext("2d");
+
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+let stars = [];
+
+for(let i=0;i<300;i++){
+
+stars.push({
+x:Math.random()*canvas.width,
+y:Math.random()*canvas.height,
+size:Math.random()*2
+})
+
+}
+
+function animate(){
+
+ctx.clearRect(0,0,canvas.width,canvas.height);
+
+ctx.fillStyle="white";
+
+stars.forEach(s=>{
+
+ctx.beginPath();
+ctx.arc(s.x,s.y,s.size,0,Math.PI*2);
+ctx.fill();
+
+s.y +=0.2;
+
+if(s.y>canvas.height){
+s.y=0;
+}
+
+})
+
+requestAnimationFrame(animate);
+
+}
+
+animate();
+
+</script>
+
+</body>
+</html>
