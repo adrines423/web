@@ -1,0 +1,32 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
+
+#EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="Documentales",Historia
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/713
+
+#EXTINF:-1 tvg-ID="Odisea" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="Documentales",Odisea
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/710
+
+#EXTINF:-1 tvg-ID="Discovery" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="Documentales",Discovery
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/708
+
+#EXTINF:-1 tvg-ID="M+ Documentales HD" tvg-name="M+ Documentales HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="Documentales",M+ Documentales
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/87108
+
+#EXTINF:-1 tvg-ID="BuenViaje" tvg-name="Buen Viaje" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png" group-title="Documentales",Buen Viaje
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/60251
+
+#EXTINF:-1 tvg-ID="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="Documentales",Nat. Geographic
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/711
+
+#EXTINF:-1 tvg-ID="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="Documentales",Nat. Geo. Wild
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/712
+
+#EXTINF:-1 tvg-ID="DKISS" tvg-name="DKISS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" group-title="Documentales",Dkiss
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/748
+
+#EXTINF:-1 tvg-ID="DMAX" tvg-name="Dmax" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" group-title="Documentales",Dmax
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/709
+
+#EXTINF:-1 tvg-ID="AMC Crime" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="Documentales",AMC Crime
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/707
+
